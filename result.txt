@@ -1,0 +1,2184 @@
+     Best move:  [add to 06], score: 210.0 Depth 12 our side
+Not updated [add to 11] Best move:  [add to 06], score: 210.0 Depth 12 side 1 Score 90.0
+Not updated [add to 16] Best move:  [add to 06], score: 210.0 Depth 12 side 1 Score 180.0
+     Best move:  [add to 21], score: 220.0 Depth 12 our side
+Not updated [add to 26] Best move:  [add to 21], score: 220.0 Depth 12 side 1 Score 100.0
+Not updated [add to 31] Best move:  [add to 21], score: 220.0 Depth 12 side 1 Score 70.0
+Not updated [add to 36] Best move:  [add to 21], score: 220.0 Depth 12 side 1 Score 180.0
+     Best move:  [add to 41], score: 220.0 Depth 12 our side
+Not updated [add to 42] Best move:  [add to 41], score: 220.0 Depth 12 side 1 Score -90.0
+     Best move:  [add to 43], score: 240.0 Depth 12 our side
+Not updated [add to 44] Best move:  [add to 43], score: 240.0 Depth 12 side 1 Score 190.0
+     Best move:  [add to 45], score: 320.0 Depth 12 our side
+Not updated [add to 51] Best move:  [add to 45], score: 320.0 Depth 12 side 1 Score -90.0
+Not updated [add to 52] Best move:  [add to 45], score: 320.0 Depth 12 side 1 Score 10.0
+Not updated [add to 53] Best move:  [add to 45], score: 320.0 Depth 12 side 1 Score 190.0
+Not updated [add to 54] Best move:  [add to 45], score: 320.0 Depth 12 side 1 Score -80.0
+Not updated [add to 61] Best move:  [add to 45], score: 320.0 Depth 12 side 1 Score 70.0
+Not updated [add to 62] Best move:  [add to 45], score: 320.0 Depth 12 side 1 Score 10.0
+Not updated [add to 64] Best move:  [add to 45], score: 320.0 Depth 12 side 1 Score -120.0
+Not updated [add to 65] Best move:  [add to 45], score: 320.0 Depth 12 side 1 Score -30.0
+Not updated [add to 66] Best move:  [add to 45], score: 320.0 Depth 12 side 1 Score -30.0
+Not updated [add to 71] Best move:  [add to 45], score: 320.0 Depth 12 side 1 Score 70.0
+Not updated [add to 72] Best move:  [add to 45], score: 320.0 Depth 12 side 1 Score 10.0
+Not updated [add to 73] Best move:  [add to 45], score: 320.0 Depth 12 side 1 Score -30.0
+Not updated [add to 74] Best move:  [add to 45], score: 320.0 Depth 12 side 1 Score -80.0
+Not updated [add to 75] Best move:  [add to 45], score: 320.0 Depth 12 side 1 Score -30.0
+Not updated [add to 76] Best move:  [add to 45], score: 320.0 Depth 12 side 1 Score -30.0
+     Best move:  [add to 10], score: 320.0 Depth 11 opponent side
+     Best move:  [add to 06], score: 210.0 Depth 12 our side
+Not updated [add to 16] Best move:  [add to 06], score: 210.0 Depth 12 side 1 Score 180.0
+Not updated [add to 21] Best move:  [add to 06], score: 210.0 Depth 12 side 1 Score -60.0
+Not updated [add to 26] Best move:  [add to 06], score: 210.0 Depth 12 side 1 Score 100.0
+Not updated [add to 31] Best move:  [add to 06], score: 210.0 Depth 12 side 1 Score -30.0
+Not updated [add to 36] Best move:  [add to 06], score: 210.0 Depth 12 side 1 Score 180.0
+Not updated [add to 41] Best move:  [add to 06], score: 210.0 Depth 12 side 1 Score -60.0
+Not updated [add to 42] Best move:  [add to 06], score: 210.0 Depth 12 side 1 Score -90.0
+     Best move:  [add to 43], score: 240.0 Depth 12 our side
+Not updated [add to 44] Best move:  [add to 43], score: 240.0 Depth 12 side 1 Score -50.0
+     Best move:  [add to 45], score: 320.0 Depth 12 our side
+     Best move:  [add to 11], score: 320.0 Depth 11 opponent side
+     Best move:  [add to 06], score: -70.0 Depth 12 our side
+Not updated [add to 11] Best move:  [add to 06], score: -70.0 Depth 12 side 1 Score -310.0
+Not updated [add to 16] Best move:  [add to 06], score: -70.0 Depth 12 side 1 Score -100.0
+Not updated [add to 21] Best move:  [add to 06], score: -70.0 Depth 12 side 1 Score -860.0
+Not updated [add to 26] Best move:  [add to 06], score: -70.0 Depth 12 side 1 Score -180.0
+Not updated [add to 31] Best move:  [add to 06], score: -70.0 Depth 12 side 1 Score -330.0
+Not updated [add to 36] Best move:  [add to 06], score: -70.0 Depth 12 side 1 Score -100.0
+Not updated [add to 41] Best move:  [add to 06], score: -70.0 Depth 12 side 1 Score -180.0
+Not updated [add to 42] Best move:  [add to 06], score: -70.0 Depth 12 side 1 Score -370.0
+     Best move:  [add to 43], score: -40.0 Depth 12 our side
+Not updated [add to 44] Best move:  [add to 43], score: -40.0 Depth 12 side 1 Score -90.0
+Not updated [add to 45] Best move:  [add to 43], score: -40.0 Depth 12 side 1 Score -240.0
+Not updated [add to 51] Best move:  [add to 43], score: -40.0 Depth 12 side 1 Score -490.0
+Not updated [add to 52] Best move:  [add to 43], score: -40.0 Depth 12 side 1 Score -270.0
+Not updated [add to 53] Best move:  [add to 43], score: -40.0 Depth 12 side 1 Score -90.0
+Not updated [add to 54] Best move:  [add to 43], score: -40.0 Depth 12 side 1 Score -360.0
+Not updated [add to 61] Best move:  [add to 43], score: -40.0 Depth 12 side 1 Score -330.0
+Not updated [add to 62] Best move:  [add to 43], score: -40.0 Depth 12 side 1 Score -270.0
+Not updated [add to 64] Best move:  [add to 43], score: -40.0 Depth 12 side 1 Score -400.0
+Not updated [add to 65] Best move:  [add to 43], score: -40.0 Depth 12 side 1 Score -310.0
+Not updated [add to 66] Best move:  [add to 43], score: -40.0 Depth 12 side 1 Score -310.0
+Not updated [add to 71] Best move:  [add to 43], score: -40.0 Depth 12 side 1 Score -330.0
+Not updated [add to 72] Best move:  [add to 43], score: -40.0 Depth 12 side 1 Score -270.0
+Not updated [add to 73] Best move:  [add to 43], score: -40.0 Depth 12 side 1 Score -310.0
+Not updated [add to 74] Best move:  [add to 43], score: -40.0 Depth 12 side 1 Score -360.0
+Not updated [add to 75] Best move:  [add to 43], score: -40.0 Depth 12 side 1 Score -310.0
+Not updated [add to 76] Best move:  [add to 43], score: -40.0 Depth 12 side 1 Score -310.0
+     Best move:  [add to 12], score: -40.0 Depth 11 opponent side
+     Best move:  [add to 06], score: -70.0 Depth 12 our side
+Not updated [add to 11] Best move:  [add to 06], score: -70.0 Depth 12 side 1 Score -190.0
+Not updated [add to 16] Best move:  [add to 06], score: -70.0 Depth 12 side 1 Score -100.0
+Not updated [add to 21] Best move:  [add to 06], score: -70.0 Depth 12 side 1 Score -180.0
+Not updated [add to 26] Best move:  [add to 06], score: -70.0 Depth 12 side 1 Score -180.0
+Not updated [add to 31] Best move:  [add to 06], score: -70.0 Depth 12 side 1 Score -210.0
+Not updated [add to 36] Best move:  [add to 06], score: -70.0 Depth 12 side 1 Score -220.0
+     Best move:  [add to 41], score: -60.0 Depth 12 our side
+Not updated [add to 42] Best move:  [add to 41], score: -60.0 Depth 12 side 1 Score -370.0
+Not updated [add to 43] Best move:  [add to 41], score: -60.0 Depth 12 side 1 Score -190.0
+Not updated [add to 44] Best move:  [add to 41], score: -60.0 Depth 12 side 1 Score -90.0
+     Best move:  [add to 45], score: 40.0 Depth 12 our side
+Not updated [add to 13] Best move:  [add to 12], score: -40.0 Depth 11 side 0 Score 40.0
+     Best move:  [add to 06], score: 20.0 Depth 12 our side
+Not updated [add to 14] Best move:  [add to 12], score: -40.0 Depth 11 side 0 Score 20.0
+     Best move:  [add to 06], score: 90.0 Depth 12 our side
+Not updated [add to 15] Best move:  [add to 12], score: -40.0 Depth 11 side 0 Score 90.0
+     Best move:  [add to 06], score: 100.0 Depth 12 our side
+Not updated [add to 16] Best move:  [add to 12], score: -40.0 Depth 11 side 0 Score 100.0
+     Best move:  [add to 06], score: 210.0 Depth 12 our side
+Not updated [add to 17] Best move:  [add to 12], score: -40.0 Depth 11 side 0 Score 210.0
+     Best move:  [add to 06], score: 210.0 Depth 12 our side
+Not updated [add to 20] Best move:  [add to 12], score: -40.0 Depth 11 side 0 Score 210.0
+     Best move:  [add to 06], score: 210.0 Depth 12 our side
+Not updated [add to 21] Best move:  [add to 12], score: -40.0 Depth 11 side 0 Score 210.0
+     Best move:  [add to 06], score: 120.0 Depth 12 our side
+Not updated [add to 26] Best move:  [add to 12], score: -40.0 Depth 11 side 0 Score 120.0
+     Best move:  [add to 06], score: 150.0 Depth 12 our side
+Not updated [add to 27] Best move:  [add to 12], score: -40.0 Depth 11 side 0 Score 150.0
+     Best move:  [add to 06], score: 120.0 Depth 12 our side
+Not updated [add to 30] Best move:  [add to 12], score: -40.0 Depth 11 side 0 Score 120.0
+     Best move:  [add to 06], score: 210.0 Depth 12 our side
+Not updated [add to 31] Best move:  [add to 12], score: -40.0 Depth 11 side 0 Score 210.0
+     Best move:  [add to 06], score: 190.0 Depth 12 our side
+Not updated [add to 36] Best move:  [add to 12], score: -40.0 Depth 11 side 0 Score 190.0
+     Best move:  [add to 06], score: 370.0 Depth 12 our side
+Not updated [add to 37] Best move:  [add to 12], score: -40.0 Depth 11 side 0 Score 370.0
+     Best move:  [add to 06], score: 210.0 Depth 12 our side
+Not updated [add to 40] Best move:  [add to 12], score: -40.0 Depth 11 side 0 Score 210.0
+     Best move:  [add to 06], score: 150.0 Depth 12 our side
+Not updated [add to 41] Best move:  [add to 12], score: -40.0 Depth 11 side 0 Score 150.0
+     Best move:  [add to 06], score: 210.0 Depth 12 our side
+Not updated [add to 50] Best move:  [add to 12], score: -40.0 Depth 11 side 0 Score 210.0
+     Best move:  [add to 06], score: 60.0 Depth 12 our side
+Not updated [add to 51] Best move:  [add to 12], score: -40.0 Depth 11 side 0 Score 60.0
+     Best move:  [add to 06], score: -50.0 Depth 12 our side
+Not updated [add to 11] Best move:  [add to 06], score: -50.0 Depth 12 side 1 Score -170.0
+Not updated [add to 16] Best move:  [add to 06], score: -50.0 Depth 12 side 1 Score -80.0
+     Best move:  [add to 21], score: -40.0 Depth 12 our side
+     Best move:  [add to 52], score: -40.0 Depth 11 opponent side
+     Best move:  [add to 06], score: 130.0 Depth 12 our side
+Not updated [add to 53] Best move:  [add to 52], score: -40.0 Depth 11 side 0 Score 130.0
+     Best move:  [add to 06], score: 0.0 Depth 12 our side
+Not updated [add to 60] Best move:  [add to 52], score: -40.0 Depth 11 side 0 Score 0.0
+     Best move:  [add to 06], score: 30.0 Depth 12 our side
+Not updated [add to 61] Best move:  [add to 52], score: -40.0 Depth 11 side 0 Score 30.0
+     Best move:  [add to 06], score: 130.0 Depth 12 our side
+Not updated [add to 62] Best move:  [add to 52], score: -40.0 Depth 11 side 0 Score 130.0
+     Best move:  [add to 01], score: -40.0 Depth 10 our side
+     Best move:  [add to 06], score: 110.0 Depth 12 our side
+Not updated [add to 16] Best move:  [add to 06], score: 110.0 Depth 12 side 1 Score 80.0
+Not updated [add to 21] Best move:  [add to 06], score: 110.0 Depth 12 side 1 Score 30.0
+Not updated [add to 26] Best move:  [add to 06], score: 110.0 Depth 12 side 1 Score 30.0
+Not updated [add to 31] Best move:  [add to 06], score: 110.0 Depth 12 side 1 Score -90.0
+Not updated [add to 36] Best move:  [add to 06], score: 110.0 Depth 12 side 1 Score 80.0
+Not updated [add to 41] Best move:  [add to 06], score: 110.0 Depth 12 side 1 Score 30.0
+Not updated [add to 42] Best move:  [add to 06], score: 110.0 Depth 12 side 1 Score -190.0
+     Best move:  [add to 43], score: 110.0 Depth 12 our side
+Not updated [add to 44] Best move:  [add to 43], score: 110.0 Depth 12 side 1 Score 90.0
+Not updated [add to 45] Best move:  [add to 43], score: 110.0 Depth 12 side 1 Score -100.0
+Not updated [add to 51] Best move:  [add to 43], score: 110.0 Depth 12 side 1 Score -180.0
+Not updated [add to 52] Best move:  [add to 43], score: 110.0 Depth 12 side 1 Score -30.0
+Not updated [add to 53] Best move:  [add to 43], score: 110.0 Depth 12 side 1 Score 80.0
+Not updated [add to 54] Best move:  [add to 43], score: 110.0 Depth 12 side 1 Score -180.0
+Not updated [add to 61] Best move:  [add to 43], score: 110.0 Depth 12 side 1 Score -90.0
+Not updated [add to 62] Best move:  [add to 43], score: 110.0 Depth 12 side 1 Score -30.0
+Not updated [add to 64] Best move:  [add to 43], score: 110.0 Depth 12 side 1 Score -220.0
+Not updated [add to 65] Best move:  [add to 43], score: 110.0 Depth 12 side 1 Score -130.0
+Not updated [add to 66] Best move:  [add to 43], score: 110.0 Depth 12 side 1 Score -130.0
+Not updated [add to 71] Best move:  [add to 43], score: 110.0 Depth 12 side 1 Score -90.0
+Not updated [add to 72] Best move:  [add to 43], score: 110.0 Depth 12 side 1 Score -30.0
+Not updated [add to 73] Best move:  [add to 43], score: 110.0 Depth 12 side 1 Score -130.0
+Not updated [add to 74] Best move:  [add to 43], score: 110.0 Depth 12 side 1 Score -180.0
+Not updated [add to 75] Best move:  [add to 43], score: 110.0 Depth 12 side 1 Score -130.0
+Not updated [add to 76] Best move:  [add to 43], score: 110.0 Depth 12 side 1 Score -130.0
+     Best move:  [add to 10], score: 110.0 Depth 11 opponent side
+     Best move:  [add to 06], score: 110.0 Depth 12 our side
+     Best move:  [add to 11], score: 110.0 Depth 11 opponent side
+     Best move:  [add to 06], score: 110.0 Depth 12 our side
+     Best move:  [add to 12], score: 110.0 Depth 11 opponent side
+     Best move:  [add to 06], score: -70.0 Depth 12 our side
+Not updated [add to 16] Best move:  [add to 06], score: -70.0 Depth 12 side 1 Score -100.0
+Not updated [add to 21] Best move:  [add to 06], score: -70.0 Depth 12 side 1 Score -370.0
+Not updated [add to 26] Best move:  [add to 06], score: -70.0 Depth 12 side 1 Score -250.0
+Not updated [add to 31] Best move:  [add to 06], score: -70.0 Depth 12 side 1 Score -270.0
+Not updated [add to 36] Best move:  [add to 06], score: -70.0 Depth 12 side 1 Score -200.0
+Not updated [add to 41] Best move:  [add to 06], score: -70.0 Depth 12 side 1 Score -250.0
+Not updated [add to 42] Best move:  [add to 06], score: -70.0 Depth 12 side 1 Score -470.0
+Not updated [add to 43] Best move:  [add to 06], score: -70.0 Depth 12 side 1 Score -100.0
+Not updated [add to 44] Best move:  [add to 06], score: -70.0 Depth 12 side 1 Score -90.0
+Not updated [add to 45] Best move:  [add to 06], score: -70.0 Depth 12 side 1 Score -170.0
+Not updated [add to 51] Best move:  [add to 06], score: -70.0 Depth 12 side 1 Score -360.0
+Not updated [add to 52] Best move:  [add to 06], score: -70.0 Depth 12 side 1 Score -310.0
+Not updated [add to 53] Best move:  [add to 06], score: -70.0 Depth 12 side 1 Score -90.0
+Not updated [add to 54] Best move:  [add to 06], score: -70.0 Depth 12 side 1 Score -360.0
+Not updated [add to 61] Best move:  [add to 06], score: -70.0 Depth 12 side 1 Score -270.0
+Not updated [add to 62] Best move:  [add to 06], score: -70.0 Depth 12 side 1 Score -310.0
+Not updated [add to 64] Best move:  [add to 06], score: -70.0 Depth 12 side 1 Score -400.0
+Not updated [add to 65] Best move:  [add to 06], score: -70.0 Depth 12 side 1 Score -310.0
+Not updated [add to 66] Best move:  [add to 06], score: -70.0 Depth 12 side 1 Score -310.0
+Not updated [add to 71] Best move:  [add to 06], score: -70.0 Depth 12 side 1 Score -270.0
+Not updated [add to 72] Best move:  [add to 06], score: -70.0 Depth 12 side 1 Score -310.0
+Not updated [add to 73] Best move:  [add to 06], score: -70.0 Depth 12 side 1 Score -310.0
+Not updated [add to 74] Best move:  [add to 06], score: -70.0 Depth 12 side 1 Score -360.0
+Not updated [add to 75] Best move:  [add to 06], score: -70.0 Depth 12 side 1 Score -310.0
+Not updated [add to 76] Best move:  [add to 06], score: -70.0 Depth 12 side 1 Score -310.0
+     Best move:  [add to 13], score: -70.0 Depth 11 opponent side
+Not updated [add to 02] Best move:  [add to 01], score: -40.0 Depth 10 side 1 Score -70.0
+     Best move:  [add to 01], score: 210.0 Depth 12 our side
+Not updated [add to 02] Best move:  [add to 01], score: 210.0 Depth 12 side 1 Score 110.0
+Not updated [add to 11] Best move:  [add to 01], score: 210.0 Depth 12 side 1 Score 90.0
+Not updated [add to 21] Best move:  [add to 01], score: 210.0 Depth 12 side 1 Score 180.0
+Not updated [add to 26] Best move:  [add to 01], score: 210.0 Depth 12 side 1 Score 150.0
+Not updated [add to 31] Best move:  [add to 01], score: 210.0 Depth 12 side 1 Score 90.0
+Not updated [add to 36] Best move:  [add to 01], score: 210.0 Depth 12 side 1 Score 200.0
+     Best move:  [add to 41], score: 210.0 Depth 12 our side
+Not updated [add to 42] Best move:  [add to 41], score: 210.0 Depth 12 side 1 Score 170.0
+     Best move:  [add to 43], score: 350.0 Depth 12 our side
+Not updated [add to 44] Best move:  [add to 43], score: 350.0 Depth 12 side 1 Score 210.0
+Not updated [add to 45] Best move:  [add to 43], score: 350.0 Depth 12 side 1 Score 110.0
+Not updated [add to 51] Best move:  [add to 43], score: 350.0 Depth 12 side 1 Score 90.0
+Not updated [add to 52] Best move:  [add to 43], score: 350.0 Depth 12 side 1 Score 90.0
+Not updated [add to 53] Best move:  [add to 43], score: 350.0 Depth 12 side 1 Score 270.0
+Not updated [add to 54] Best move:  [add to 43], score: 350.0 Depth 12 side 1 Score -70.0
+Not updated [add to 61] Best move:  [add to 43], score: 350.0 Depth 12 side 1 Score 90.0
+Not updated [add to 62] Best move:  [add to 43], score: 350.0 Depth 12 side 1 Score 90.0
+Not updated [add to 64] Best move:  [add to 43], score: 350.0 Depth 12 side 1 Score -160.0
+Not updated [add to 65] Best move:  [add to 43], score: 350.0 Depth 12 side 1 Score 50.0
+Not updated [add to 66] Best move:  [add to 43], score: 350.0 Depth 12 side 1 Score 90.0
+Not updated [add to 71] Best move:  [add to 43], score: 350.0 Depth 12 side 1 Score 90.0
+Not updated [add to 72] Best move:  [add to 43], score: 350.0 Depth 12 side 1 Score 90.0
+Not updated [add to 73] Best move:  [add to 43], score: 350.0 Depth 12 side 1 Score 0.0
+Not updated [add to 74] Best move:  [add to 43], score: 350.0 Depth 12 side 1 Score -70.0
+Not updated [add to 75] Best move:  [add to 43], score: 350.0 Depth 12 side 1 Score 50.0
+Not updated [add to 76] Best move:  [add to 43], score: 350.0 Depth 12 side 1 Score 90.0
+     Best move:  [add to 10], score: 350.0 Depth 11 opponent side
+     Best move:  [add to 01], score: 210.0 Depth 12 our side
+Not updated [add to 02] Best move:  [add to 01], score: 210.0 Depth 12 side 1 Score 110.0
+Not updated [add to 21] Best move:  [add to 01], score: 210.0 Depth 12 side 1 Score 180.0
+Not updated [add to 26] Best move:  [add to 01], score: 210.0 Depth 12 side 1 Score 150.0
+Not updated [add to 31] Best move:  [add to 01], score: 210.0 Depth 12 side 1 Score 90.0
+Not updated [add to 36] Best move:  [add to 01], score: 210.0 Depth 12 side 1 Score 200.0
+     Best move:  [add to 41], score: 210.0 Depth 12 our side
+Not updated [add to 42] Best move:  [add to 41], score: 210.0 Depth 12 side 1 Score 170.0
+     Best move:  [add to 43], score: 350.0 Depth 12 our side
+     Best move:  [add to 11], score: 350.0 Depth 11 opponent side
+     Best move:  [add to 01], score: -70.0 Depth 12 our side
+     Best move:  [add to 02], score: 110.0 Depth 12 our side
+Not updated [add to 11] Best move:  [add to 02], score: 110.0 Depth 12 side 1 Score 90.0
+Not updated [add to 21] Best move:  [add to 02], score: 110.0 Depth 12 side 1 Score 0.0
+     Best move:  [add to 26], score: 150.0 Depth 12 our side
+Not updated [add to 31] Best move:  [add to 26], score: 150.0 Depth 12 side 1 Score 90.0
+     Best move:  [add to 36], score: 200.0 Depth 12 our side
+     Best move:  [add to 41], score: 210.0 Depth 12 our side
+Not updated [add to 42] Best move:  [add to 41], score: 210.0 Depth 12 side 1 Score 170.0
+     Best move:  [add to 43], score: 350.0 Depth 12 our side
+     Best move:  [add to 12], score: 350.0 Depth 11 opponent side
+     Best move:  [add to 01], score: -70.0 Depth 12 our side
+     Best move:  [add to 02], score: -70.0 Depth 12 our side
+Not updated [add to 11] Best move:  [add to 02], score: -70.0 Depth 12 side 1 Score -90.0
+Not updated [add to 21] Best move:  [add to 02], score: -70.0 Depth 12 side 1 Score -100.0
+     Best move:  [add to 26], score: -30.0 Depth 12 our side
+Not updated [add to 31] Best move:  [add to 26], score: -30.0 Depth 12 side 1 Score -90.0
+Not updated [add to 36] Best move:  [add to 26], score: -30.0 Depth 12 side 1 Score -80.0
+     Best move:  [add to 41], score: 30.0 Depth 12 our side
+Not updated [add to 42] Best move:  [add to 41], score: 30.0 Depth 12 side 1 Score -10.0
+     Best move:  [add to 43], score: 110.0 Depth 12 our side
+Not updated [add to 44] Best move:  [add to 43], score: 110.0 Depth 12 side 1 Score 30.0
+Not updated [add to 45] Best move:  [add to 43], score: 110.0 Depth 12 side 1 Score 40.0
+Not updated [add to 51] Best move:  [add to 43], score: 110.0 Depth 12 side 1 Score -90.0
+Not updated [add to 52] Best move:  [add to 43], score: 110.0 Depth 12 side 1 Score -90.0
+Not updated [add to 53] Best move:  [add to 43], score: 110.0 Depth 12 side 1 Score 90.0
+Not updated [add to 54] Best move:  [add to 43], score: 110.0 Depth 12 side 1 Score -250.0
+Not updated [add to 61] Best move:  [add to 43], score: 110.0 Depth 12 side 1 Score -90.0
+Not updated [add to 62] Best move:  [add to 43], score: 110.0 Depth 12 side 1 Score -90.0
+Not updated [add to 64] Best move:  [add to 43], score: 110.0 Depth 12 side 1 Score -340.0
+Not updated [add to 65] Best move:  [add to 43], score: 110.0 Depth 12 side 1 Score -130.0
+Not updated [add to 66] Best move:  [add to 43], score: 110.0 Depth 12 side 1 Score -90.0
+Not updated [add to 71] Best move:  [add to 43], score: 110.0 Depth 12 side 1 Score -90.0
+Not updated [add to 72] Best move:  [add to 43], score: 110.0 Depth 12 side 1 Score -90.0
+Not updated [add to 73] Best move:  [add to 43], score: 110.0 Depth 12 side 1 Score -180.0
+Not updated [add to 74] Best move:  [add to 43], score: 110.0 Depth 12 side 1 Score -250.0
+Not updated [add to 75] Best move:  [add to 43], score: 110.0 Depth 12 side 1 Score -130.0
+Not updated [add to 76] Best move:  [add to 43], score: 110.0 Depth 12 side 1 Score -90.0
+     Best move:  [add to 13], score: 110.0 Depth 11 opponent side
+     Best move:  [add to 01], score: 20.0 Depth 12 our side
+     Best move:  [add to 02], score: 20.0 Depth 12 our side
+Not updated [add to 11] Best move:  [add to 02], score: 20.0 Depth 12 side 1 Score 0.0
+     Best move:  [add to 21], score: 90.0 Depth 12 our side
+Not updated [add to 26] Best move:  [add to 21], score: 90.0 Depth 12 side 1 Score 60.0
+Not updated [add to 31] Best move:  [add to 21], score: 90.0 Depth 12 side 1 Score 0.0
+Not updated [add to 36] Best move:  [add to 21], score: 90.0 Depth 12 side 1 Score -250.0
+     Best move:  [add to 41], score: 300.0 Depth 12 our side
+Not updated [add to 14] Best move:  [add to 13], score: 110.0 Depth 11 side 0 Score 300.0
+     Best move:  [add to 01], score: 90.0 Depth 12 our side
+Not updated [add to 02] Best move:  [add to 01], score: 90.0 Depth 12 side 1 Score -10.0
+Not updated [add to 11] Best move:  [add to 01], score: 90.0 Depth 12 side 1 Score -30.0
+Not updated [add to 21] Best move:  [add to 01], score: 90.0 Depth 12 side 1 Score 60.0
+Not updated [add to 26] Best move:  [add to 01], score: 90.0 Depth 12 side 1 Score 30.0
+Not updated [add to 31] Best move:  [add to 01], score: 90.0 Depth 12 side 1 Score -30.0
+Not updated [add to 36] Best move:  [add to 01], score: 90.0 Depth 12 side 1 Score 80.0
+     Best move:  [add to 41], score: 90.0 Depth 12 our side
+Not updated [add to 42] Best move:  [add to 41], score: 90.0 Depth 12 side 1 Score -100.0
+     Best move:  [add to 43], score: 140.0 Depth 12 our side
+Not updated [add to 15] Best move:  [add to 13], score: 110.0 Depth 11 side 0 Score 140.0
+     Best move:  [add to 01], score: 100.0 Depth 12 our side
+Not updated [add to 02] Best move:  [add to 01], score: 100.0 Depth 12 side 1 Score 0.0
+Not updated [add to 11] Best move:  [add to 01], score: 100.0 Depth 12 side 1 Score -20.0
+Not updated [add to 21] Best move:  [add to 01], score: 100.0 Depth 12 side 1 Score 70.0
+Not updated [add to 26] Best move:  [add to 01], score: 100.0 Depth 12 side 1 Score -40.0
+Not updated [add to 31] Best move:  [add to 01], score: 100.0 Depth 12 side 1 Score -20.0
+Not updated [add to 36] Best move:  [add to 01], score: 100.0 Depth 12 side 1 Score 70.0
+Not updated [add to 41] Best move:  [add to 01], score: 100.0 Depth 12 side 1 Score 0.0
+Not updated [add to 42] Best move:  [add to 01], score: 100.0 Depth 12 side 1 Score -40.0
+     Best move:  [add to 43], score: 140.0 Depth 12 our side
+Not updated [add to 16] Best move:  [add to 13], score: 110.0 Depth 11 side 0 Score 140.0
+     Best move:  [add to 01], score: 210.0 Depth 12 our side
+Not updated [add to 17] Best move:  [add to 13], score: 110.0 Depth 11 side 0 Score 210.0
+     Best move:  [add to 01], score: 210.0 Depth 12 our side
+Not updated [add to 20] Best move:  [add to 13], score: 110.0 Depth 11 side 0 Score 210.0
+     Best move:  [add to 01], score: 210.0 Depth 12 our side
+Not updated [add to 21] Best move:  [add to 13], score: 110.0 Depth 11 side 0 Score 210.0
+     Best move:  [add to 01], score: 120.0 Depth 12 our side
+Not updated [add to 26] Best move:  [add to 13], score: 110.0 Depth 11 side 0 Score 120.0
+     Best move:  [add to 01], score: 150.0 Depth 12 our side
+Not updated [add to 27] Best move:  [add to 13], score: 110.0 Depth 11 side 0 Score 150.0
+     Best move:  [add to 01], score: 120.0 Depth 12 our side
+Not updated [add to 30] Best move:  [add to 13], score: 110.0 Depth 11 side 0 Score 120.0
+     Best move:  [add to 01], score: 210.0 Depth 12 our side
+Not updated [add to 31] Best move:  [add to 13], score: 110.0 Depth 11 side 0 Score 210.0
+     Best move:  [add to 01], score: 190.0 Depth 12 our side
+Not updated [add to 36] Best move:  [add to 13], score: 110.0 Depth 11 side 0 Score 190.0
+     Best move:  [add to 01], score: 370.0 Depth 12 our side
+Not updated [add to 37] Best move:  [add to 13], score: 110.0 Depth 11 side 0 Score 370.0
+     Best move:  [add to 01], score: 210.0 Depth 12 our side
+Not updated [add to 40] Best move:  [add to 13], score: 110.0 Depth 11 side 0 Score 210.0
+     Best move:  [add to 01], score: 150.0 Depth 12 our side
+Not updated [add to 41] Best move:  [add to 13], score: 110.0 Depth 11 side 0 Score 150.0
+     Best move:  [add to 01], score: 210.0 Depth 12 our side
+Not updated [add to 50] Best move:  [add to 13], score: 110.0 Depth 11 side 0 Score 210.0
+     Best move:  [add to 01], score: 60.0 Depth 12 our side
+Not updated [add to 02] Best move:  [add to 01], score: 60.0 Depth 12 side 1 Score -40.0
+Not updated [add to 11] Best move:  [add to 01], score: 60.0 Depth 12 side 1 Score -60.0
+Not updated [add to 21] Best move:  [add to 01], score: 60.0 Depth 12 side 1 Score 30.0
+Not updated [add to 26] Best move:  [add to 01], score: 60.0 Depth 12 side 1 Score 0.0
+Not updated [add to 31] Best move:  [add to 01], score: 60.0 Depth 12 side 1 Score -60.0
+Not updated [add to 36] Best move:  [add to 01], score: 60.0 Depth 12 side 1 Score 50.0
+     Best move:  [add to 41], score: 60.0 Depth 12 our side
+     Best move:  [add to 42], score: 420.0 Depth 12 our side
+Not updated [add to 51] Best move:  [add to 13], score: 110.0 Depth 11 side 0 Score 420.0
+     Best move:  [add to 01], score: -50.0 Depth 12 our side
+Not updated [add to 02] Best move:  [add to 01], score: -50.0 Depth 12 side 1 Score -150.0
+Not updated [add to 11] Best move:  [add to 01], score: -50.0 Depth 12 side 1 Score -170.0
+Not updated [add to 21] Best move:  [add to 01], score: -50.0 Depth 12 side 1 Score -80.0
+Not updated [add to 26] Best move:  [add to 01], score: -50.0 Depth 12 side 1 Score -110.0
+Not updated [add to 31] Best move:  [add to 01], score: -50.0 Depth 12 side 1 Score -170.0
+Not updated [add to 36] Best move:  [add to 01], score: -50.0 Depth 12 side 1 Score -60.0
+     Best move:  [add to 41], score: -50.0 Depth 12 our side
+Not updated [add to 42] Best move:  [add to 41], score: -50.0 Depth 12 side 1 Score -90.0
+     Best move:  [add to 43], score: 990.0 Depth 12 our side
+Not updated [add to 52] Best move:  [add to 13], score: 110.0 Depth 11 side 0 Score 990.0
+     Best move:  [add to 01], score: 130.0 Depth 12 our side
+Not updated [add to 53] Best move:  [add to 13], score: 110.0 Depth 11 side 0 Score 130.0
+     Best move:  [add to 01], score: 0.0 Depth 12 our side
+Not updated [add to 02] Best move:  [add to 01], score: 0.0 Depth 12 side 1 Score -100.0
+Not updated [add to 11] Best move:  [add to 01], score: 0.0 Depth 12 side 1 Score -120.0
+Not updated [add to 21] Best move:  [add to 01], score: 0.0 Depth 12 side 1 Score -30.0
+Not updated [add to 26] Best move:  [add to 01], score: 0.0 Depth 12 side 1 Score -60.0
+Not updated [add to 31] Best move:  [add to 01], score: 0.0 Depth 12 side 1 Score -120.0
+Not updated [add to 36] Best move:  [add to 01], score: 0.0 Depth 12 side 1 Score -10.0
+     Best move:  [add to 41], score: 0.0 Depth 12 our side
+     Best move:  [add to 42], score: 360.0 Depth 12 our side
+Not updated [add to 60] Best move:  [add to 13], score: 110.0 Depth 11 side 0 Score 360.0
+     Best move:  [add to 01], score: 30.0 Depth 12 our side
+Not updated [add to 02] Best move:  [add to 01], score: 30.0 Depth 12 side 1 Score -70.0
+Not updated [add to 11] Best move:  [add to 01], score: 30.0 Depth 12 side 1 Score -90.0
+Not updated [add to 21] Best move:  [add to 01], score: 30.0 Depth 12 side 1 Score 0.0
+Not updated [add to 26] Best move:  [add to 01], score: 30.0 Depth 12 side 1 Score -30.0
+Not updated [add to 31] Best move:  [add to 01], score: 30.0 Depth 12 side 1 Score -90.0
+Not updated [add to 36] Best move:  [add to 01], score: 30.0 Depth 12 side 1 Score 20.0
+     Best move:  [add to 41], score: 30.0 Depth 12 our side
+Not updated [add to 42] Best move:  [add to 41], score: 30.0 Depth 12 side 1 Score -10.0
+     Best move:  [add to 43], score: 870.0 Depth 12 our side
+Not updated [add to 61] Best move:  [add to 13], score: 110.0 Depth 11 side 0 Score 870.0
+     Best move:  [add to 01], score: 130.0 Depth 12 our side
+Not updated [add to 62] Best move:  [add to 13], score: 110.0 Depth 11 side 0 Score 130.0
+     Best move:  [add to 06], score: 110.0 Depth 10 our side
+     Best move:  [add to 01], score: 90.0 Depth 12 our side
+     Best move:  [add to 06], score: 90.0 Depth 12 our side
+     Best move:  [add to 16], score: 150.0 Depth 12 our side
+Not updated [add to 21] Best move:  [add to 16], score: 150.0 Depth 12 side 1 Score 90.0
+Not updated [add to 26] Best move:  [add to 16], score: 150.0 Depth 12 side 1 Score -20.0
+Not updated [add to 31] Best move:  [add to 16], score: 150.0 Depth 12 side 1 Score -80.0
+Not updated [add to 36] Best move:  [add to 16], score: 150.0 Depth 12 side 1 Score 60.0
+Not updated [add to 41] Best move:  [add to 16], score: 150.0 Depth 12 side 1 Score 70.0
+Not updated [add to 42] Best move:  [add to 16], score: 150.0 Depth 12 side 1 Score -210.0
+Not updated [add to 43] Best move:  [add to 16], score: 150.0 Depth 12 side 1 Score 120.0
+Not updated [add to 44] Best move:  [add to 16], score: 150.0 Depth 12 side 1 Score 30.0
+Not updated [add to 45] Best move:  [add to 16], score: 150.0 Depth 12 side 1 Score -120.0
+Not updated [add to 51] Best move:  [add to 16], score: 150.0 Depth 12 side 1 Score -240.0
+Not updated [add to 52] Best move:  [add to 16], score: 150.0 Depth 12 side 1 Score -110.0
+Not updated [add to 53] Best move:  [add to 16], score: 150.0 Depth 12 side 1 Score 70.0
+Not updated [add to 54] Best move:  [add to 16], score: 150.0 Depth 12 side 1 Score -200.0
+Not updated [add to 61] Best move:  [add to 16], score: 150.0 Depth 12 side 1 Score -80.0
+Not updated [add to 62] Best move:  [add to 16], score: 150.0 Depth 12 side 1 Score -110.0
+Not updated [add to 64] Best move:  [add to 16], score: 150.0 Depth 12 side 1 Score -240.0
+Not updated [add to 65] Best move:  [add to 16], score: 150.0 Depth 12 side 1 Score -150.0
+Not updated [add to 66] Best move:  [add to 16], score: 150.0 Depth 12 side 1 Score -150.0
+Not updated [add to 71] Best move:  [add to 16], score: 150.0 Depth 12 side 1 Score -80.0
+Not updated [add to 72] Best move:  [add to 16], score: 150.0 Depth 12 side 1 Score -110.0
+Not updated [add to 73] Best move:  [add to 16], score: 150.0 Depth 12 side 1 Score -150.0
+Not updated [add to 74] Best move:  [add to 16], score: 150.0 Depth 12 side 1 Score -200.0
+Not updated [add to 75] Best move:  [add to 16], score: 150.0 Depth 12 side 1 Score -150.0
+Not updated [add to 76] Best move:  [add to 16], score: 150.0 Depth 12 side 1 Score -150.0
+     Best move:  [add to 10], score: 150.0 Depth 11 opponent side
+     Best move:  [add to 01], score: -310.0 Depth 12 our side
+     Best move:  [add to 06], score: 90.0 Depth 12 our side
+Not updated [add to 16] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -30.0
+Not updated [add to 21] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -190.0
+Not updated [add to 26] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -20.0
+Not updated [add to 31] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -80.0
+Not updated [add to 36] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score 60.0
+Not updated [add to 41] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score 70.0
+Not updated [add to 42] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -210.0
+     Best move:  [add to 43], score: 120.0 Depth 12 our side
+Not updated [add to 44] Best move:  [add to 43], score: 120.0 Depth 12 side 1 Score 30.0
+Not updated [add to 45] Best move:  [add to 43], score: 120.0 Depth 12 side 1 Score -80.0
+Not updated [add to 51] Best move:  [add to 43], score: 120.0 Depth 12 side 1 Score -240.0
+Not updated [add to 52] Best move:  [add to 43], score: 120.0 Depth 12 side 1 Score -110.0
+Not updated [add to 53] Best move:  [add to 43], score: 120.0 Depth 12 side 1 Score 70.0
+Not updated [add to 54] Best move:  [add to 43], score: 120.0 Depth 12 side 1 Score -200.0
+Not updated [add to 61] Best move:  [add to 43], score: 120.0 Depth 12 side 1 Score -80.0
+Not updated [add to 62] Best move:  [add to 43], score: 120.0 Depth 12 side 1 Score -110.0
+Not updated [add to 64] Best move:  [add to 43], score: 120.0 Depth 12 side 1 Score -240.0
+Not updated [add to 65] Best move:  [add to 43], score: 120.0 Depth 12 side 1 Score -150.0
+Not updated [add to 66] Best move:  [add to 43], score: 120.0 Depth 12 side 1 Score -150.0
+Not updated [add to 71] Best move:  [add to 43], score: 120.0 Depth 12 side 1 Score -80.0
+Not updated [add to 72] Best move:  [add to 43], score: 120.0 Depth 12 side 1 Score -110.0
+Not updated [add to 73] Best move:  [add to 43], score: 120.0 Depth 12 side 1 Score -150.0
+Not updated [add to 74] Best move:  [add to 43], score: 120.0 Depth 12 side 1 Score -200.0
+Not updated [add to 75] Best move:  [add to 43], score: 120.0 Depth 12 side 1 Score -150.0
+Not updated [add to 76] Best move:  [add to 43], score: 120.0 Depth 12 side 1 Score -150.0
+     Best move:  [add to 12], score: 120.0 Depth 11 opponent side
+     Best move:  [add to 01], score: -190.0 Depth 12 our side
+     Best move:  [add to 06], score: -90.0 Depth 12 our side
+Not updated [add to 16] Best move:  [add to 06], score: -90.0 Depth 12 side 1 Score -390.0
+Not updated [add to 21] Best move:  [add to 06], score: -90.0 Depth 12 side 1 Score -190.0
+Not updated [add to 26] Best move:  [add to 06], score: -90.0 Depth 12 side 1 Score -200.0
+Not updated [add to 31] Best move:  [add to 06], score: -90.0 Depth 12 side 1 Score -260.0
+Not updated [add to 36] Best move:  [add to 06], score: -90.0 Depth 12 side 1 Score -220.0
+Not updated [add to 41] Best move:  [add to 06], score: -90.0 Depth 12 side 1 Score -110.0
+Not updated [add to 42] Best move:  [add to 06], score: -90.0 Depth 12 side 1 Score -390.0
+Not updated [add to 43] Best move:  [add to 06], score: -90.0 Depth 12 side 1 Score -120.0
+Not updated [add to 44] Best move:  [add to 06], score: -90.0 Depth 12 side 1 Score -150.0
+Not updated [add to 45] Best move:  [add to 06], score: -90.0 Depth 12 side 1 Score -190.0
+Not updated [add to 51] Best move:  [add to 06], score: -90.0 Depth 12 side 1 Score -420.0
+Not updated [add to 52] Best move:  [add to 06], score: -90.0 Depth 12 side 1 Score -290.0
+Not updated [add to 53] Best move:  [add to 06], score: -90.0 Depth 12 side 1 Score -110.0
+Not updated [add to 54] Best move:  [add to 06], score: -90.0 Depth 12 side 1 Score -380.0
+Not updated [add to 61] Best move:  [add to 06], score: -90.0 Depth 12 side 1 Score -260.0
+Not updated [add to 62] Best move:  [add to 06], score: -90.0 Depth 12 side 1 Score -290.0
+Not updated [add to 64] Best move:  [add to 06], score: -90.0 Depth 12 side 1 Score -420.0
+Not updated [add to 65] Best move:  [add to 06], score: -90.0 Depth 12 side 1 Score -330.0
+Not updated [add to 66] Best move:  [add to 06], score: -90.0 Depth 12 side 1 Score -330.0
+Not updated [add to 71] Best move:  [add to 06], score: -90.0 Depth 12 side 1 Score -260.0
+Not updated [add to 72] Best move:  [add to 06], score: -90.0 Depth 12 side 1 Score -290.0
+Not updated [add to 73] Best move:  [add to 06], score: -90.0 Depth 12 side 1 Score -330.0
+Not updated [add to 74] Best move:  [add to 06], score: -90.0 Depth 12 side 1 Score -380.0
+Not updated [add to 75] Best move:  [add to 06], score: -90.0 Depth 12 side 1 Score -330.0
+Not updated [add to 76] Best move:  [add to 06], score: -90.0 Depth 12 side 1 Score -330.0
+     Best move:  [add to 13], score: -90.0 Depth 11 opponent side
+Not updated [add to 11] Best move:  [add to 06], score: 110.0 Depth 10 side 1 Score -90.0
+     Best move:  [add to 01], score: 180.0 Depth 12 our side
+Not updated [add to 02] Best move:  [add to 01], score: 180.0 Depth 12 side 1 Score 80.0
+Not updated [add to 11] Best move:  [add to 01], score: 180.0 Depth 12 side 1 Score 150.0
+Not updated [add to 21] Best move:  [add to 01], score: 180.0 Depth 12 side 1 Score 150.0
+Not updated [add to 31] Best move:  [add to 01], score: 180.0 Depth 12 side 1 Score 60.0
+Not updated [add to 36] Best move:  [add to 01], score: 180.0 Depth 12 side 1 Score 170.0
+     Best move:  [add to 41], score: 180.0 Depth 12 our side
+Not updated [add to 42] Best move:  [add to 41], score: 180.0 Depth 12 side 1 Score -10.0
+Not updated [add to 43] Best move:  [add to 41], score: 180.0 Depth 12 side 1 Score 160.0
+     Best move:  [add to 44], score: 270.0 Depth 12 our side
+Not updated [add to 45] Best move:  [add to 44], score: 270.0 Depth 12 side 1 Score 110.0
+Not updated [add to 51] Best move:  [add to 44], score: 270.0 Depth 12 side 1 Score -30.0
+Not updated [add to 52] Best move:  [add to 44], score: 270.0 Depth 12 side 1 Score -30.0
+Not updated [add to 53] Best move:  [add to 44], score: 270.0 Depth 12 side 1 Score 240.0
+Not updated [add to 54] Best move:  [add to 44], score: 270.0 Depth 12 side 1 Score -30.0
+Not updated [add to 61] Best move:  [add to 44], score: 270.0 Depth 12 side 1 Score -30.0
+Not updated [add to 62] Best move:  [add to 44], score: 270.0 Depth 12 side 1 Score 60.0
+Not updated [add to 64] Best move:  [add to 44], score: 270.0 Depth 12 side 1 Score -120.0
+Not updated [add to 65] Best move:  [add to 44], score: 270.0 Depth 12 side 1 Score -30.0
+Not updated [add to 66] Best move:  [add to 44], score: 270.0 Depth 12 side 1 Score 60.0
+Not updated [add to 71] Best move:  [add to 44], score: 270.0 Depth 12 side 1 Score 60.0
+Not updated [add to 72] Best move:  [add to 44], score: 270.0 Depth 12 side 1 Score 60.0
+Not updated [add to 73] Best move:  [add to 44], score: 270.0 Depth 12 side 1 Score -30.0
+Not updated [add to 74] Best move:  [add to 44], score: 270.0 Depth 12 side 1 Score -30.0
+Not updated [add to 75] Best move:  [add to 44], score: 270.0 Depth 12 side 1 Score -30.0
+Not updated [add to 76] Best move:  [add to 44], score: 270.0 Depth 12 side 1 Score 60.0
+     Best move:  [add to 10], score: 270.0 Depth 11 opponent side
+     Best move:  [add to 01], score: 180.0 Depth 12 our side
+Not updated [add to 02] Best move:  [add to 01], score: 180.0 Depth 12 side 1 Score 80.0
+Not updated [add to 21] Best move:  [add to 01], score: 180.0 Depth 12 side 1 Score 150.0
+Not updated [add to 31] Best move:  [add to 01], score: 180.0 Depth 12 side 1 Score 60.0
+Not updated [add to 36] Best move:  [add to 01], score: 180.0 Depth 12 side 1 Score 170.0
+     Best move:  [add to 41], score: 180.0 Depth 12 our side
+Not updated [add to 42] Best move:  [add to 41], score: 180.0 Depth 12 side 1 Score -10.0
+Not updated [add to 43] Best move:  [add to 41], score: 180.0 Depth 12 side 1 Score 160.0
+Not updated [add to 44] Best move:  [add to 41], score: 180.0 Depth 12 side 1 Score 30.0
+Not updated [add to 45] Best move:  [add to 41], score: 180.0 Depth 12 side 1 Score 110.0
+Not updated [add to 51] Best move:  [add to 41], score: 180.0 Depth 12 side 1 Score 30.0
+Not updated [add to 52] Best move:  [add to 41], score: 180.0 Depth 12 side 1 Score -30.0
+     Best move:  [add to 53], score: 240.0 Depth 12 our side
+Not updated [add to 54] Best move:  [add to 53], score: 240.0 Depth 12 side 1 Score -30.0
+Not updated [add to 61] Best move:  [add to 53], score: 240.0 Depth 12 side 1 Score -30.0
+Not updated [add to 62] Best move:  [add to 53], score: 240.0 Depth 12 side 1 Score 60.0
+Not updated [add to 64] Best move:  [add to 53], score: 240.0 Depth 12 side 1 Score -120.0
+Not updated [add to 65] Best move:  [add to 53], score: 240.0 Depth 12 side 1 Score -30.0
+Not updated [add to 66] Best move:  [add to 53], score: 240.0 Depth 12 side 1 Score 60.0
+Not updated [add to 71] Best move:  [add to 53], score: 240.0 Depth 12 side 1 Score 60.0
+Not updated [add to 72] Best move:  [add to 53], score: 240.0 Depth 12 side 1 Score 60.0
+Not updated [add to 73] Best move:  [add to 53], score: 240.0 Depth 12 side 1 Score -30.0
+Not updated [add to 74] Best move:  [add to 53], score: 240.0 Depth 12 side 1 Score -30.0
+Not updated [add to 75] Best move:  [add to 53], score: 240.0 Depth 12 side 1 Score -30.0
+Not updated [add to 76] Best move:  [add to 53], score: 240.0 Depth 12 side 1 Score 60.0
+     Best move:  [add to 11], score: 240.0 Depth 11 opponent side
+     Best move:  [add to 01], score: -100.0 Depth 12 our side
+     Best move:  [add to 02], score: 80.0 Depth 12 our side
+Not updated [add to 11] Best move:  [add to 02], score: 80.0 Depth 12 side 1 Score -30.0
+Not updated [add to 21] Best move:  [add to 02], score: 80.0 Depth 12 side 1 Score -30.0
+Not updated [add to 31] Best move:  [add to 02], score: 80.0 Depth 12 side 1 Score 60.0
+     Best move:  [add to 36], score: 170.0 Depth 12 our side
+     Best move:  [add to 41], score: 180.0 Depth 12 our side
+Not updated [add to 42] Best move:  [add to 41], score: 180.0 Depth 12 side 1 Score -10.0
+Not updated [add to 43] Best move:  [add to 41], score: 180.0 Depth 12 side 1 Score 160.0
+     Best move:  [add to 44], score: 270.0 Depth 12 our side
+Not updated [add to 12] Best move:  [add to 11], score: 240.0 Depth 11 side 0 Score 270.0
+     Best move:  [add to 01], score: -100.0 Depth 12 our side
+     Best move:  [add to 02], score: -100.0 Depth 12 our side
+Not updated [add to 11] Best move:  [add to 02], score: -100.0 Depth 12 side 1 Score -390.0
+Not updated [add to 21] Best move:  [add to 02], score: -100.0 Depth 12 side 1 Score -130.0
+Not updated [add to 31] Best move:  [add to 02], score: -100.0 Depth 12 side 1 Score -120.0
+Not updated [add to 36] Best move:  [add to 02], score: -100.0 Depth 12 side 1 Score -110.0
+     Best move:  [add to 41], score: 0.0 Depth 12 our side
+Not updated [add to 42] Best move:  [add to 41], score: 0.0 Depth 12 side 1 Score -190.0
+Not updated [add to 43] Best move:  [add to 41], score: 0.0 Depth 12 side 1 Score -80.0
+     Best move:  [add to 44], score: 90.0 Depth 12 our side
+Not updated [add to 45] Best move:  [add to 44], score: 90.0 Depth 12 side 1 Score 40.0
+Not updated [add to 51] Best move:  [add to 44], score: 90.0 Depth 12 side 1 Score -210.0
+Not updated [add to 52] Best move:  [add to 44], score: 90.0 Depth 12 side 1 Score -210.0
+Not updated [add to 53] Best move:  [add to 44], score: 90.0 Depth 12 side 1 Score 60.0
+Not updated [add to 54] Best move:  [add to 44], score: 90.0 Depth 12 side 1 Score -210.0
+Not updated [add to 61] Best move:  [add to 44], score: 90.0 Depth 12 side 1 Score -210.0
+Not updated [add to 62] Best move:  [add to 44], score: 90.0 Depth 12 side 1 Score -120.0
+Not updated [add to 64] Best move:  [add to 44], score: 90.0 Depth 12 side 1 Score -300.0
+Not updated [add to 65] Best move:  [add to 44], score: 90.0 Depth 12 side 1 Score -210.0
+Not updated [add to 66] Best move:  [add to 44], score: 90.0 Depth 12 side 1 Score -120.0
+Not updated [add to 71] Best move:  [add to 44], score: 90.0 Depth 12 side 1 Score -120.0
+Not updated [add to 72] Best move:  [add to 44], score: 90.0 Depth 12 side 1 Score -120.0
+Not updated [add to 73] Best move:  [add to 44], score: 90.0 Depth 12 side 1 Score -210.0
+Not updated [add to 74] Best move:  [add to 44], score: 90.0 Depth 12 side 1 Score 0.0
+Not updated [add to 75] Best move:  [add to 44], score: 90.0 Depth 12 side 1 Score -210.0
+Not updated [add to 76] Best move:  [add to 44], score: 90.0 Depth 12 side 1 Score -120.0
+     Best move:  [add to 13], score: 90.0 Depth 11 opponent side
+Not updated [add to 16] Best move:  [add to 06], score: 110.0 Depth 10 side 1 Score 90.0
+     Best move:  [add to 01], score: 220.0 Depth 12 our side
+Not updated [add to 02] Best move:  [add to 01], score: 220.0 Depth 12 side 1 Score 30.0
+Not updated [add to 06] Best move:  [add to 01], score: 220.0 Depth 12 side 1 Score 180.0
+Not updated [add to 11] Best move:  [add to 01], score: 220.0 Depth 12 side 1 Score 90.0
+Not updated [add to 16] Best move:  [add to 01], score: 220.0 Depth 12 side 1 Score 150.0
+Not updated [add to 26] Best move:  [add to 01], score: 220.0 Depth 12 side 1 Score 100.0
+Not updated [add to 31] Best move:  [add to 01], score: 220.0 Depth 12 side 1 Score 90.0
+Not updated [add to 36] Best move:  [add to 01], score: 220.0 Depth 12 side 1 Score 180.0
+     Best move:  [add to 41], score: 250.0 Depth 12 our side
+Not updated [add to 42] Best move:  [add to 41], score: 250.0 Depth 12 side 1 Score -120.0
+     Best move:  [add to 43], score: 250.0 Depth 12 our side
+Not updated [add to 44] Best move:  [add to 43], score: 250.0 Depth 12 side 1 Score 160.0
+Not updated [add to 45] Best move:  [add to 43], score: 250.0 Depth 12 side 1 Score -30.0
+Not updated [add to 51] Best move:  [add to 43], score: 250.0 Depth 12 side 1 Score -90.0
+Not updated [add to 52] Best move:  [add to 43], score: 250.0 Depth 12 side 1 Score -20.0
+Not updated [add to 53] Best move:  [add to 43], score: 250.0 Depth 12 side 1 Score -90.0
+Not updated [add to 54] Best move:  [add to 43], score: 250.0 Depth 12 side 1 Score -80.0
+Not updated [add to 61] Best move:  [add to 43], score: 250.0 Depth 12 side 1 Score 70.0
+Not updated [add to 62] Best move:  [add to 43], score: 250.0 Depth 12 side 1 Score -20.0
+Not updated [add to 64] Best move:  [add to 43], score: 250.0 Depth 12 side 1 Score -150.0
+Not updated [add to 65] Best move:  [add to 43], score: 250.0 Depth 12 side 1 Score -20.0
+Not updated [add to 66] Best move:  [add to 43], score: 250.0 Depth 12 side 1 Score -60.0
+Not updated [add to 71] Best move:  [add to 43], score: 250.0 Depth 12 side 1 Score 70.0
+Not updated [add to 72] Best move:  [add to 43], score: 250.0 Depth 12 side 1 Score -20.0
+Not updated [add to 73] Best move:  [add to 43], score: 250.0 Depth 12 side 1 Score -60.0
+Not updated [add to 74] Best move:  [add to 43], score: 250.0 Depth 12 side 1 Score -110.0
+Not updated [add to 75] Best move:  [add to 43], score: 250.0 Depth 12 side 1 Score -60.0
+Not updated [add to 76] Best move:  [add to 43], score: 250.0 Depth 12 side 1 Score -20.0
+     Best move:  [add to 10], score: 250.0 Depth 11 opponent side
+     Best move:  [add to 01], score: -60.0 Depth 12 our side
+     Best move:  [add to 02], score: 30.0 Depth 12 our side
+     Best move:  [add to 06], score: 180.0 Depth 12 our side
+Not updated [add to 16] Best move:  [add to 06], score: 180.0 Depth 12 side 1 Score 150.0
+Not updated [add to 26] Best move:  [add to 06], score: 180.0 Depth 12 side 1 Score 100.0
+Not updated [add to 31] Best move:  [add to 06], score: 180.0 Depth 12 side 1 Score 90.0
+     Best move:  [add to 36], score: 180.0 Depth 12 our side
+     Best move:  [add to 41], score: 250.0 Depth 12 our side
+     Best move:  [add to 11], score: 250.0 Depth 11 opponent side
+     Best move:  [add to 01], score: -860.0 Depth 12 our side
+     Best move:  [add to 02], score: -150.0 Depth 12 our side
+     Best move:  [add to 06], score: 0.0 Depth 12 our side
+Not updated [add to 11] Best move:  [add to 06], score: 0.0 Depth 12 side 1 Score -190.0
+Not updated [add to 16] Best move:  [add to 06], score: 0.0 Depth 12 side 1 Score -30.0
+Not updated [add to 26] Best move:  [add to 06], score: 0.0 Depth 12 side 1 Score -80.0
+Not updated [add to 31] Best move:  [add to 06], score: 0.0 Depth 12 side 1 Score -190.0
+Not updated [add to 36] Best move:  [add to 06], score: 0.0 Depth 12 side 1 Score -100.0
+Not updated [add to 41] Best move:  [add to 06], score: 0.0 Depth 12 side 1 Score -340.0
+Not updated [add to 42] Best move:  [add to 06], score: 0.0 Depth 12 side 1 Score -300.0
+Not updated [add to 43] Best move:  [add to 06], score: 0.0 Depth 12 side 1 Score -30.0
+Not updated [add to 44] Best move:  [add to 06], score: 0.0 Depth 12 side 1 Score -20.0
+Not updated [add to 45] Best move:  [add to 06], score: 0.0 Depth 12 side 1 Score -170.0
+Not updated [add to 51] Best move:  [add to 06], score: 0.0 Depth 12 side 1 Score -120.0
+Not updated [add to 52] Best move:  [add to 06], score: 0.0 Depth 12 side 1 Score -200.0
+Not updated [add to 53] Best move:  [add to 06], score: 0.0 Depth 12 side 1 Score -30.0
+Not updated [add to 54] Best move:  [add to 06], score: 0.0 Depth 12 side 1 Score -370.0
+Not updated [add to 61] Best move:  [add to 06], score: 0.0 Depth 12 side 1 Score -210.0
+Not updated [add to 62] Best move:  [add to 06], score: 0.0 Depth 12 side 1 Score -200.0
+Not updated [add to 64] Best move:  [add to 06], score: 0.0 Depth 12 side 1 Score -330.0
+Not updated [add to 65] Best move:  [add to 06], score: 0.0 Depth 12 side 1 Score -300.0
+Not updated [add to 66] Best move:  [add to 06], score: 0.0 Depth 12 side 1 Score -240.0
+Not updated [add to 71] Best move:  [add to 06], score: 0.0 Depth 12 side 1 Score -210.0
+Not updated [add to 72] Best move:  [add to 06], score: 0.0 Depth 12 side 1 Score -200.0
+Not updated [add to 73] Best move:  [add to 06], score: 0.0 Depth 12 side 1 Score -240.0
+Not updated [add to 74] Best move:  [add to 06], score: 0.0 Depth 12 side 1 Score -290.0
+Not updated [add to 75] Best move:  [add to 06], score: 0.0 Depth 12 side 1 Score -240.0
+Not updated [add to 76] Best move:  [add to 06], score: 0.0 Depth 12 side 1 Score -300.0
+     Best move:  [add to 12], score: 0.0 Depth 11 opponent side
+Not updated [add to 21] Best move:  [add to 06], score: 110.0 Depth 10 side 1 Score 0.0
+     Best move:  [add to 01], score: 100.0 Depth 12 our side
+Not updated [add to 02] Best move:  [add to 01], score: 100.0 Depth 12 side 1 Score 30.0
+     Best move:  [add to 06], score: 150.0 Depth 12 our side
+Not updated [add to 11] Best move:  [add to 06], score: 150.0 Depth 12 side 1 Score -20.0
+Not updated [add to 21] Best move:  [add to 06], score: 150.0 Depth 12 side 1 Score 100.0
+Not updated [add to 31] Best move:  [add to 06], score: 150.0 Depth 12 side 1 Score -20.0
+Not updated [add to 41] Best move:  [add to 06], score: 150.0 Depth 12 side 1 Score 130.0
+Not updated [add to 42] Best move:  [add to 06], score: 150.0 Depth 12 side 1 Score -90.0
+     Best move:  [add to 43], score: 210.0 Depth 12 our side
+     Best move:  [add to 44], score: 220.0 Depth 12 our side
+Not updated [add to 45] Best move:  [add to 44], score: 220.0 Depth 12 side 1 Score 0.0
+Not updated [add to 51] Best move:  [add to 44], score: 220.0 Depth 12 side 1 Score -110.0
+Not updated [add to 52] Best move:  [add to 44], score: 220.0 Depth 12 side 1 Score -20.0
+Not updated [add to 53] Best move:  [add to 44], score: 220.0 Depth 12 side 1 Score 210.0
+Not updated [add to 54] Best move:  [add to 44], score: 220.0 Depth 12 side 1 Score -110.0
+Not updated [add to 61] Best move:  [add to 44], score: 220.0 Depth 12 side 1 Score -20.0
+Not updated [add to 62] Best move:  [add to 44], score: 220.0 Depth 12 side 1 Score 70.0
+Not updated [add to 64] Best move:  [add to 44], score: 220.0 Depth 12 side 1 Score 10.0
+Not updated [add to 65] Best move:  [add to 44], score: 220.0 Depth 12 side 1 Score -60.0
+Not updated [add to 66] Best move:  [add to 44], score: 220.0 Depth 12 side 1 Score -30.0
+Not updated [add to 71] Best move:  [add to 44], score: 220.0 Depth 12 side 1 Score 70.0
+Not updated [add to 72] Best move:  [add to 44], score: 220.0 Depth 12 side 1 Score -20.0
+Not updated [add to 73] Best move:  [add to 44], score: 220.0 Depth 12 side 1 Score -110.0
+Not updated [add to 74] Best move:  [add to 44], score: 220.0 Depth 12 side 1 Score -110.0
+Not updated [add to 75] Best move:  [add to 44], score: 220.0 Depth 12 side 1 Score -60.0
+Not updated [add to 76] Best move:  [add to 44], score: 220.0 Depth 12 side 1 Score -30.0
+     Best move:  [add to 10], score: 220.0 Depth 11 opponent side
+     Best move:  [add to 01], score: 100.0 Depth 12 our side
+Not updated [add to 02] Best move:  [add to 01], score: 100.0 Depth 12 side 1 Score 30.0
+     Best move:  [add to 06], score: 150.0 Depth 12 our side
+Not updated [add to 21] Best move:  [add to 06], score: 150.0 Depth 12 side 1 Score 100.0
+Not updated [add to 31] Best move:  [add to 06], score: 150.0 Depth 12 side 1 Score -20.0
+Not updated [add to 41] Best move:  [add to 06], score: 150.0 Depth 12 side 1 Score 130.0
+Not updated [add to 42] Best move:  [add to 06], score: 150.0 Depth 12 side 1 Score -90.0
+     Best move:  [add to 43], score: 210.0 Depth 12 our side
+Not updated [add to 44] Best move:  [add to 43], score: 210.0 Depth 12 side 1 Score -20.0
+Not updated [add to 45] Best move:  [add to 43], score: 210.0 Depth 12 side 1 Score 0.0
+Not updated [add to 51] Best move:  [add to 43], score: 210.0 Depth 12 side 1 Score -110.0
+Not updated [add to 52] Best move:  [add to 43], score: 210.0 Depth 12 side 1 Score -20.0
+     Best move:  [add to 53], score: 210.0 Depth 12 our side
+Not updated [add to 54] Best move:  [add to 53], score: 210.0 Depth 12 side 1 Score -110.0
+Not updated [add to 61] Best move:  [add to 53], score: 210.0 Depth 12 side 1 Score -20.0
+Not updated [add to 62] Best move:  [add to 53], score: 210.0 Depth 12 side 1 Score 70.0
+Not updated [add to 64] Best move:  [add to 53], score: 210.0 Depth 12 side 1 Score -200.0
+Not updated [add to 65] Best move:  [add to 53], score: 210.0 Depth 12 side 1 Score -60.0
+Not updated [add to 66] Best move:  [add to 53], score: 210.0 Depth 12 side 1 Score -30.0
+Not updated [add to 71] Best move:  [add to 53], score: 210.0 Depth 12 side 1 Score 70.0
+Not updated [add to 72] Best move:  [add to 53], score: 210.0 Depth 12 side 1 Score -20.0
+Not updated [add to 73] Best move:  [add to 53], score: 210.0 Depth 12 side 1 Score -110.0
+Not updated [add to 74] Best move:  [add to 53], score: 210.0 Depth 12 side 1 Score -110.0
+Not updated [add to 75] Best move:  [add to 53], score: 210.0 Depth 12 side 1 Score -60.0
+Not updated [add to 76] Best move:  [add to 53], score: 210.0 Depth 12 side 1 Score -30.0
+     Best move:  [add to 11], score: 210.0 Depth 11 opponent side
+     Best move:  [add to 01], score: -180.0 Depth 12 our side
+     Best move:  [add to 02], score: 30.0 Depth 12 our side
+     Best move:  [add to 06], score: 150.0 Depth 12 our side
+Not updated [add to 11] Best move:  [add to 06], score: 150.0 Depth 12 side 1 Score -20.0
+Not updated [add to 21] Best move:  [add to 06], score: 150.0 Depth 12 side 1 Score -80.0
+Not updated [add to 31] Best move:  [add to 06], score: 150.0 Depth 12 side 1 Score -20.0
+Not updated [add to 41] Best move:  [add to 06], score: 150.0 Depth 12 side 1 Score 130.0
+Not updated [add to 42] Best move:  [add to 06], score: 150.0 Depth 12 side 1 Score -90.0
+     Best move:  [add to 43], score: 210.0 Depth 12 our side
+     Best move:  [add to 12], score: 210.0 Depth 11 opponent side
+     Best move:  [add to 01], score: -180.0 Depth 12 our side
+Not updated [add to 02] Best move:  [add to 01], score: -180.0 Depth 12 side 1 Score -250.0
+     Best move:  [add to 06], score: -30.0 Depth 12 our side
+Not updated [add to 11] Best move:  [add to 06], score: -30.0 Depth 12 side 1 Score -200.0
+Not updated [add to 21] Best move:  [add to 06], score: -30.0 Depth 12 side 1 Score -180.0
+Not updated [add to 31] Best move:  [add to 06], score: -30.0 Depth 12 side 1 Score -200.0
+Not updated [add to 41] Best move:  [add to 06], score: -30.0 Depth 12 side 1 Score -50.0
+     Best move:  [add to 42], score: 80.0 Depth 12 our side
+Not updated [add to 43] Best move:  [add to 42], score: 80.0 Depth 12 side 1 Score 0.0
+Not updated [add to 44] Best move:  [add to 42], score: 80.0 Depth 12 side 1 Score 40.0
+Not updated [add to 45] Best move:  [add to 42], score: 80.0 Depth 12 side 1 Score -70.0
+Not updated [add to 51] Best move:  [add to 42], score: 80.0 Depth 12 side 1 Score -290.0
+Not updated [add to 52] Best move:  [add to 42], score: 80.0 Depth 12 side 1 Score -200.0
+Not updated [add to 53] Best move:  [add to 42], score: 80.0 Depth 12 side 1 Score 0.0
+Not updated [add to 54] Best move:  [add to 42], score: 80.0 Depth 12 side 1 Score -290.0
+Not updated [add to 61] Best move:  [add to 42], score: 80.0 Depth 12 side 1 Score -200.0
+Not updated [add to 62] Best move:  [add to 42], score: 80.0 Depth 12 side 1 Score -110.0
+Not updated [add to 64] Best move:  [add to 42], score: 80.0 Depth 12 side 1 Score -380.0
+Not updated [add to 65] Best move:  [add to 42], score: 80.0 Depth 12 side 1 Score -240.0
+Not updated [add to 66] Best move:  [add to 42], score: 80.0 Depth 12 side 1 Score -210.0
+     Best move:  [add to 71], score: 46153.846153846156 Depth 12 our side
+Not updated [add to 13] Best move:  [add to 12], score: 210.0 Depth 11 side 0 Score 46153.846153846156
+     Best move:  [add to 01], score: -90.0 Depth 12 our side
+     Best move:  [add to 02], score: -60.0 Depth 12 our side
+     Best move:  [add to 06], score: 60.0 Depth 12 our side
+Not updated [add to 11] Best move:  [add to 06], score: 60.0 Depth 12 side 1 Score -110.0
+Not updated [add to 21] Best move:  [add to 06], score: 60.0 Depth 12 side 1 Score 10.0
+Not updated [add to 31] Best move:  [add to 06], score: 60.0 Depth 12 side 1 Score -110.0
+     Best move:  [add to 41], score: 180.0 Depth 12 our side
+Not updated [add to 42] Best move:  [add to 41], score: 180.0 Depth 12 side 1 Score -180.0
+Not updated [add to 43] Best move:  [add to 41], score: 180.0 Depth 12 side 1 Score 120.0
+Not updated [add to 44] Best move:  [add to 41], score: 180.0 Depth 12 side 1 Score 130.0
+Not updated [add to 45] Best move:  [add to 41], score: 180.0 Depth 12 side 1 Score 150.0
+Not updated [add to 51] Best move:  [add to 41], score: 180.0 Depth 12 side 1 Score -200.0
+Not updated [add to 52] Best move:  [add to 41], score: 180.0 Depth 12 side 1 Score -110.0
+Not updated [add to 53] Best move:  [add to 41], score: 180.0 Depth 12 side 1 Score 120.0
+Not updated [add to 54] Best move:  [add to 41], score: 180.0 Depth 12 side 1 Score -200.0
+Not updated [add to 61] Best move:  [add to 41], score: 180.0 Depth 12 side 1 Score -110.0
+Not updated [add to 62] Best move:  [add to 41], score: 180.0 Depth 12 side 1 Score -20.0
+Not updated [add to 64] Best move:  [add to 41], score: 180.0 Depth 12 side 1 Score -290.0
+Not updated [add to 65] Best move:  [add to 41], score: 180.0 Depth 12 side 1 Score -120.0
+Not updated [add to 66] Best move:  [add to 41], score: 180.0 Depth 12 side 1 Score -120.0
+     Best move:  [add to 71], score: 46153.846153846156 Depth 12 our side
+Not updated [add to 14] Best move:  [add to 12], score: 210.0 Depth 11 side 0 Score 46153.846153846156
+     Best move:  [add to 01], score: 260.0 Depth 12 our side
+Not updated [add to 15] Best move:  [add to 12], score: 210.0 Depth 11 side 0 Score 260.0
+     Best move:  [add to 01], score: 10.0 Depth 12 our side
+Not updated [add to 02] Best move:  [add to 01], score: 10.0 Depth 12 side 1 Score -60.0
+Not updated [add to 06] Best move:  [add to 01], score: 10.0 Depth 12 side 1 Score -40.0
+Not updated [add to 11] Best move:  [add to 01], score: 10.0 Depth 12 side 1 Score -110.0
+     Best move:  [add to 21], score: 10.0 Depth 12 our side
+Not updated [add to 31] Best move:  [add to 21], score: 10.0 Depth 12 side 1 Score -110.0
+     Best move:  [add to 41], score: 40.0 Depth 12 our side
+Not updated [add to 42] Best move:  [add to 41], score: 40.0 Depth 12 side 1 Score -180.0
+     Best move:  [add to 43], score: 120.0 Depth 12 our side
+     Best move:  [add to 44], score: 130.0 Depth 12 our side
+Not updated [add to 45] Best move:  [add to 44], score: 130.0 Depth 12 side 1 Score 10.0
+Not updated [add to 51] Best move:  [add to 44], score: 130.0 Depth 12 side 1 Score -200.0
+Not updated [add to 52] Best move:  [add to 44], score: 130.0 Depth 12 side 1 Score -110.0
+Not updated [add to 53] Best move:  [add to 44], score: 130.0 Depth 12 side 1 Score 120.0
+Not updated [add to 54] Best move:  [add to 44], score: 130.0 Depth 12 side 1 Score -200.0
+Not updated [add to 61] Best move:  [add to 44], score: 130.0 Depth 12 side 1 Score -110.0
+Not updated [add to 62] Best move:  [add to 44], score: 130.0 Depth 12 side 1 Score -20.0
+Not updated [add to 64] Best move:  [add to 44], score: 130.0 Depth 12 side 1 Score -290.0
+Not updated [add to 65] Best move:  [add to 44], score: 130.0 Depth 12 side 1 Score -150.0
+Not updated [add to 66] Best move:  [add to 44], score: 130.0 Depth 12 side 1 Score -120.0
+Not updated [add to 71] Best move:  [add to 44], score: 130.0 Depth 12 side 1 Score -20.0
+Not updated [add to 72] Best move:  [add to 44], score: 130.0 Depth 12 side 1 Score -110.0
+Not updated [add to 73] Best move:  [add to 44], score: 130.0 Depth 12 side 1 Score 0.0
+Not updated [add to 74] Best move:  [add to 44], score: 130.0 Depth 12 side 1 Score -200.0
+Not updated [add to 75] Best move:  [add to 44], score: 130.0 Depth 12 side 1 Score -150.0
+Not updated [add to 76] Best move:  [add to 44], score: 130.0 Depth 12 side 1 Score -120.0
+     Best move:  [add to 16], score: 130.0 Depth 11 opponent side
+     Best move:  [add to 01], score: 100.0 Depth 12 our side
+Not updated [add to 02] Best move:  [add to 01], score: 100.0 Depth 12 side 1 Score 30.0
+     Best move:  [add to 06], score: 150.0 Depth 12 our side
+Not updated [add to 17] Best move:  [add to 16], score: 130.0 Depth 11 side 0 Score 150.0
+     Best move:  [add to 01], score: 100.0 Depth 12 our side
+Not updated [add to 02] Best move:  [add to 01], score: 100.0 Depth 12 side 1 Score 30.0
+     Best move:  [add to 06], score: 150.0 Depth 12 our side
+Not updated [add to 20] Best move:  [add to 16], score: 130.0 Depth 11 side 0 Score 150.0
+     Best move:  [add to 01], score: 100.0 Depth 12 our side
+Not updated [add to 02] Best move:  [add to 01], score: 100.0 Depth 12 side 1 Score 30.0
+     Best move:  [add to 06], score: 150.0 Depth 12 our side
+Not updated [add to 21] Best move:  [add to 16], score: 130.0 Depth 11 side 0 Score 150.0
+     Best move:  [add to 01], score: 40.0 Depth 12 our side
+Not updated [add to 02] Best move:  [add to 01], score: 40.0 Depth 12 side 1 Score -30.0
+     Best move:  [add to 06], score: 90.0 Depth 12 our side
+Not updated [add to 11] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -80.0
+Not updated [add to 21] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score 40.0
+Not updated [add to 31] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -80.0
+Not updated [add to 41] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score 70.0
+Not updated [add to 42] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -150.0
+     Best move:  [add to 43], score: 250.0 Depth 12 our side
+Not updated [add to 27] Best move:  [add to 16], score: 130.0 Depth 11 side 0 Score 250.0
+     Best move:  [add to 01], score: 10.0 Depth 12 our side
+Not updated [add to 02] Best move:  [add to 01], score: 10.0 Depth 12 side 1 Score -60.0
+     Best move:  [add to 06], score: 60.0 Depth 12 our side
+Not updated [add to 11] Best move:  [add to 06], score: 60.0 Depth 12 side 1 Score -110.0
+Not updated [add to 21] Best move:  [add to 06], score: 60.0 Depth 12 side 1 Score 10.0
+Not updated [add to 31] Best move:  [add to 06], score: 60.0 Depth 12 side 1 Score -190.0
+     Best move:  [add to 41], score: 220.0 Depth 12 our side
+Not updated [add to 30] Best move:  [add to 16], score: 130.0 Depth 11 side 0 Score 220.0
+     Best move:  [add to 01], score: 100.0 Depth 12 our side
+Not updated [add to 02] Best move:  [add to 01], score: 100.0 Depth 12 side 1 Score 30.0
+     Best move:  [add to 06], score: 150.0 Depth 12 our side
+Not updated [add to 31] Best move:  [add to 16], score: 130.0 Depth 11 side 0 Score 150.0
+     Best move:  [add to 01], score: 80.0 Depth 12 our side
+Not updated [add to 02] Best move:  [add to 01], score: 80.0 Depth 12 side 1 Score 10.0
+     Best move:  [add to 06], score: 210.0 Depth 12 our side
+Not updated [add to 36] Best move:  [add to 16], score: 130.0 Depth 11 side 0 Score 210.0
+     Best move:  [add to 01], score: 260.0 Depth 12 our side
+Not updated [add to 37] Best move:  [add to 16], score: 130.0 Depth 11 side 0 Score 260.0
+     Best move:  [add to 01], score: 100.0 Depth 12 our side
+Not updated [add to 02] Best move:  [add to 01], score: 100.0 Depth 12 side 1 Score 30.0
+     Best move:  [add to 06], score: 150.0 Depth 12 our side
+Not updated [add to 40] Best move:  [add to 16], score: 130.0 Depth 11 side 0 Score 150.0
+     Best move:  [add to 01], score: 40.0 Depth 12 our side
+Not updated [add to 02] Best move:  [add to 01], score: 40.0 Depth 12 side 1 Score -30.0
+Not updated [add to 06] Best move:  [add to 01], score: 40.0 Depth 12 side 1 Score -100.0
+Not updated [add to 11] Best move:  [add to 01], score: 40.0 Depth 12 side 1 Score -80.0
+     Best move:  [add to 21], score: 40.0 Depth 12 our side
+Not updated [add to 31] Best move:  [add to 21], score: 40.0 Depth 12 side 1 Score -80.0
+Not updated [add to 42] Best move:  [add to 21], score: 40.0 Depth 12 side 1 Score -150.0
+Not updated [add to 43] Best move:  [add to 21], score: 40.0 Depth 12 side 1 Score -380.0
+     Best move:  [add to 44], score: 160.0 Depth 12 our side
+Not updated [add to 41] Best move:  [add to 16], score: 130.0 Depth 11 side 0 Score 160.0
+     Best move:  [add to 01], score: 100.0 Depth 12 our side
+Not updated [add to 02] Best move:  [add to 01], score: 100.0 Depth 12 side 1 Score -90.0
+     Best move:  [add to 06], score: 150.0 Depth 12 our side
+Not updated [add to 50] Best move:  [add to 16], score: 130.0 Depth 11 side 0 Score 150.0
+     Best move:  [add to 01], score: -50.0 Depth 12 our side
+Not updated [add to 02] Best move:  [add to 01], score: -50.0 Depth 12 side 1 Score -120.0
+     Best move:  [add to 06], score: 0.0 Depth 12 our side
+Not updated [add to 11] Best move:  [add to 06], score: 0.0 Depth 12 side 1 Score -170.0
+Not updated [add to 21] Best move:  [add to 06], score: 0.0 Depth 12 side 1 Score -50.0
+Not updated [add to 31] Best move:  [add to 06], score: 0.0 Depth 12 side 1 Score -170.0
+Not updated [add to 41] Best move:  [add to 06], score: 0.0 Depth 12 side 1 Score -20.0
+Not updated [add to 42] Best move:  [add to 06], score: 0.0 Depth 12 side 1 Score -260.0
+     Best move:  [add to 43], score: 160.0 Depth 12 our side
+Not updated [add to 51] Best move:  [add to 16], score: 130.0 Depth 11 side 0 Score 160.0
+     Best move:  [add to 01], score: -160.0 Depth 12 our side
+Not updated [add to 02] Best move:  [add to 01], score: -160.0 Depth 12 side 1 Score -230.0
+     Best move:  [add to 06], score: -110.0 Depth 12 our side
+Not updated [add to 11] Best move:  [add to 06], score: -110.0 Depth 12 side 1 Score -280.0
+Not updated [add to 21] Best move:  [add to 06], score: -110.0 Depth 12 side 1 Score -160.0
+Not updated [add to 31] Best move:  [add to 06], score: -110.0 Depth 12 side 1 Score -280.0
+Not updated [add to 41] Best move:  [add to 06], score: -110.0 Depth 12 side 1 Score -130.0
+Not updated [add to 42] Best move:  [add to 06], score: -110.0 Depth 12 side 1 Score -350.0
+     Best move:  [add to 43], score: 850.0 Depth 12 our side
+Not updated [add to 52] Best move:  [add to 16], score: 130.0 Depth 11 side 0 Score 850.0
+     Best move:  [add to 01], score: 20.0 Depth 12 our side
+Not updated [add to 02] Best move:  [add to 01], score: 20.0 Depth 12 side 1 Score -50.0
+     Best move:  [add to 06], score: 70.0 Depth 12 our side
+Not updated [add to 11] Best move:  [add to 06], score: 70.0 Depth 12 side 1 Score -100.0
+Not updated [add to 21] Best move:  [add to 06], score: 70.0 Depth 12 side 1 Score 20.0
+Not updated [add to 31] Best move:  [add to 06], score: 70.0 Depth 12 side 1 Score -30.0
+Not updated [add to 41] Best move:  [add to 06], score: 70.0 Depth 12 side 1 Score 50.0
+Not updated [add to 42] Best move:  [add to 06], score: 70.0 Depth 12 side 1 Score -170.0
+     Best move:  [add to 43], score: 130.0 Depth 12 our side
+     Best move:  [add to 53], score: 130.0 Depth 11 opponent side
+     Best move:  [add to 01], score: -110.0 Depth 12 our side
+Not updated [add to 02] Best move:  [add to 01], score: -110.0 Depth 12 side 1 Score -180.0
+     Best move:  [add to 06], score: -60.0 Depth 12 our side
+Not updated [add to 11] Best move:  [add to 06], score: -60.0 Depth 12 side 1 Score -230.0
+Not updated [add to 21] Best move:  [add to 06], score: -60.0 Depth 12 side 1 Score -110.0
+Not updated [add to 31] Best move:  [add to 06], score: -60.0 Depth 12 side 1 Score -230.0
+Not updated [add to 41] Best move:  [add to 06], score: -60.0 Depth 12 side 1 Score -80.0
+     Best move:  [add to 42], score: 100.0 Depth 12 our side
+     Best move:  [add to 43], score: 220.0 Depth 12 our side
+Not updated [add to 60] Best move:  [add to 53], score: 130.0 Depth 11 side 0 Score 220.0
+     Best move:  [add to 01], score: -80.0 Depth 12 our side
+Not updated [add to 02] Best move:  [add to 01], score: -80.0 Depth 12 side 1 Score -150.0
+     Best move:  [add to 06], score: -30.0 Depth 12 our side
+Not updated [add to 11] Best move:  [add to 06], score: -30.0 Depth 12 side 1 Score -200.0
+Not updated [add to 21] Best move:  [add to 06], score: -30.0 Depth 12 side 1 Score -80.0
+Not updated [add to 31] Best move:  [add to 06], score: -30.0 Depth 12 side 1 Score -200.0
+Not updated [add to 41] Best move:  [add to 06], score: -30.0 Depth 12 side 1 Score -50.0
+Not updated [add to 42] Best move:  [add to 06], score: -30.0 Depth 12 side 1 Score -270.0
+     Best move:  [add to 43], score: 730.0 Depth 12 our side
+Not updated [add to 61] Best move:  [add to 53], score: 130.0 Depth 11 side 0 Score 730.0
+     Best move:  [add to 01], score: 20.0 Depth 12 our side
+Not updated [add to 02] Best move:  [add to 01], score: 20.0 Depth 12 side 1 Score -50.0
+     Best move:  [add to 06], score: 70.0 Depth 12 our side
+Not updated [add to 11] Best move:  [add to 06], score: 70.0 Depth 12 side 1 Score -100.0
+Not updated [add to 21] Best move:  [add to 06], score: 70.0 Depth 12 side 1 Score 20.0
+Not updated [add to 31] Best move:  [add to 06], score: 70.0 Depth 12 side 1 Score -100.0
+Not updated [add to 41] Best move:  [add to 06], score: 70.0 Depth 12 side 1 Score 50.0
+Not updated [add to 42] Best move:  [add to 06], score: 70.0 Depth 12 side 1 Score -170.0
+     Best move:  [add to 43], score: 230.0 Depth 12 our side
+Not updated [add to 62] Best move:  [add to 53], score: 130.0 Depth 11 side 0 Score 230.0
+     Best move:  [add to 26], score: 130.0 Depth 10 our side
+     Best move:  [add to 01], score: 70.0 Depth 12 our side
+Not updated [add to 02] Best move:  [add to 01], score: 70.0 Depth 12 side 1 Score -90.0
+     Best move:  [add to 06], score: 90.0 Depth 12 our side
+Not updated [add to 11] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -80.0
+Not updated [add to 16] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score 60.0
+     Best move:  [add to 21], score: 90.0 Depth 12 our side
+Not updated [add to 26] Best move:  [add to 21], score: 90.0 Depth 12 side 1 Score -20.0
+Not updated [add to 36] Best move:  [add to 21], score: 90.0 Depth 12 side 1 Score 60.0
+     Best move:  [add to 41], score: 90.0 Depth 12 our side
+Not updated [add to 42] Best move:  [add to 41], score: 90.0 Depth 12 side 1 Score -220.0
+     Best move:  [add to 43], score: 120.0 Depth 12 our side
+Not updated [add to 44] Best move:  [add to 43], score: 120.0 Depth 12 side 1 Score 70.0
+Not updated [add to 45] Best move:  [add to 43], score: 120.0 Depth 12 side 1 Score -120.0
+Not updated [add to 51] Best move:  [add to 43], score: 120.0 Depth 12 side 1 Score -240.0
+Not updated [add to 52] Best move:  [add to 43], score: 120.0 Depth 12 side 1 Score -110.0
+Not updated [add to 53] Best move:  [add to 43], score: 120.0 Depth 12 side 1 Score -310.0
+Not updated [add to 54] Best move:  [add to 43], score: 120.0 Depth 12 side 1 Score -200.0
+Not updated [add to 61] Best move:  [add to 43], score: 120.0 Depth 12 side 1 Score -80.0
+Not updated [add to 62] Best move:  [add to 43], score: 120.0 Depth 12 side 1 Score -200.0
+Not updated [add to 64] Best move:  [add to 43], score: 120.0 Depth 12 side 1 Score -330.0
+Not updated [add to 65] Best move:  [add to 43], score: 120.0 Depth 12 side 1 Score -150.0
+Not updated [add to 66] Best move:  [add to 43], score: 120.0 Depth 12 side 1 Score -150.0
+Not updated [add to 71] Best move:  [add to 43], score: 120.0 Depth 12 side 1 Score -80.0
+Not updated [add to 72] Best move:  [add to 43], score: 120.0 Depth 12 side 1 Score -110.0
+Not updated [add to 73] Best move:  [add to 43], score: 120.0 Depth 12 side 1 Score -150.0
+Not updated [add to 74] Best move:  [add to 43], score: 120.0 Depth 12 side 1 Score -200.0
+Not updated [add to 75] Best move:  [add to 43], score: 120.0 Depth 12 side 1 Score -170.0
+Not updated [add to 76] Best move:  [add to 43], score: 120.0 Depth 12 side 1 Score -150.0
+     Best move:  [add to 10], score: 120.0 Depth 11 opponent side
+Not updated [add to 31] Best move:  [add to 26], score: 130.0 Depth 10 side 1 Score 120.0
+     Best move:  [add to 01], score: 180.0 Depth 12 our side
+Not updated [add to 02] Best move:  [add to 01], score: 180.0 Depth 12 side 1 Score 80.0
+     Best move:  [add to 06], score: 200.0 Depth 12 our side
+Not updated [add to 11] Best move:  [add to 06], score: 200.0 Depth 12 side 1 Score 60.0
+Not updated [add to 16] Best move:  [add to 06], score: 200.0 Depth 12 side 1 Score 170.0
+Not updated [add to 21] Best move:  [add to 06], score: 200.0 Depth 12 side 1 Score 180.0
+Not updated [add to 31] Best move:  [add to 06], score: 200.0 Depth 12 side 1 Score 60.0
+Not updated [add to 41] Best move:  [add to 06], score: 200.0 Depth 12 side 1 Score -150.0
+Not updated [add to 42] Best move:  [add to 06], score: 200.0 Depth 12 side 1 Score -10.0
+     Best move:  [add to 43], score: 320.0 Depth 12 our side
+Not updated [add to 44] Best move:  [add to 43], score: 320.0 Depth 12 side 1 Score 270.0
+Not updated [add to 51] Best move:  [add to 43], score: 320.0 Depth 12 side 1 Score -30.0
+Not updated [add to 52] Best move:  [add to 43], score: 320.0 Depth 12 side 1 Score 60.0
+Not updated [add to 53] Best move:  [add to 43], score: 320.0 Depth 12 side 1 Score 240.0
+Not updated [add to 54] Best move:  [add to 43], score: 320.0 Depth 12 side 1 Score -10.0
+Not updated [add to 61] Best move:  [add to 43], score: 320.0 Depth 12 side 1 Score 60.0
+Not updated [add to 62] Best move:  [add to 43], score: 320.0 Depth 12 side 1 Score 60.0
+Not updated [add to 64] Best move:  [add to 43], score: 320.0 Depth 12 side 1 Score -120.0
+Not updated [add to 65] Best move:  [add to 43], score: 320.0 Depth 12 side 1 Score 20.0
+Not updated [add to 66] Best move:  [add to 43], score: 320.0 Depth 12 side 1 Score 60.0
+Not updated [add to 71] Best move:  [add to 43], score: 320.0 Depth 12 side 1 Score 60.0
+Not updated [add to 72] Best move:  [add to 43], score: 320.0 Depth 12 side 1 Score -30.0
+Not updated [add to 73] Best move:  [add to 43], score: 320.0 Depth 12 side 1 Score 0.0
+Not updated [add to 74] Best move:  [add to 43], score: 320.0 Depth 12 side 1 Score -30.0
+Not updated [add to 75] Best move:  [add to 43], score: 320.0 Depth 12 side 1 Score 20.0
+Not updated [add to 76] Best move:  [add to 43], score: 320.0 Depth 12 side 1 Score 60.0
+     Best move:  [add to 10], score: 320.0 Depth 11 opponent side
+     Best move:  [add to 01], score: 180.0 Depth 12 our side
+Not updated [add to 02] Best move:  [add to 01], score: 180.0 Depth 12 side 1 Score 80.0
+     Best move:  [add to 06], score: 200.0 Depth 12 our side
+Not updated [add to 16] Best move:  [add to 06], score: 200.0 Depth 12 side 1 Score 170.0
+Not updated [add to 21] Best move:  [add to 06], score: 200.0 Depth 12 side 1 Score 180.0
+Not updated [add to 31] Best move:  [add to 06], score: 200.0 Depth 12 side 1 Score 160.0
+Not updated [add to 41] Best move:  [add to 06], score: 200.0 Depth 12 side 1 Score 180.0
+Not updated [add to 42] Best move:  [add to 06], score: 200.0 Depth 12 side 1 Score -10.0
+     Best move:  [add to 43], score: 320.0 Depth 12 our side
+     Best move:  [add to 11], score: 320.0 Depth 11 opponent side
+     Best move:  [add to 01], score: -100.0 Depth 12 our side
+     Best move:  [add to 02], score: 80.0 Depth 12 our side
+     Best move:  [add to 06], score: 200.0 Depth 12 our side
+Not updated [add to 11] Best move:  [add to 06], score: 200.0 Depth 12 side 1 Score 60.0
+Not updated [add to 16] Best move:  [add to 06], score: 200.0 Depth 12 side 1 Score 170.0
+Not updated [add to 21] Best move:  [add to 06], score: 200.0 Depth 12 side 1 Score -100.0
+Not updated [add to 31] Best move:  [add to 06], score: 200.0 Depth 12 side 1 Score 60.0
+Not updated [add to 41] Best move:  [add to 06], score: 200.0 Depth 12 side 1 Score 180.0
+Not updated [add to 42] Best move:  [add to 06], score: 200.0 Depth 12 side 1 Score -10.0
+     Best move:  [add to 43], score: 320.0 Depth 12 our side
+     Best move:  [add to 12], score: 320.0 Depth 11 opponent side
+     Best move:  [add to 01], score: -220.0 Depth 12 our side
+     Best move:  [add to 02], score: -200.0 Depth 12 our side
+     Best move:  [add to 06], score: -80.0 Depth 12 our side
+Not updated [add to 11] Best move:  [add to 06], score: -80.0 Depth 12 side 1 Score -220.0
+Not updated [add to 16] Best move:  [add to 06], score: -80.0 Depth 12 side 1 Score -110.0
+Not updated [add to 21] Best move:  [add to 06], score: -80.0 Depth 12 side 1 Score -220.0
+Not updated [add to 31] Best move:  [add to 06], score: -80.0 Depth 12 side 1 Score -220.0
+Not updated [add to 41] Best move:  [add to 06], score: -80.0 Depth 12 side 1 Score -100.0
+Not updated [add to 42] Best move:  [add to 06], score: -80.0 Depth 12 side 1 Score -290.0
+Not updated [add to 43] Best move:  [add to 06], score: -80.0 Depth 12 side 1 Score -190.0
+     Best move:  [add to 44], score: -10.0 Depth 12 our side
+Not updated [add to 51] Best move:  [add to 44], score: -10.0 Depth 12 side 1 Score -310.0
+Not updated [add to 52] Best move:  [add to 44], score: -10.0 Depth 12 side 1 Score -220.0
+Not updated [add to 53] Best move:  [add to 44], score: -10.0 Depth 12 side 1 Score -40.0
+Not updated [add to 54] Best move:  [add to 44], score: -10.0 Depth 12 side 1 Score -290.0
+Not updated [add to 61] Best move:  [add to 44], score: -10.0 Depth 12 side 1 Score -220.0
+Not updated [add to 62] Best move:  [add to 44], score: -10.0 Depth 12 side 1 Score -220.0
+Not updated [add to 64] Best move:  [add to 44], score: -10.0 Depth 12 side 1 Score -400.0
+Not updated [add to 65] Best move:  [add to 44], score: -10.0 Depth 12 side 1 Score -260.0
+Not updated [add to 66] Best move:  [add to 44], score: -10.0 Depth 12 side 1 Score -220.0
+Not updated [add to 71] Best move:  [add to 44], score: -10.0 Depth 12 side 1 Score -220.0
+Not updated [add to 72] Best move:  [add to 44], score: -10.0 Depth 12 side 1 Score -310.0
+Not updated [add to 73] Best move:  [add to 44], score: -10.0 Depth 12 side 1 Score -70.0
+     Best move:  [add to 74], score: 100.0 Depth 12 our side
+Not updated [add to 75] Best move:  [add to 74], score: 100.0 Depth 12 side 1 Score -260.0
+Not updated [add to 76] Best move:  [add to 74], score: 100.0 Depth 12 side 1 Score -220.0
+     Best move:  [add to 13], score: 100.0 Depth 11 opponent side
+Not updated [add to 36] Best move:  [add to 26], score: 130.0 Depth 10 side 1 Score 100.0
+     Best move:  [add to 01], score: 220.0 Depth 12 our side
+Not updated [add to 02] Best move:  [add to 01], score: 220.0 Depth 12 side 1 Score 30.0
+Not updated [add to 06] Best move:  [add to 01], score: 220.0 Depth 12 side 1 Score 210.0
+Not updated [add to 11] Best move:  [add to 01], score: 220.0 Depth 12 side 1 Score 70.0
+Not updated [add to 16] Best move:  [add to 01], score: 220.0 Depth 12 side 1 Score 180.0
+     Best move:  [add to 21], score: 250.0 Depth 12 our side
+Not updated [add to 26] Best move:  [add to 21], score: 250.0 Depth 12 side 1 Score 130.0
+Not updated [add to 31] Best move:  [add to 21], score: 250.0 Depth 12 side 1 Score 90.0
+Not updated [add to 36] Best move:  [add to 21], score: 250.0 Depth 12 side 1 Score -150.0
+Not updated [add to 42] Best move:  [add to 21], score: 250.0 Depth 12 side 1 Score -130.0
+Not updated [add to 43] Best move:  [add to 21], score: 250.0 Depth 12 side 1 Score 180.0
+Not updated [add to 44] Best move:  [add to 21], score: 250.0 Depth 12 side 1 Score 130.0
+Not updated [add to 45] Best move:  [add to 21], score: 250.0 Depth 12 side 1 Score -60.0
+Not updated [add to 51] Best move:  [add to 21], score: 250.0 Depth 12 side 1 Score -70.0
+Not updated [add to 52] Best move:  [add to 21], score: 250.0 Depth 12 side 1 Score 90.0
+Not updated [add to 53] Best move:  [add to 21], score: 250.0 Depth 12 side 1 Score 150.0
+Not updated [add to 54] Best move:  [add to 21], score: 250.0 Depth 12 side 1 Score -110.0
+Not updated [add to 61] Best move:  [add to 21], score: 250.0 Depth 12 side 1 Score 70.0
+Not updated [add to 62] Best move:  [add to 21], score: 250.0 Depth 12 side 1 Score -20.0
+Not updated [add to 64] Best move:  [add to 21], score: 250.0 Depth 12 side 1 Score -200.0
+Not updated [add to 65] Best move:  [add to 21], score: 250.0 Depth 12 side 1 Score -60.0
+Not updated [add to 66] Best move:  [add to 21], score: 250.0 Depth 12 side 1 Score -110.0
+Not updated [add to 71] Best move:  [add to 21], score: 250.0 Depth 12 side 1 Score 70.0
+Not updated [add to 72] Best move:  [add to 21], score: 250.0 Depth 12 side 1 Score -20.0
+Not updated [add to 73] Best move:  [add to 21], score: 250.0 Depth 12 side 1 Score -110.0
+Not updated [add to 74] Best move:  [add to 21], score: 250.0 Depth 12 side 1 Score -200.0
+Not updated [add to 75] Best move:  [add to 21], score: 250.0 Depth 12 side 1 Score -60.0
+Not updated [add to 76] Best move:  [add to 21], score: 250.0 Depth 12 side 1 Score -110.0
+     Best move:  [add to 10], score: 250.0 Depth 11 opponent side
+     Best move:  [add to 01], score: -60.0 Depth 12 our side
+     Best move:  [add to 02], score: 30.0 Depth 12 our side
+     Best move:  [add to 06], score: 210.0 Depth 12 our side
+Not updated [add to 16] Best move:  [add to 06], score: 210.0 Depth 12 side 1 Score 180.0
+     Best move:  [add to 21], score: 250.0 Depth 12 our side
+     Best move:  [add to 11], score: 250.0 Depth 11 opponent side
+     Best move:  [add to 01], score: -180.0 Depth 12 our side
+     Best move:  [add to 02], score: 30.0 Depth 12 our side
+     Best move:  [add to 06], score: 210.0 Depth 12 our side
+Not updated [add to 11] Best move:  [add to 06], score: 210.0 Depth 12 side 1 Score 70.0
+Not updated [add to 16] Best move:  [add to 06], score: 210.0 Depth 12 side 1 Score 180.0
+Not updated [add to 21] Best move:  [add to 06], score: 210.0 Depth 12 side 1 Score -340.0
+Not updated [add to 26] Best move:  [add to 06], score: 210.0 Depth 12 side 1 Score 130.0
+Not updated [add to 31] Best move:  [add to 06], score: 210.0 Depth 12 side 1 Score 90.0
+Not updated [add to 36] Best move:  [add to 06], score: 210.0 Depth 12 side 1 Score 180.0
+Not updated [add to 42] Best move:  [add to 06], score: 210.0 Depth 12 side 1 Score -130.0
+Not updated [add to 43] Best move:  [add to 06], score: 210.0 Depth 12 side 1 Score -110.0
+Not updated [add to 44] Best move:  [add to 06], score: 210.0 Depth 12 side 1 Score 130.0
+Not updated [add to 45] Best move:  [add to 06], score: 210.0 Depth 12 side 1 Score -20.0
+Not updated [add to 51] Best move:  [add to 06], score: 210.0 Depth 12 side 1 Score -70.0
+Not updated [add to 52] Best move:  [add to 06], score: 210.0 Depth 12 side 1 Score 90.0
+Not updated [add to 53] Best move:  [add to 06], score: 210.0 Depth 12 side 1 Score 150.0
+Not updated [add to 54] Best move:  [add to 06], score: 210.0 Depth 12 side 1 Score -110.0
+Not updated [add to 61] Best move:  [add to 06], score: 210.0 Depth 12 side 1 Score 70.0
+Not updated [add to 62] Best move:  [add to 06], score: 210.0 Depth 12 side 1 Score -20.0
+Not updated [add to 64] Best move:  [add to 06], score: 210.0 Depth 12 side 1 Score 80.0
+Not updated [add to 65] Best move:  [add to 06], score: 210.0 Depth 12 side 1 Score -60.0
+Not updated [add to 66] Best move:  [add to 06], score: 210.0 Depth 12 side 1 Score -110.0
+Not updated [add to 71] Best move:  [add to 06], score: 210.0 Depth 12 side 1 Score 70.0
+Not updated [add to 72] Best move:  [add to 06], score: 210.0 Depth 12 side 1 Score -20.0
+Not updated [add to 73] Best move:  [add to 06], score: 210.0 Depth 12 side 1 Score -110.0
+Not updated [add to 74] Best move:  [add to 06], score: 210.0 Depth 12 side 1 Score -200.0
+Not updated [add to 75] Best move:  [add to 06], score: 210.0 Depth 12 side 1 Score -60.0
+Not updated [add to 76] Best move:  [add to 06], score: 210.0 Depth 12 side 1 Score -110.0
+     Best move:  [add to 12], score: 210.0 Depth 11 opponent side
+     Best move:  [add to 01], score: -60.0 Depth 12 our side
+Not updated [add to 02] Best move:  [add to 01], score: -60.0 Depth 12 side 1 Score -250.0
+     Best move:  [add to 06], score: 30.0 Depth 12 our side
+Not updated [add to 11] Best move:  [add to 06], score: 30.0 Depth 12 side 1 Score -110.0
+Not updated [add to 16] Best move:  [add to 06], score: 30.0 Depth 12 side 1 Score 0.0
+Not updated [add to 21] Best move:  [add to 06], score: 30.0 Depth 12 side 1 Score -30.0
+Not updated [add to 26] Best move:  [add to 06], score: 30.0 Depth 12 side 1 Score -50.0
+Not updated [add to 31] Best move:  [add to 06], score: 30.0 Depth 12 side 1 Score -90.0
+Not updated [add to 36] Best move:  [add to 06], score: 30.0 Depth 12 side 1 Score -100.0
+Not updated [add to 42] Best move:  [add to 06], score: 30.0 Depth 12 side 1 Score -310.0
+Not updated [add to 43] Best move:  [add to 06], score: 30.0 Depth 12 side 1 Score -60.0
+Not updated [add to 44] Best move:  [add to 06], score: 30.0 Depth 12 side 1 Score -50.0
+Not updated [add to 45] Best move:  [add to 06], score: 30.0 Depth 12 side 1 Score -130.0
+Not updated [add to 51] Best move:  [add to 06], score: 30.0 Depth 12 side 1 Score -250.0
+Not updated [add to 52] Best move:  [add to 06], score: 30.0 Depth 12 side 1 Score -90.0
+Not updated [add to 53] Best move:  [add to 06], score: 30.0 Depth 12 side 1 Score -20.0
+Not updated [add to 54] Best move:  [add to 06], score: 30.0 Depth 12 side 1 Score -290.0
+Not updated [add to 61] Best move:  [add to 06], score: 30.0 Depth 12 side 1 Score -110.0
+Not updated [add to 62] Best move:  [add to 06], score: 30.0 Depth 12 side 1 Score -200.0
+Not updated [add to 64] Best move:  [add to 06], score: 30.0 Depth 12 side 1 Score -380.0
+Not updated [add to 65] Best move:  [add to 06], score: 30.0 Depth 12 side 1 Score -30.0
+Not updated [add to 66] Best move:  [add to 06], score: 30.0 Depth 12 side 1 Score -290.0
+     Best move:  [add to 71], score: 46153.846153846156 Depth 12 our side
+Not updated [add to 13] Best move:  [add to 12], score: 210.0 Depth 11 side 0 Score 46153.846153846156
+     Best move:  [add to 01], score: 310.0 Depth 12 our side
+Not updated [add to 14] Best move:  [add to 12], score: 210.0 Depth 11 side 0 Score 310.0
+     Best move:  [add to 01], score: 380.0 Depth 12 our side
+Not updated [add to 15] Best move:  [add to 12], score: 210.0 Depth 11 side 0 Score 380.0
+     Best move:  [add to 01], score: 290.0 Depth 12 our side
+Not updated [add to 16] Best move:  [add to 12], score: 210.0 Depth 11 side 0 Score 290.0
+     Best move:  [add to 01], score: 220.0 Depth 12 our side
+Not updated [add to 17] Best move:  [add to 12], score: 210.0 Depth 11 side 0 Score 220.0
+     Best move:  [add to 01], score: 220.0 Depth 12 our side
+Not updated [add to 20] Best move:  [add to 12], score: 210.0 Depth 11 side 0 Score 220.0
+     Best move:  [add to 01], score: -60.0 Depth 12 our side
+     Best move:  [add to 02], score: 30.0 Depth 12 our side
+     Best move:  [add to 06], score: 210.0 Depth 12 our side
+     Best move:  [add to 21], score: 210.0 Depth 11 opponent side
+     Best move:  [add to 01], score: 310.0 Depth 12 our side
+Not updated [add to 26] Best move:  [add to 21], score: 210.0 Depth 11 side 0 Score 310.0
+     Best move:  [add to 01], score: 160.0 Depth 12 our side
+Not updated [add to 02] Best move:  [add to 01], score: 160.0 Depth 12 side 1 Score -30.0
+Not updated [add to 06] Best move:  [add to 01], score: 160.0 Depth 12 side 1 Score 150.0
+Not updated [add to 11] Best move:  [add to 01], score: 160.0 Depth 12 side 1 Score 10.0
+Not updated [add to 16] Best move:  [add to 01], score: 160.0 Depth 12 side 1 Score 120.0
+Not updated [add to 21] Best move:  [add to 01], score: 160.0 Depth 12 side 1 Score -110.0
+Not updated [add to 26] Best move:  [add to 01], score: 160.0 Depth 12 side 1 Score 70.0
+Not updated [add to 31] Best move:  [add to 01], score: 160.0 Depth 12 side 1 Score 30.0
+     Best move:  [add to 36], score: 220.0 Depth 12 our side
+Not updated [add to 27] Best move:  [add to 21], score: 210.0 Depth 11 side 0 Score 220.0
+     Best move:  [add to 01], score: 310.0 Depth 12 our side
+Not updated [add to 30] Best move:  [add to 21], score: 210.0 Depth 11 side 0 Score 310.0
+     Best move:  [add to 01], score: -60.0 Depth 12 our side
+     Best move:  [add to 02], score: 30.0 Depth 12 our side
+     Best move:  [add to 06], score: 210.0 Depth 12 our side
+     Best move:  [add to 31], score: 210.0 Depth 11 opponent side
+     Best move:  [add to 01], score: 380.0 Depth 12 our side
+Not updated [add to 36] Best move:  [add to 31], score: 210.0 Depth 11 side 0 Score 380.0
+     Best move:  [add to 01], score: 380.0 Depth 12 our side
+Not updated [add to 37] Best move:  [add to 31], score: 210.0 Depth 11 side 0 Score 380.0
+     Best move:  [add to 01], score: 220.0 Depth 12 our side
+Not updated [add to 40] Best move:  [add to 31], score: 210.0 Depth 11 side 0 Score 220.0
+     Best move:  [add to 01], score: 220.0 Depth 12 our side
+Not updated [add to 50] Best move:  [add to 31], score: 210.0 Depth 11 side 0 Score 220.0
+     Best move:  [add to 01], score: 70.0 Depth 12 our side
+Not updated [add to 02] Best move:  [add to 01], score: 70.0 Depth 12 side 1 Score -120.0
+Not updated [add to 06] Best move:  [add to 01], score: 70.0 Depth 12 side 1 Score 60.0
+Not updated [add to 11] Best move:  [add to 01], score: 70.0 Depth 12 side 1 Score -80.0
+Not updated [add to 16] Best move:  [add to 01], score: 70.0 Depth 12 side 1 Score 30.0
+     Best move:  [add to 21], score: 100.0 Depth 12 our side
+Not updated [add to 26] Best move:  [add to 21], score: 100.0 Depth 12 side 1 Score -20.0
+Not updated [add to 31] Best move:  [add to 21], score: 100.0 Depth 12 side 1 Score -60.0
+Not updated [add to 36] Best move:  [add to 21], score: 100.0 Depth 12 side 1 Score 30.0
+     Best move:  [add to 42], score: 120.0 Depth 12 our side
+     Best move:  [add to 43], score: 130.0 Depth 12 our side
+Not updated [add to 44] Best move:  [add to 43], score: 130.0 Depth 12 side 1 Score 100.0
+Not updated [add to 45] Best move:  [add to 43], score: 130.0 Depth 12 side 1 Score -210.0
+Not updated [add to 52] Best move:  [add to 43], score: 130.0 Depth 12 side 1 Score 30.0
+     Best move:  [add to 53], score: 220.0 Depth 12 our side
+Not updated [add to 51] Best move:  [add to 31], score: 210.0 Depth 11 side 0 Score 220.0
+     Best move:  [add to 01], score: -40.0 Depth 12 our side
+Not updated [add to 02] Best move:  [add to 01], score: -40.0 Depth 12 side 1 Score -230.0
+Not updated [add to 06] Best move:  [add to 01], score: -40.0 Depth 12 side 1 Score -50.0
+Not updated [add to 11] Best move:  [add to 01], score: -40.0 Depth 12 side 1 Score -190.0
+Not updated [add to 16] Best move:  [add to 01], score: -40.0 Depth 12 side 1 Score -80.0
+     Best move:  [add to 21], score: -10.0 Depth 12 our side
+Not updated [add to 26] Best move:  [add to 21], score: -10.0 Depth 12 side 1 Score -130.0
+Not updated [add to 31] Best move:  [add to 21], score: -10.0 Depth 12 side 1 Score -170.0
+Not updated [add to 36] Best move:  [add to 21], score: -10.0 Depth 12 side 1 Score -80.0
+Not updated [add to 42] Best move:  [add to 21], score: -10.0 Depth 12 side 1 Score -390.0
+     Best move:  [add to 43], score: 820.0 Depth 12 our side
+Not updated [add to 52] Best move:  [add to 31], score: 210.0 Depth 11 side 0 Score 820.0
+     Best move:  [add to 01], score: 140.0 Depth 12 our side
+Not updated [add to 02] Best move:  [add to 01], score: 140.0 Depth 12 side 1 Score -50.0
+Not updated [add to 06] Best move:  [add to 01], score: 140.0 Depth 12 side 1 Score 130.0
+Not updated [add to 11] Best move:  [add to 01], score: 140.0 Depth 12 side 1 Score -10.0
+Not updated [add to 16] Best move:  [add to 01], score: 140.0 Depth 12 side 1 Score 100.0
+     Best move:  [add to 21], score: 170.0 Depth 12 our side
+Not updated [add to 26] Best move:  [add to 21], score: 170.0 Depth 12 side 1 Score 50.0
+Not updated [add to 31] Best move:  [add to 21], score: 170.0 Depth 12 side 1 Score 10.0
+Not updated [add to 36] Best move:  [add to 21], score: 170.0 Depth 12 side 1 Score 100.0
+Not updated [add to 42] Best move:  [add to 21], score: 170.0 Depth 12 side 1 Score -210.0
+Not updated [add to 43] Best move:  [add to 21], score: 170.0 Depth 12 side 1 Score 100.0
+Not updated [add to 44] Best move:  [add to 21], score: 170.0 Depth 12 side 1 Score 50.0
+Not updated [add to 45] Best move:  [add to 21], score: 170.0 Depth 12 side 1 Score -140.0
+Not updated [add to 51] Best move:  [add to 21], score: 170.0 Depth 12 side 1 Score 90.0
+Not updated [add to 52] Best move:  [add to 21], score: 170.0 Depth 12 side 1 Score 10.0
+Not updated [add to 54] Best move:  [add to 21], score: 170.0 Depth 12 side 1 Score -90.0
+Not updated [add to 61] Best move:  [add to 21], score: 170.0 Depth 12 side 1 Score -10.0
+Not updated [add to 62] Best move:  [add to 21], score: 170.0 Depth 12 side 1 Score 110.0
+Not updated [add to 64] Best move:  [add to 21], score: 170.0 Depth 12 side 1 Score -280.0
+Not updated [add to 65] Best move:  [add to 21], score: 170.0 Depth 12 side 1 Score -140.0
+Not updated [add to 66] Best move:  [add to 21], score: 170.0 Depth 12 side 1 Score -190.0
+Not updated [add to 71] Best move:  [add to 21], score: 170.0 Depth 12 side 1 Score -10.0
+Not updated [add to 72] Best move:  [add to 21], score: 170.0 Depth 12 side 1 Score -100.0
+Not updated [add to 73] Best move:  [add to 21], score: 170.0 Depth 12 side 1 Score -190.0
+Not updated [add to 74] Best move:  [add to 21], score: 170.0 Depth 12 side 1 Score -280.0
+Not updated [add to 75] Best move:  [add to 21], score: 170.0 Depth 12 side 1 Score 120.0
+Not updated [add to 76] Best move:  [add to 21], score: 170.0 Depth 12 side 1 Score -190.0
+     Best move:  [add to 53], score: 170.0 Depth 11 opponent side
+     Best move:  [add to 01], score: 10.0 Depth 12 our side
+Not updated [add to 02] Best move:  [add to 01], score: 10.0 Depth 12 side 1 Score -180.0
+Not updated [add to 06] Best move:  [add to 01], score: 10.0 Depth 12 side 1 Score 0.0
+Not updated [add to 11] Best move:  [add to 01], score: 10.0 Depth 12 side 1 Score -140.0
+Not updated [add to 16] Best move:  [add to 01], score: 10.0 Depth 12 side 1 Score -30.0
+     Best move:  [add to 21], score: 40.0 Depth 12 our side
+Not updated [add to 26] Best move:  [add to 21], score: 40.0 Depth 12 side 1 Score -80.0
+Not updated [add to 31] Best move:  [add to 21], score: 40.0 Depth 12 side 1 Score -120.0
+Not updated [add to 36] Best move:  [add to 21], score: 40.0 Depth 12 side 1 Score -30.0
+     Best move:  [add to 42], score: 60.0 Depth 12 our side
+Not updated [add to 43] Best move:  [add to 42], score: 60.0 Depth 12 side 1 Score -20.0
+Not updated [add to 44] Best move:  [add to 42], score: 60.0 Depth 12 side 1 Score 40.0
+Not updated [add to 45] Best move:  [add to 42], score: 60.0 Depth 12 side 1 Score -270.0
+     Best move:  [add to 51], score: 120.0 Depth 12 our side
+Not updated [add to 52] Best move:  [add to 51], score: 120.0 Depth 12 side 1 Score -120.0
+     Best move:  [add to 53], score: 160.0 Depth 12 our side
+Not updated [add to 54] Best move:  [add to 53], score: 160.0 Depth 12 side 1 Score -320.0
+Not updated [add to 61] Best move:  [add to 53], score: 160.0 Depth 12 side 1 Score 40.0
+Not updated [add to 62] Best move:  [add to 53], score: 160.0 Depth 12 side 1 Score -50.0
+Not updated [add to 64] Best move:  [add to 53], score: 160.0 Depth 12 side 1 Score -410.0
+Not updated [add to 65] Best move:  [add to 53], score: 160.0 Depth 12 side 1 Score -270.0
+Not updated [add to 66] Best move:  [add to 53], score: 160.0 Depth 12 side 1 Score -320.0
+Not updated [add to 71] Best move:  [add to 53], score: 160.0 Depth 12 side 1 Score -140.0
+Not updated [add to 72] Best move:  [add to 53], score: 160.0 Depth 12 side 1 Score -230.0
+Not updated [add to 73] Best move:  [add to 53], score: 160.0 Depth 12 side 1 Score -320.0
+Not updated [add to 74] Best move:  [add to 53], score: 160.0 Depth 12 side 1 Score -410.0
+Not updated [add to 75] Best move:  [add to 53], score: 160.0 Depth 12 side 1 Score -310.0
+Not updated [add to 76] Best move:  [add to 53], score: 160.0 Depth 12 side 1 Score -320.0
+     Best move:  [add to 60], score: 160.0 Depth 11 opponent side
+     Best move:  [add to 01], score: 40.0 Depth 12 our side
+Not updated [add to 02] Best move:  [add to 01], score: 40.0 Depth 12 side 1 Score -150.0
+Not updated [add to 06] Best move:  [add to 01], score: 40.0 Depth 12 side 1 Score 30.0
+Not updated [add to 11] Best move:  [add to 01], score: 40.0 Depth 12 side 1 Score -110.0
+Not updated [add to 16] Best move:  [add to 01], score: 40.0 Depth 12 side 1 Score 0.0
+     Best move:  [add to 21], score: 70.0 Depth 12 our side
+Not updated [add to 26] Best move:  [add to 21], score: 70.0 Depth 12 side 1 Score -50.0
+Not updated [add to 31] Best move:  [add to 21], score: 70.0 Depth 12 side 1 Score -90.0
+Not updated [add to 36] Best move:  [add to 21], score: 70.0 Depth 12 side 1 Score 0.0
+Not updated [add to 42] Best move:  [add to 21], score: 70.0 Depth 12 side 1 Score -310.0
+     Best move:  [add to 43], score: 700.0 Depth 12 our side
+Not updated [add to 61] Best move:  [add to 60], score: 160.0 Depth 11 side 0 Score 700.0
+     Best move:  [add to 01], score: 140.0 Depth 12 our side
+Not updated [add to 02] Best move:  [add to 01], score: 140.0 Depth 12 side 1 Score -50.0
+Not updated [add to 06] Best move:  [add to 01], score: 140.0 Depth 12 side 1 Score 130.0
+Not updated [add to 11] Best move:  [add to 01], score: 140.0 Depth 12 side 1 Score -10.0
+Not updated [add to 16] Best move:  [add to 01], score: 140.0 Depth 12 side 1 Score 100.0
+     Best move:  [add to 21], score: 170.0 Depth 12 our side
+Not updated [add to 62] Best move:  [add to 60], score: 160.0 Depth 11 side 0 Score 170.0
+     Best move:  [add to 41], score: 160.0 Depth 10 our side
+     Best move:  [add to 01], score: -90.0 Depth 12 our side
+Not updated [add to 02] Best move:  [add to 01], score: -90.0 Depth 12 side 1 Score -190.0
+     Best move:  [add to 06], score: 170.0 Depth 12 our side
+Not updated [add to 11] Best move:  [add to 06], score: 170.0 Depth 12 side 1 Score -210.0
+Not updated [add to 16] Best move:  [add to 06], score: 170.0 Depth 12 side 1 Score -10.0
+Not updated [add to 21] Best move:  [add to 06], score: 170.0 Depth 12 side 1 Score -120.0
+Not updated [add to 26] Best move:  [add to 06], score: 170.0 Depth 12 side 1 Score -90.0
+Not updated [add to 31] Best move:  [add to 06], score: 170.0 Depth 12 side 1 Score -220.0
+Not updated [add to 36] Best move:  [add to 06], score: 170.0 Depth 12 side 1 Score -10.0
+Not updated [add to 41] Best move:  [add to 06], score: 170.0 Depth 12 side 1 Score -130.0
+Not updated [add to 43] Best move:  [add to 06], score: 170.0 Depth 12 side 1 Score -210.0
+Not updated [add to 44] Best move:  [add to 06], score: 170.0 Depth 12 side 1 Score -90.0
+Not updated [add to 45] Best move:  [add to 06], score: 170.0 Depth 12 side 1 Score -280.0
+Not updated [add to 51] Best move:  [add to 06], score: 170.0 Depth 12 side 1 Score -10.0
+Not updated [add to 52] Best move:  [add to 06], score: 170.0 Depth 12 side 1 Score -220.0
+Not updated [add to 53] Best move:  [add to 06], score: 170.0 Depth 12 side 1 Score -150.0
+Not updated [add to 54] Best move:  [add to 06], score: 170.0 Depth 12 side 1 Score -300.0
+Not updated [add to 61] Best move:  [add to 06], score: 170.0 Depth 12 side 1 Score -210.0
+Not updated [add to 62] Best move:  [add to 06], score: 170.0 Depth 12 side 1 Score -240.0
+Not updated [add to 64] Best move:  [add to 06], score: 170.0 Depth 12 side 1 Score -560.0
+Not updated [add to 65] Best move:  [add to 06], score: 170.0 Depth 12 side 1 Score -250.0
+Not updated [add to 66] Best move:  [add to 06], score: 170.0 Depth 12 side 1 Score -300.0
+Not updated [add to 71] Best move:  [add to 06], score: 170.0 Depth 12 side 1 Score -210.0
+Not updated [add to 72] Best move:  [add to 06], score: 170.0 Depth 12 side 1 Score -240.0
+Not updated [add to 73] Best move:  [add to 06], score: 170.0 Depth 12 side 1 Score -300.0
+Not updated [add to 74] Best move:  [add to 06], score: 170.0 Depth 12 side 1 Score -300.0
+Not updated [add to 75] Best move:  [add to 06], score: 170.0 Depth 12 side 1 Score -390.0
+Not updated [add to 76] Best move:  [add to 06], score: 170.0 Depth 12 side 1 Score -300.0
+     Best move:  [add to 10], score: 170.0 Depth 11 opponent side
+     Best move:  [add to 01], score: -90.0 Depth 12 our side
+Not updated [add to 02] Best move:  [add to 01], score: -90.0 Depth 12 side 1 Score -190.0
+     Best move:  [add to 06], score: 170.0 Depth 12 our side
+     Best move:  [add to 11], score: 170.0 Depth 11 opponent side
+     Best move:  [add to 01], score: -370.0 Depth 12 our side
+     Best move:  [add to 02], score: -280.0 Depth 12 our side
+     Best move:  [add to 06], score: 170.0 Depth 12 our side
+     Best move:  [add to 12], score: 170.0 Depth 11 opponent side
+     Best move:  [add to 01], score: -370.0 Depth 12 our side
+Not updated [add to 02] Best move:  [add to 01], score: -370.0 Depth 12 side 1 Score -470.0
+     Best move:  [add to 06], score: -10.0 Depth 12 our side
+Not updated [add to 11] Best move:  [add to 06], score: -10.0 Depth 12 side 1 Score -390.0
+Not updated [add to 16] Best move:  [add to 06], score: -10.0 Depth 12 side 1 Score -190.0
+Not updated [add to 21] Best move:  [add to 06], score: -10.0 Depth 12 side 1 Score -400.0
+     Best move:  [add to 26], score: 80.0 Depth 12 our side
+Not updated [add to 31] Best move:  [add to 26], score: 80.0 Depth 12 side 1 Score -400.0
+Not updated [add to 36] Best move:  [add to 26], score: 80.0 Depth 12 side 1 Score -290.0
+Not updated [add to 41] Best move:  [add to 26], score: 80.0 Depth 12 side 1 Score -310.0
+Not updated [add to 43] Best move:  [add to 26], score: 80.0 Depth 12 side 1 Score -580.0
+Not updated [add to 44] Best move:  [add to 26], score: 80.0 Depth 12 side 1 Score -270.0
+Not updated [add to 45] Best move:  [add to 26], score: 80.0 Depth 12 side 1 Score -350.0
+Not updated [add to 51] Best move:  [add to 26], score: 80.0 Depth 12 side 1 Score -190.0
+Not updated [add to 52] Best move:  [add to 26], score: 80.0 Depth 12 side 1 Score -400.0
+Not updated [add to 53] Best move:  [add to 26], score: 80.0 Depth 12 side 1 Score -690.0
+Not updated [add to 54] Best move:  [add to 26], score: 80.0 Depth 12 side 1 Score -480.0
+Not updated [add to 61] Best move:  [add to 26], score: 80.0 Depth 12 side 1 Score -390.0
+Not updated [add to 62] Best move:  [add to 26], score: 80.0 Depth 12 side 1 Score -420.0
+Not updated [add to 64] Best move:  [add to 26], score: 80.0 Depth 12 side 1 Score -740.0
+Not updated [add to 65] Best move:  [add to 26], score: 80.0 Depth 12 side 1 Score -430.0
+Not updated [add to 66] Best move:  [add to 26], score: 80.0 Depth 12 side 1 Score -480.0
+Not updated [add to 71] Best move:  [add to 26], score: 80.0 Depth 12 side 1 Score -390.0
+     Best move:  [add to 72], score: 46153.846153846156 Depth 12 our side
+Not updated [add to 13] Best move:  [add to 12], score: 170.0 Depth 11 side 0 Score 46153.846153846156
+     Best move:  [add to 01], score: -280.0 Depth 12 our side
+     Best move:  [add to 02], score: 150.0 Depth 12 our side
+Not updated [add to 06] Best move:  [add to 02], score: 150.0 Depth 12 side 1 Score 80.0
+Not updated [add to 11] Best move:  [add to 02], score: 150.0 Depth 12 side 1 Score -300.0
+Not updated [add to 16] Best move:  [add to 02], score: 150.0 Depth 12 side 1 Score -200.0
+Not updated [add to 21] Best move:  [add to 02], score: 150.0 Depth 12 side 1 Score -210.0
+Not updated [add to 26] Best move:  [add to 02], score: 150.0 Depth 12 side 1 Score -180.0
+Not updated [add to 31] Best move:  [add to 02], score: 150.0 Depth 12 side 1 Score -310.0
+Not updated [add to 36] Best move:  [add to 02], score: 150.0 Depth 12 side 1 Score -460.0
+Not updated [add to 41] Best move:  [add to 02], score: 150.0 Depth 12 side 1 Score -80.0
+Not updated [add to 43] Best move:  [add to 02], score: 150.0 Depth 12 side 1 Score -300.0
+Not updated [add to 44] Best move:  [add to 02], score: 150.0 Depth 12 side 1 Score -180.0
+Not updated [add to 45] Best move:  [add to 02], score: 150.0 Depth 12 side 1 Score -410.0
+Not updated [add to 51] Best move:  [add to 02], score: 150.0 Depth 12 side 1 Score -50.0
+Not updated [add to 52] Best move:  [add to 02], score: 150.0 Depth 12 side 1 Score -310.0
+Not updated [add to 53] Best move:  [add to 02], score: 150.0 Depth 12 side 1 Score -240.0
+Not updated [add to 54] Best move:  [add to 02], score: 150.0 Depth 12 side 1 Score -390.0
+Not updated [add to 61] Best move:  [add to 02], score: 150.0 Depth 12 side 1 Score -300.0
+Not updated [add to 62] Best move:  [add to 02], score: 150.0 Depth 12 side 1 Score -30.0
+Not updated [add to 64] Best move:  [add to 02], score: 150.0 Depth 12 side 1 Score -650.0
+Not updated [add to 65] Best move:  [add to 02], score: 150.0 Depth 12 side 1 Score -310.0
+Not updated [add to 66] Best move:  [add to 02], score: 150.0 Depth 12 side 1 Score -390.0
+Not updated [add to 71] Best move:  [add to 02], score: 150.0 Depth 12 side 1 Score -300.0
+     Best move:  [add to 72], score: 46153.846153846156 Depth 12 our side
+Not updated [add to 14] Best move:  [add to 12], score: 170.0 Depth 11 side 0 Score 46153.846153846156
+     Best move:  [add to 01], score: 70.0 Depth 12 our side
+Not updated [add to 02] Best move:  [add to 01], score: 70.0 Depth 12 side 1 Score -100.0
+Not updated [add to 06] Best move:  [add to 01], score: 70.0 Depth 12 side 1 Score -100.0
+Not updated [add to 11] Best move:  [add to 01], score: 70.0 Depth 12 side 1 Score -50.0
+     Best move:  [add to 16], score: 150.0 Depth 12 our side
+Not updated [add to 21] Best move:  [add to 16], score: 150.0 Depth 12 side 1 Score 40.0
+Not updated [add to 26] Best move:  [add to 16], score: 150.0 Depth 12 side 1 Score 70.0
+Not updated [add to 31] Best move:  [add to 16], score: 150.0 Depth 12 side 1 Score -60.0
+     Best move:  [add to 36], score: 150.0 Depth 12 our side
+Not updated [add to 41] Best move:  [add to 36], score: 150.0 Depth 12 side 1 Score 30.0
+Not updated [add to 43] Best move:  [add to 36], score: 150.0 Depth 12 side 1 Score -140.0
+Not updated [add to 44] Best move:  [add to 36], score: 150.0 Depth 12 side 1 Score 100.0
+Not updated [add to 45] Best move:  [add to 36], score: 150.0 Depth 12 side 1 Score 80.0
+     Best move:  [add to 51], score: 150.0 Depth 12 our side
+Not updated [add to 52] Best move:  [add to 51], score: 150.0 Depth 12 side 1 Score -60.0
+Not updated [add to 53] Best move:  [add to 51], score: 150.0 Depth 12 side 1 Score -80.0
+Not updated [add to 54] Best move:  [add to 51], score: 150.0 Depth 12 side 1 Score -140.0
+Not updated [add to 61] Best move:  [add to 51], score: 150.0 Depth 12 side 1 Score -50.0
+Not updated [add to 62] Best move:  [add to 51], score: 150.0 Depth 12 side 1 Score -80.0
+Not updated [add to 64] Best move:  [add to 51], score: 150.0 Depth 12 side 1 Score -400.0
+Not updated [add to 65] Best move:  [add to 51], score: 150.0 Depth 12 side 1 Score -50.0
+     Best move:  [add to 66], score: 150.0 Depth 12 our side
+Not updated [add to 71] Best move:  [add to 66], score: 150.0 Depth 12 side 1 Score -50.0
+Not updated [add to 72] Best move:  [add to 66], score: 150.0 Depth 12 side 1 Score -80.0
+Not updated [add to 73] Best move:  [add to 66], score: 150.0 Depth 12 side 1 Score -140.0
+Not updated [add to 74] Best move:  [add to 66], score: 150.0 Depth 12 side 1 Score -140.0
+Not updated [add to 75] Best move:  [add to 66], score: 150.0 Depth 12 side 1 Score -80.0
+Not updated [add to 76] Best move:  [add to 66], score: 150.0 Depth 12 side 1 Score -140.0
+     Best move:  [add to 15], score: 150.0 Depth 11 opponent side
+Not updated [add to 42] Best move:  [add to 41], score: 160.0 Depth 10 side 1 Score 150.0
+     Best move:  [add to 01], score: 240.0 Depth 12 our side
+Not updated [add to 02] Best move:  [add to 01], score: 240.0 Depth 12 side 1 Score 110.0
+     Best move:  [add to 06], score: 350.0 Depth 12 our side
+Not updated [add to 11] Best move:  [add to 06], score: 350.0 Depth 12 side 1 Score 120.0
+Not updated [add to 16] Best move:  [add to 06], score: 350.0 Depth 12 side 1 Score 160.0
+Not updated [add to 21] Best move:  [add to 06], score: 350.0 Depth 12 side 1 Score 250.0
+Not updated [add to 26] Best move:  [add to 06], score: 350.0 Depth 12 side 1 Score 210.0
+Not updated [add to 31] Best move:  [add to 06], score: 350.0 Depth 12 side 1 Score 120.0
+Not updated [add to 36] Best move:  [add to 06], score: 350.0 Depth 12 side 1 Score 320.0
+Not updated [add to 41] Best move:  [add to 06], score: 350.0 Depth 12 side 1 Score 180.0
+Not updated [add to 42] Best move:  [add to 06], score: 350.0 Depth 12 side 1 Score -210.0
+Not updated [add to 44] Best move:  [add to 06], score: 350.0 Depth 12 side 1 Score 80.0
+Not updated [add to 45] Best move:  [add to 06], score: 350.0 Depth 12 side 1 Score 20.0
+Not updated [add to 51] Best move:  [add to 06], score: 350.0 Depth 12 side 1 Score -30.0
+Not updated [add to 52] Best move:  [add to 06], score: 350.0 Depth 12 side 1 Score 170.0
+Not updated [add to 53] Best move:  [add to 06], score: 350.0 Depth 12 side 1 Score 120.0
+Not updated [add to 54] Best move:  [add to 06], score: 350.0 Depth 12 side 1 Score 10.0
+Not updated [add to 61] Best move:  [add to 06], score: 350.0 Depth 12 side 1 Score 150.0
+Not updated [add to 62] Best move:  [add to 06], score: 350.0 Depth 12 side 1 Score 120.0
+Not updated [add to 64] Best move:  [add to 06], score: 350.0 Depth 12 side 1 Score -160.0
+Not updated [add to 65] Best move:  [add to 06], score: 350.0 Depth 12 side 1 Score 60.0
+Not updated [add to 66] Best move:  [add to 06], score: 350.0 Depth 12 side 1 Score 30.0
+Not updated [add to 71] Best move:  [add to 06], score: 350.0 Depth 12 side 1 Score 120.0
+Not updated [add to 72] Best move:  [add to 06], score: 350.0 Depth 12 side 1 Score 120.0
+Not updated [add to 73] Best move:  [add to 06], score: 350.0 Depth 12 side 1 Score -10.0
+Not updated [add to 74] Best move:  [add to 06], score: 350.0 Depth 12 side 1 Score 30.0
+Not updated [add to 75] Best move:  [add to 06], score: 350.0 Depth 12 side 1 Score 80.0
+Not updated [add to 76] Best move:  [add to 06], score: 350.0 Depth 12 side 1 Score -10.0
+     Best move:  [add to 10], score: 350.0 Depth 11 opponent side
+     Best move:  [add to 01], score: 240.0 Depth 12 our side
+Not updated [add to 02] Best move:  [add to 01], score: 240.0 Depth 12 side 1 Score 20.0
+     Best move:  [add to 06], score: 350.0 Depth 12 our side
+     Best move:  [add to 11], score: 350.0 Depth 11 opponent side
+     Best move:  [add to 01], score: -40.0 Depth 12 our side
+     Best move:  [add to 02], score: 110.0 Depth 12 our side
+     Best move:  [add to 06], score: 350.0 Depth 12 our side
+     Best move:  [add to 12], score: 350.0 Depth 11 opponent side
+     Best move:  [add to 01], score: -190.0 Depth 12 our side
+     Best move:  [add to 02], score: -100.0 Depth 12 our side
+     Best move:  [add to 06], score: 110.0 Depth 12 our side
+Not updated [add to 11] Best move:  [add to 06], score: 110.0 Depth 12 side 1 Score -120.0
+Not updated [add to 16] Best move:  [add to 06], score: 110.0 Depth 12 side 1 Score -80.0
+Not updated [add to 21] Best move:  [add to 06], score: 110.0 Depth 12 side 1 Score -80.0
+Not updated [add to 26] Best move:  [add to 06], score: 110.0 Depth 12 side 1 Score 0.0
+Not updated [add to 31] Best move:  [add to 06], score: 110.0 Depth 12 side 1 Score -120.0
+Not updated [add to 36] Best move:  [add to 06], score: 110.0 Depth 12 side 1 Score -190.0
+Not updated [add to 41] Best move:  [add to 06], score: 110.0 Depth 12 side 1 Score -60.0
+Not updated [add to 42] Best move:  [add to 06], score: 110.0 Depth 12 side 1 Score -580.0
+Not updated [add to 44] Best move:  [add to 06], score: 110.0 Depth 12 side 1 Score -180.0
+Not updated [add to 45] Best move:  [add to 06], score: 110.0 Depth 12 side 1 Score -80.0
+     Best move:  [add to 51], score: 160.0 Depth 12 our side
+     Best move:  [add to 52], score: 310.0 Depth 12 our side
+Not updated [add to 53] Best move:  [add to 52], score: 310.0 Depth 12 side 1 Score -10.0
+Not updated [add to 54] Best move:  [add to 52], score: 310.0 Depth 12 side 1 Score -290.0
+Not updated [add to 61] Best move:  [add to 52], score: 310.0 Depth 12 side 1 Score -150.0
+Not updated [add to 62] Best move:  [add to 52], score: 310.0 Depth 12 side 1 Score -120.0
+Not updated [add to 64] Best move:  [add to 52], score: 310.0 Depth 12 side 1 Score -300.0
+Not updated [add to 65] Best move:  [add to 52], score: 310.0 Depth 12 side 1 Score -110.0
+Not updated [add to 66] Best move:  [add to 52], score: 310.0 Depth 12 side 1 Score -210.0
+Not updated [add to 71] Best move:  [add to 52], score: 310.0 Depth 12 side 1 Score -120.0
+Not updated [add to 72] Best move:  [add to 52], score: 310.0 Depth 12 side 1 Score -120.0
+Not updated [add to 73] Best move:  [add to 52], score: 310.0 Depth 12 side 1 Score -250.0
+Not updated [add to 74] Best move:  [add to 52], score: 310.0 Depth 12 side 1 Score -210.0
+Not updated [add to 75] Best move:  [add to 52], score: 310.0 Depth 12 side 1 Score -160.0
+     Best move:  [add to 76], score: 46153.846153846156 Depth 12 our side
+Not updated [add to 13] Best move:  [add to 12], score: 350.0 Depth 11 side 0 Score 46153.846153846156
+     Best move:  [add to 01], score: 50.0 Depth 12 our side
+Not updated [add to 02] Best move:  [add to 01], score: 50.0 Depth 12 side 1 Score 20.0
+     Best move:  [add to 06], score: 260.0 Depth 12 our side
+Not updated [add to 11] Best move:  [add to 06], score: 260.0 Depth 12 side 1 Score 30.0
+Not updated [add to 16] Best move:  [add to 06], score: 260.0 Depth 12 side 1 Score -30.0
+Not updated [add to 21] Best move:  [add to 06], score: 260.0 Depth 12 side 1 Score 160.0
+Not updated [add to 26] Best move:  [add to 06], score: 260.0 Depth 12 side 1 Score 120.0
+Not updated [add to 31] Best move:  [add to 06], score: 260.0 Depth 12 side 1 Score 30.0
+Not updated [add to 36] Best move:  [add to 06], score: 260.0 Depth 12 side 1 Score -130.0
+Not updated [add to 41] Best move:  [add to 06], score: 260.0 Depth 12 side 1 Score 200.0
+Not updated [add to 42] Best move:  [add to 06], score: 260.0 Depth 12 side 1 Score -300.0
+Not updated [add to 44] Best move:  [add to 06], score: 260.0 Depth 12 side 1 Score -10.0
+Not updated [add to 45] Best move:  [add to 06], score: 260.0 Depth 12 side 1 Score -110.0
+Not updated [add to 51] Best move:  [add to 06], score: 260.0 Depth 12 side 1 Score -120.0
+Not updated [add to 52] Best move:  [add to 06], score: 260.0 Depth 12 side 1 Score 80.0
+Not updated [add to 53] Best move:  [add to 06], score: 260.0 Depth 12 side 1 Score 30.0
+Not updated [add to 54] Best move:  [add to 06], score: 260.0 Depth 12 side 1 Score -80.0
+Not updated [add to 61] Best move:  [add to 06], score: 260.0 Depth 12 side 1 Score 60.0
+Not updated [add to 62] Best move:  [add to 06], score: 260.0 Depth 12 side 1 Score 30.0
+Not updated [add to 64] Best move:  [add to 06], score: 260.0 Depth 12 side 1 Score -150.0
+Not updated [add to 65] Best move:  [add to 06], score: 260.0 Depth 12 side 1 Score 20.0
+Not updated [add to 66] Best move:  [add to 06], score: 260.0 Depth 12 side 1 Score -60.0
+Not updated [add to 71] Best move:  [add to 06], score: 260.0 Depth 12 side 1 Score 30.0
+Not updated [add to 72] Best move:  [add to 06], score: 260.0 Depth 12 side 1 Score 30.0
+Not updated [add to 73] Best move:  [add to 06], score: 260.0 Depth 12 side 1 Score -100.0
+Not updated [add to 74] Best move:  [add to 06], score: 260.0 Depth 12 side 1 Score -60.0
+Not updated [add to 75] Best move:  [add to 06], score: 260.0 Depth 12 side 1 Score 20.0
+     Best move:  [add to 76], score: 46153.846153846156 Depth 12 our side
+Not updated [add to 14] Best move:  [add to 12], score: 350.0 Depth 11 side 0 Score 46153.846153846156
+     Best move:  [add to 01], score: 310.0 Depth 12 our side
+Not updated [add to 02] Best move:  [add to 01], score: 310.0 Depth 12 side 1 Score 180.0
+Not updated [add to 06] Best move:  [add to 01], score: 310.0 Depth 12 side 1 Score 140.0
+Not updated [add to 11] Best move:  [add to 01], score: 310.0 Depth 12 side 1 Score 190.0
+Not updated [add to 16] Best move:  [add to 01], score: 310.0 Depth 12 side 1 Score 230.0
+Not updated [add to 21] Best move:  [add to 01], score: 310.0 Depth 12 side 1 Score 250.0
+Not updated [add to 26] Best move:  [add to 01], score: 310.0 Depth 12 side 1 Score 280.0
+Not updated [add to 31] Best move:  [add to 01], score: 310.0 Depth 12 side 1 Score 190.0
+     Best move:  [add to 36], score: 390.0 Depth 12 our side
+Not updated [add to 15] Best move:  [add to 12], score: 350.0 Depth 11 side 0 Score 390.0
+     Best move:  [add to 01], score: 310.0 Depth 12 our side
+Not updated [add to 02] Best move:  [add to 01], score: 310.0 Depth 12 side 1 Score -220.0
+Not updated [add to 06] Best move:  [add to 01], score: 310.0 Depth 12 side 1 Score 140.0
+Not updated [add to 11] Best move:  [add to 01], score: 310.0 Depth 12 side 1 Score 190.0
+     Best move:  [add to 21], score: 320.0 Depth 12 our side
+Not updated [add to 26] Best move:  [add to 21], score: 320.0 Depth 12 side 1 Score 120.0
+Not updated [add to 31] Best move:  [add to 21], score: 320.0 Depth 12 side 1 Score -120.0
+Not updated [add to 36] Best move:  [add to 21], score: 320.0 Depth 12 side 1 Score 230.0
+Not updated [add to 41] Best move:  [add to 21], score: 320.0 Depth 12 side 1 Score 250.0
+Not updated [add to 42] Best move:  [add to 21], score: 320.0 Depth 12 side 1 Score -140.0
+Not updated [add to 44] Best move:  [add to 21], score: 320.0 Depth 12 side 1 Score 150.0
+Not updated [add to 45] Best move:  [add to 21], score: 320.0 Depth 12 side 1 Score 120.0
+Not updated [add to 51] Best move:  [add to 21], score: 320.0 Depth 12 side 1 Score 40.0
+Not updated [add to 52] Best move:  [add to 21], score: 320.0 Depth 12 side 1 Score 240.0
+Not updated [add to 53] Best move:  [add to 21], score: 320.0 Depth 12 side 1 Score 190.0
+Not updated [add to 54] Best move:  [add to 21], score: 320.0 Depth 12 side 1 Score 80.0
+Not updated [add to 61] Best move:  [add to 21], score: 320.0 Depth 12 side 1 Score 220.0
+Not updated [add to 62] Best move:  [add to 21], score: 320.0 Depth 12 side 1 Score 190.0
+Not updated [add to 64] Best move:  [add to 21], score: 320.0 Depth 12 side 1 Score 10.0
+Not updated [add to 65] Best move:  [add to 21], score: 320.0 Depth 12 side 1 Score 130.0
+Not updated [add to 66] Best move:  [add to 21], score: 320.0 Depth 12 side 1 Score 100.0
+Not updated [add to 71] Best move:  [add to 21], score: 320.0 Depth 12 side 1 Score 190.0
+Not updated [add to 72] Best move:  [add to 21], score: 320.0 Depth 12 side 1 Score 190.0
+Not updated [add to 73] Best move:  [add to 21], score: 320.0 Depth 12 side 1 Score 60.0
+Not updated [add to 74] Best move:  [add to 21], score: 320.0 Depth 12 side 1 Score 100.0
+Not updated [add to 75] Best move:  [add to 21], score: 320.0 Depth 12 side 1 Score 150.0
+Not updated [add to 76] Best move:  [add to 21], score: 320.0 Depth 12 side 1 Score 60.0
+     Best move:  [add to 16], score: 320.0 Depth 11 opponent side
+     Best move:  [add to 01], score: 240.0 Depth 12 our side
+Not updated [add to 02] Best move:  [add to 01], score: 240.0 Depth 12 side 1 Score -580.0
+     Best move:  [add to 06], score: 350.0 Depth 12 our side
+Not updated [add to 17] Best move:  [add to 16], score: 320.0 Depth 11 side 0 Score 350.0
+     Best move:  [add to 01], score: 240.0 Depth 12 our side
+Not updated [add to 02] Best move:  [add to 01], score: 240.0 Depth 12 side 1 Score 110.0
+     Best move:  [add to 06], score: 350.0 Depth 12 our side
+Not updated [add to 20] Best move:  [add to 16], score: 320.0 Depth 11 side 0 Score 350.0
+     Best move:  [add to 01], score: 240.0 Depth 12 our side
+Not updated [add to 02] Best move:  [add to 01], score: 240.0 Depth 12 side 1 Score 110.0
+     Best move:  [add to 06], score: 350.0 Depth 12 our side
+Not updated [add to 21] Best move:  [add to 16], score: 320.0 Depth 11 side 0 Score 350.0
+     Best move:  [add to 01], score: 330.0 Depth 12 our side
+Not updated [add to 26] Best move:  [add to 16], score: 320.0 Depth 11 side 0 Score 330.0
+     Best move:  [add to 01], score: 280.0 Depth 12 our side
+Not updated [add to 02] Best move:  [add to 01], score: 280.0 Depth 12 side 1 Score 150.0
+     Best move:  [add to 06], score: 390.0 Depth 12 our side
+Not updated [add to 27] Best move:  [add to 16], score: 320.0 Depth 11 side 0 Score 390.0
+     Best move:  [add to 01], score: 250.0 Depth 12 our side
+Not updated [add to 02] Best move:  [add to 01], score: 250.0 Depth 12 side 1 Score 120.0
+     Best move:  [add to 06], score: 360.0 Depth 12 our side
+Not updated [add to 30] Best move:  [add to 16], score: 320.0 Depth 11 side 0 Score 360.0
+     Best move:  [add to 01], score: 240.0 Depth 12 our side
+Not updated [add to 02] Best move:  [add to 01], score: 240.0 Depth 12 side 1 Score 110.0
+     Best move:  [add to 06], score: 350.0 Depth 12 our side
+Not updated [add to 31] Best move:  [add to 16], score: 320.0 Depth 11 side 0 Score 350.0
+     Best move:  [add to 01], score: 500.0 Depth 12 our side
+Not updated [add to 36] Best move:  [add to 16], score: 320.0 Depth 11 side 0 Score 500.0
+     Best move:  [add to 01], score: 400.0 Depth 12 our side
+Not updated [add to 37] Best move:  [add to 16], score: 320.0 Depth 11 side 0 Score 400.0
+     Best move:  [add to 01], score: 240.0 Depth 12 our side
+Not updated [add to 02] Best move:  [add to 01], score: 240.0 Depth 12 side 1 Score 110.0
+     Best move:  [add to 06], score: 350.0 Depth 12 our side
+Not updated [add to 40] Best move:  [add to 16], score: 320.0 Depth 11 side 0 Score 350.0
+     Best move:  [add to 01], score: 280.0 Depth 12 our side
+Not updated [add to 02] Best move:  [add to 01], score: 280.0 Depth 12 side 1 Score 150.0
+     Best move:  [add to 06], score: 390.0 Depth 12 our side
+Not updated [add to 41] Best move:  [add to 16], score: 320.0 Depth 11 side 0 Score 390.0
+     Best move:  [add to 01], score: 240.0 Depth 12 our side
+Not updated [add to 02] Best move:  [add to 01], score: 240.0 Depth 12 side 1 Score 110.0
+     Best move:  [add to 06], score: 350.0 Depth 12 our side
+Not updated [add to 50] Best move:  [add to 16], score: 320.0 Depth 11 side 0 Score 350.0
+     Best move:  [add to 01], score: 190.0 Depth 12 our side
+Not updated [add to 02] Best move:  [add to 01], score: 190.0 Depth 12 side 1 Score 60.0
+     Best move:  [add to 06], score: 300.0 Depth 12 our side
+Not updated [add to 11] Best move:  [add to 06], score: 300.0 Depth 12 side 1 Score 70.0
+Not updated [add to 16] Best move:  [add to 06], score: 300.0 Depth 12 side 1 Score 110.0
+Not updated [add to 21] Best move:  [add to 06], score: 300.0 Depth 12 side 1 Score 200.0
+Not updated [add to 26] Best move:  [add to 06], score: 300.0 Depth 12 side 1 Score 160.0
+Not updated [add to 31] Best move:  [add to 06], score: 300.0 Depth 12 side 1 Score 70.0
+Not updated [add to 36] Best move:  [add to 06], score: 300.0 Depth 12 side 1 Score 270.0
+Not updated [add to 41] Best move:  [add to 06], score: 300.0 Depth 12 side 1 Score 130.0
+Not updated [add to 42] Best move:  [add to 06], score: 300.0 Depth 12 side 1 Score -50.0
+Not updated [add to 44] Best move:  [add to 06], score: 300.0 Depth 12 side 1 Score 110.0
+Not updated [add to 45] Best move:  [add to 06], score: 300.0 Depth 12 side 1 Score -200.0
+Not updated [add to 52] Best move:  [add to 06], score: 300.0 Depth 12 side 1 Score 160.0
+Not updated [add to 53] Best move:  [add to 06], score: 300.0 Depth 12 side 1 Score 40.0
+Not updated [add to 54] Best move:  [add to 06], score: 300.0 Depth 12 side 1 Score -30.0
+Not updated [add to 61] Best move:  [add to 06], score: 300.0 Depth 12 side 1 Score 100.0
+Not updated [add to 62] Best move:  [add to 06], score: 300.0 Depth 12 side 1 Score -80.0
+Not updated [add to 64] Best move:  [add to 06], score: 300.0 Depth 12 side 1 Score -110.0
+Not updated [add to 65] Best move:  [add to 06], score: 300.0 Depth 12 side 1 Score 10.0
+Not updated [add to 66] Best move:  [add to 06], score: 300.0 Depth 12 side 1 Score -20.0
+Not updated [add to 71] Best move:  [add to 06], score: 300.0 Depth 12 side 1 Score 70.0
+Not updated [add to 72] Best move:  [add to 06], score: 300.0 Depth 12 side 1 Score 70.0
+Not updated [add to 73] Best move:  [add to 06], score: 300.0 Depth 12 side 1 Score -60.0
+Not updated [add to 74] Best move:  [add to 06], score: 300.0 Depth 12 side 1 Score -20.0
+Not updated [add to 75] Best move:  [add to 06], score: 300.0 Depth 12 side 1 Score 30.0
+Not updated [add to 76] Best move:  [add to 06], score: 300.0 Depth 12 side 1 Score -60.0
+     Best move:  [add to 51], score: 300.0 Depth 11 opponent side
+     Best move:  [add to 01], score: 880.0 Depth 12 our side
+Not updated [add to 52] Best move:  [add to 51], score: 300.0 Depth 11 side 0 Score 880.0
+     Best move:  [add to 01], score: 160.0 Depth 12 our side
+Not updated [add to 02] Best move:  [add to 01], score: 160.0 Depth 12 side 1 Score 30.0
+     Best move:  [add to 06], score: 270.0 Depth 12 our side
+Not updated [add to 11] Best move:  [add to 06], score: 270.0 Depth 12 side 1 Score -340.0
+Not updated [add to 16] Best move:  [add to 06], score: 270.0 Depth 12 side 1 Score 80.0
+Not updated [add to 21] Best move:  [add to 06], score: 270.0 Depth 12 side 1 Score 170.0
+Not updated [add to 26] Best move:  [add to 06], score: 270.0 Depth 12 side 1 Score 130.0
+Not updated [add to 31] Best move:  [add to 06], score: 270.0 Depth 12 side 1 Score 40.0
+Not updated [add to 36] Best move:  [add to 06], score: 270.0 Depth 12 side 1 Score 240.0
+Not updated [add to 41] Best move:  [add to 06], score: 270.0 Depth 12 side 1 Score 100.0
+Not updated [add to 42] Best move:  [add to 06], score: 270.0 Depth 12 side 1 Score -290.0
+Not updated [add to 44] Best move:  [add to 06], score: 270.0 Depth 12 side 1 Score 0.0
+Not updated [add to 45] Best move:  [add to 06], score: 270.0 Depth 12 side 1 Score -60.0
+Not updated [add to 51] Best move:  [add to 06], score: 270.0 Depth 12 side 1 Score 0.0
+Not updated [add to 52] Best move:  [add to 06], score: 270.0 Depth 12 side 1 Score 90.0
+Not updated [add to 54] Best move:  [add to 06], score: 270.0 Depth 12 side 1 Score -80.0
+Not updated [add to 61] Best move:  [add to 06], score: 270.0 Depth 12 side 1 Score 70.0
+Not updated [add to 62] Best move:  [add to 06], score: 270.0 Depth 12 side 1 Score 40.0
+Not updated [add to 64] Best move:  [add to 06], score: 270.0 Depth 12 side 1 Score -140.0
+Not updated [add to 65] Best move:  [add to 06], score: 270.0 Depth 12 side 1 Score -20.0
+Not updated [add to 66] Best move:  [add to 06], score: 270.0 Depth 12 side 1 Score -50.0
+Not updated [add to 71] Best move:  [add to 06], score: 270.0 Depth 12 side 1 Score 40.0
+Not updated [add to 72] Best move:  [add to 06], score: 270.0 Depth 12 side 1 Score 40.0
+Not updated [add to 73] Best move:  [add to 06], score: 270.0 Depth 12 side 1 Score -50.0
+Not updated [add to 74] Best move:  [add to 06], score: 270.0 Depth 12 side 1 Score -50.0
+Not updated [add to 75] Best move:  [add to 06], score: 270.0 Depth 12 side 1 Score -50.0
+Not updated [add to 76] Best move:  [add to 06], score: 270.0 Depth 12 side 1 Score -90.0
+     Best move:  [add to 53], score: 270.0 Depth 11 opponent side
+     Best move:  [add to 01], score: -240.0 Depth 12 our side
+     Best move:  [add to 02], score: 120.0 Depth 12 our side
+     Best move:  [add to 06], score: 360.0 Depth 12 our side
+Not updated [add to 60] Best move:  [add to 53], score: 270.0 Depth 11 side 0 Score 360.0
+     Best move:  [add to 01], score: 760.0 Depth 12 our side
+Not updated [add to 61] Best move:  [add to 53], score: 270.0 Depth 11 side 0 Score 760.0
+     Best move:  [add to 01], score: 260.0 Depth 12 our side
+Not updated [add to 02] Best move:  [add to 01], score: 260.0 Depth 12 side 1 Score 130.0
+     Best move:  [add to 06], score: 370.0 Depth 12 our side
+Not updated [add to 62] Best move:  [add to 53], score: 270.0 Depth 11 side 0 Score 370.0
+     Best move:  [add to 43], score: 270.0 Depth 10 our side
+     Best move:  [add to 01], score: 190.0 Depth 12 our side
+Not updated [add to 02] Best move:  [add to 01], score: 190.0 Depth 12 side 1 Score 90.0
+     Best move:  [add to 06], score: 210.0 Depth 12 our side
+Not updated [add to 11] Best move:  [add to 06], score: 210.0 Depth 12 side 1 Score 30.0
+     Best move:  [add to 16], score: 270.0 Depth 12 our side
+Not updated [add to 21] Best move:  [add to 16], score: 270.0 Depth 12 side 1 Score 160.0
+Not updated [add to 26] Best move:  [add to 16], score: 270.0 Depth 12 side 1 Score 220.0
+Not updated [add to 31] Best move:  [add to 16], score: 270.0 Depth 12 side 1 Score 70.0
+     Best move:  [add to 36], score: 270.0 Depth 12 our side
+Not updated [add to 41] Best move:  [add to 36], score: 270.0 Depth 12 side 1 Score 130.0
+Not updated [add to 42] Best move:  [add to 36], score: 270.0 Depth 12 side 1 Score -90.0
+Not updated [add to 43] Best move:  [add to 36], score: 270.0 Depth 12 side 1 Score 80.0
+Not updated [add to 51] Best move:  [add to 36], score: 270.0 Depth 12 side 1 Score -20.0
+Not updated [add to 52] Best move:  [add to 36], score: 270.0 Depth 12 side 1 Score -60.0
+Not updated [add to 53] Best move:  [add to 36], score: 270.0 Depth 12 side 1 Score 80.0
+     Best move:  [add to 54], score: 270.0 Depth 12 our side
+Not updated [add to 61] Best move:  [add to 54], score: 270.0 Depth 12 side 1 Score 140.0
+Not updated [add to 62] Best move:  [add to 54], score: 270.0 Depth 12 side 1 Score 40.0
+Not updated [add to 64] Best move:  [add to 54], score: 270.0 Depth 12 side 1 Score 90.0
+Not updated [add to 65] Best move:  [add to 54], score: 270.0 Depth 12 side 1 Score 30.0
+Not updated [add to 66] Best move:  [add to 54], score: 270.0 Depth 12 side 1 Score -60.0
+Not updated [add to 71] Best move:  [add to 54], score: 270.0 Depth 12 side 1 Score 40.0
+Not updated [add to 72] Best move:  [add to 54], score: 270.0 Depth 12 side 1 Score 260.0
+Not updated [add to 73] Best move:  [add to 54], score: 270.0 Depth 12 side 1 Score -20.0
+Not updated [add to 74] Best move:  [add to 54], score: 270.0 Depth 12 side 1 Score 250.0
+Not updated [add to 75] Best move:  [add to 54], score: 270.0 Depth 12 side 1 Score 30.0
+Not updated [add to 76] Best move:  [add to 54], score: 270.0 Depth 12 side 1 Score -20.0
+     Best move:  [add to 10], score: 270.0 Depth 11 opponent side
+     Best move:  [add to 44], score: 270.0 Depth 10 our side
+     Best move:  [add to 01], score: 320.0 Depth 12 our side
+Not updated [add to 02] Best move:  [add to 01], score: 320.0 Depth 12 side 1 Score -100.0
+Not updated [add to 06] Best move:  [add to 01], score: 320.0 Depth 12 side 1 Score 110.0
+Not updated [add to 11] Best move:  [add to 01], score: 320.0 Depth 12 side 1 Score -120.0
+Not updated [add to 16] Best move:  [add to 01], score: 320.0 Depth 12 side 1 Score 110.0
+Not updated [add to 21] Best move:  [add to 01], score: 320.0 Depth 12 side 1 Score -30.0
+Not updated [add to 26] Best move:  [add to 01], score: 320.0 Depth 12 side 1 Score 0.0
+Not updated [add to 31] Best move:  [add to 01], score: 320.0 Depth 12 side 1 Score -120.0
+Not updated [add to 41] Best move:  [add to 01], score: 320.0 Depth 12 side 1 Score -60.0
+Not updated [add to 42] Best move:  [add to 01], score: 320.0 Depth 12 side 1 Score -280.0
+Not updated [add to 43] Best move:  [add to 01], score: 320.0 Depth 12 side 1 Score 20.0
+Not updated [add to 51] Best move:  [add to 01], score: 320.0 Depth 12 side 1 Score 70.0
+Not updated [add to 52] Best move:  [add to 01], score: 320.0 Depth 12 side 1 Score -120.0
+Not updated [add to 53] Best move:  [add to 01], score: 320.0 Depth 12 side 1 Score 60.0
+Not updated [add to 61] Best move:  [add to 01], score: 320.0 Depth 12 side 1 Score -120.0
+Not updated [add to 62] Best move:  [add to 01], score: 320.0 Depth 12 side 1 Score -120.0
+Not updated [add to 64] Best move:  [add to 01], score: 320.0 Depth 12 side 1 Score -660.0
+Not updated [add to 65] Best move:  [add to 01], score: 320.0 Depth 12 side 1 Score -120.0
+Not updated [add to 66] Best move:  [add to 01], score: 320.0 Depth 12 side 1 Score -210.0
+Not updated [add to 71] Best move:  [add to 01], score: 320.0 Depth 12 side 1 Score -120.0
+Not updated [add to 72] Best move:  [add to 01], score: 320.0 Depth 12 side 1 Score -210.0
+Not updated [add to 73] Best move:  [add to 01], score: 320.0 Depth 12 side 1 Score -210.0
+Not updated [add to 74] Best move:  [add to 01], score: 320.0 Depth 12 side 1 Score -570.0
+Not updated [add to 75] Best move:  [add to 01], score: 320.0 Depth 12 side 1 Score -120.0
+Not updated [add to 76] Best move:  [add to 01], score: 320.0 Depth 12 side 1 Score -210.0
+     Best move:  [add to 10], score: 320.0 Depth 11 opponent side
+     Best move:  [add to 01], score: 320.0 Depth 12 our side
+     Best move:  [add to 11], score: 320.0 Depth 11 opponent side
+     Best move:  [add to 01], score: -240.0 Depth 12 our side
+     Best move:  [add to 02], score: 120.0 Depth 12 our side
+     Best move:  [add to 06], score: 150.0 Depth 12 our side
+Not updated [add to 11] Best move:  [add to 06], score: 150.0 Depth 12 side 1 Score -80.0
+     Best move:  [add to 16], score: 150.0 Depth 12 our side
+Not updated [add to 21] Best move:  [add to 16], score: 150.0 Depth 12 side 1 Score -170.0
+     Best move:  [add to 26], score: 220.0 Depth 12 our side
+Not updated [add to 31] Best move:  [add to 26], score: 220.0 Depth 12 side 1 Score -80.0
+Not updated [add to 41] Best move:  [add to 26], score: 220.0 Depth 12 side 1 Score -20.0
+Not updated [add to 42] Best move:  [add to 26], score: 220.0 Depth 12 side 1 Score -240.0
+Not updated [add to 43] Best move:  [add to 26], score: 220.0 Depth 12 side 1 Score 60.0
+Not updated [add to 51] Best move:  [add to 26], score: 220.0 Depth 12 side 1 Score -170.0
+Not updated [add to 52] Best move:  [add to 26], score: 220.0 Depth 12 side 1 Score -80.0
+Not updated [add to 53] Best move:  [add to 26], score: 220.0 Depth 12 side 1 Score 100.0
+Not updated [add to 61] Best move:  [add to 26], score: 220.0 Depth 12 side 1 Score -80.0
+Not updated [add to 62] Best move:  [add to 26], score: 220.0 Depth 12 side 1 Score -80.0
+Not updated [add to 64] Best move:  [add to 26], score: 220.0 Depth 12 side 1 Score -620.0
+Not updated [add to 65] Best move:  [add to 26], score: 220.0 Depth 12 side 1 Score -80.0
+Not updated [add to 66] Best move:  [add to 26], score: 220.0 Depth 12 side 1 Score -170.0
+Not updated [add to 71] Best move:  [add to 26], score: 220.0 Depth 12 side 1 Score -80.0
+Not updated [add to 72] Best move:  [add to 26], score: 220.0 Depth 12 side 1 Score -170.0
+Not updated [add to 73] Best move:  [add to 26], score: 220.0 Depth 12 side 1 Score -170.0
+Not updated [add to 74] Best move:  [add to 26], score: 220.0 Depth 12 side 1 Score -530.0
+Not updated [add to 75] Best move:  [add to 26], score: 220.0 Depth 12 side 1 Score -80.0
+Not updated [add to 76] Best move:  [add to 26], score: 220.0 Depth 12 side 1 Score -170.0
+     Best move:  [add to 12], score: 220.0 Depth 11 opponent side
+Not updated [add to 45] Best move:  [add to 44], score: 270.0 Depth 10 side 1 Score 220.0
+     Best move:  [add to 01], score: -90.0 Depth 12 our side
+Not updated [add to 02] Best move:  [add to 01], score: -90.0 Depth 12 side 1 Score -180.0
+     Best move:  [add to 06], score: 90.0 Depth 12 our side
+Not updated [add to 11] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -240.0
+Not updated [add to 16] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -30.0
+Not updated [add to 21] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -90.0
+Not updated [add to 26] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -110.0
+Not updated [add to 31] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -240.0
+Not updated [add to 36] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -30.0
+Not updated [add to 41] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -70.0
+Not updated [add to 42] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -10.0
+Not updated [add to 43] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -30.0
+Not updated [add to 44] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -20.0
+Not updated [add to 45] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score 70.0
+Not updated [add to 52] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -220.0
+Not updated [add to 53] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -200.0
+Not updated [add to 54] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -400.0
+Not updated [add to 61] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -220.0
+Not updated [add to 62] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -220.0
+Not updated [add to 64] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -330.0
+Not updated [add to 65] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -240.0
+Not updated [add to 66] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -240.0
+Not updated [add to 71] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -240.0
+Not updated [add to 72] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -200.0
+Not updated [add to 73] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -190.0
+Not updated [add to 74] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -290.0
+Not updated [add to 75] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -240.0
+Not updated [add to 76] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -240.0
+     Best move:  [add to 10], score: 90.0 Depth 11 opponent side
+Not updated [add to 51] Best move:  [add to 44], score: 270.0 Depth 10 side 1 Score 90.0
+     Best move:  [add to 01], score: 10.0 Depth 12 our side
+Not updated [add to 02] Best move:  [add to 01], score: 10.0 Depth 12 side 1 Score -30.0
+     Best move:  [add to 06], score: 90.0 Depth 12 our side
+Not updated [add to 11] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -110.0
+Not updated [add to 16] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -30.0
+Not updated [add to 21] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -20.0
+Not updated [add to 26] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -20.0
+Not updated [add to 31] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -110.0
+Not updated [add to 36] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score 60.0
+     Best move:  [add to 41], score: 90.0 Depth 12 our side
+Not updated [add to 42] Best move:  [add to 41], score: 90.0 Depth 12 side 1 Score -220.0
+     Best move:  [add to 43], score: 170.0 Depth 12 our side
+Not updated [add to 44] Best move:  [add to 43], score: 170.0 Depth 12 side 1 Score -60.0
+Not updated [add to 45] Best move:  [add to 43], score: 170.0 Depth 12 side 1 Score -120.0
+Not updated [add to 51] Best move:  [add to 43], score: 170.0 Depth 12 side 1 Score -220.0
+Not updated [add to 53] Best move:  [add to 43], score: 170.0 Depth 12 side 1 Score 110.0
+Not updated [add to 54] Best move:  [add to 43], score: 170.0 Depth 12 side 1 Score -240.0
+Not updated [add to 61] Best move:  [add to 43], score: 170.0 Depth 12 side 1 Score -60.0
+Not updated [add to 62] Best move:  [add to 43], score: 170.0 Depth 12 side 1 Score -60.0
+Not updated [add to 64] Best move:  [add to 43], score: 170.0 Depth 12 side 1 Score -240.0
+Not updated [add to 65] Best move:  [add to 43], score: 170.0 Depth 12 side 1 Score -150.0
+Not updated [add to 66] Best move:  [add to 43], score: 170.0 Depth 12 side 1 Score -150.0
+Not updated [add to 71] Best move:  [add to 43], score: 170.0 Depth 12 side 1 Score -110.0
+Not updated [add to 72] Best move:  [add to 43], score: 170.0 Depth 12 side 1 Score -80.0
+Not updated [add to 73] Best move:  [add to 43], score: 170.0 Depth 12 side 1 Score -150.0
+Not updated [add to 74] Best move:  [add to 43], score: 170.0 Depth 12 side 1 Score -80.0
+Not updated [add to 75] Best move:  [add to 43], score: 170.0 Depth 12 side 1 Score -150.0
+Not updated [add to 76] Best move:  [add to 43], score: 170.0 Depth 12 side 1 Score -150.0
+     Best move:  [add to 10], score: 170.0 Depth 11 opponent side
+Not updated [add to 52] Best move:  [add to 44], score: 270.0 Depth 10 side 1 Score 170.0
+     Best move:  [add to 01], score: 190.0 Depth 12 our side
+Not updated [add to 02] Best move:  [add to 01], score: 190.0 Depth 12 side 1 Score 80.0
+     Best move:  [add to 06], score: 270.0 Depth 12 our side
+Not updated [add to 11] Best move:  [add to 06], score: 270.0 Depth 12 side 1 Score 70.0
+Not updated [add to 16] Best move:  [add to 06], score: 270.0 Depth 12 side 1 Score 240.0
+Not updated [add to 21] Best move:  [add to 06], score: 270.0 Depth 12 side 1 Score -90.0
+Not updated [add to 26] Best move:  [add to 06], score: 270.0 Depth 12 side 1 Score 210.0
+Not updated [add to 31] Best move:  [add to 06], score: 270.0 Depth 12 side 1 Score -310.0
+Not updated [add to 36] Best move:  [add to 06], score: 270.0 Depth 12 side 1 Score 240.0
+Not updated [add to 41] Best move:  [add to 06], score: 270.0 Depth 12 side 1 Score 150.0
+Not updated [add to 42] Best move:  [add to 06], score: 270.0 Depth 12 side 1 Score -150.0
+Not updated [add to 43] Best move:  [add to 06], score: 270.0 Depth 12 side 1 Score 120.0
+Not updated [add to 44] Best move:  [add to 06], score: 270.0 Depth 12 side 1 Score 80.0
+Not updated [add to 45] Best move:  [add to 06], score: 270.0 Depth 12 side 1 Score 60.0
+Not updated [add to 51] Best move:  [add to 06], score: 270.0 Depth 12 side 1 Score -200.0
+Not updated [add to 52] Best move:  [add to 06], score: 270.0 Depth 12 side 1 Score 110.0
+Not updated [add to 54] Best move:  [add to 06], score: 270.0 Depth 12 side 1 Score -50.0
+Not updated [add to 61] Best move:  [add to 06], score: 270.0 Depth 12 side 1 Score 70.0
+Not updated [add to 62] Best move:  [add to 06], score: 270.0 Depth 12 side 1 Score 110.0
+Not updated [add to 64] Best move:  [add to 06], score: 270.0 Depth 12 side 1 Score -140.0
+Not updated [add to 65] Best move:  [add to 06], score: 270.0 Depth 12 side 1 Score 30.0
+     Best move:  [add to 66], score: 46153.846153846156 Depth 12 our side
+Not updated [add to 71] Best move:  [add to 66], score: 46153.846153846156 Depth 12 side 1 Score 90.0
+Not updated [add to 72] Best move:  [add to 66], score: 46153.846153846156 Depth 12 side 1 Score 70.0
+Not updated [add to 73] Best move:  [add to 66], score: 46153.846153846156 Depth 12 side 1 Score 20.0
+Not updated [add to 74] Best move:  [add to 66], score: 46153.846153846156 Depth 12 side 1 Score -20.0
+Not updated [add to 75] Best move:  [add to 66], score: 46153.846153846156 Depth 12 side 1 Score 0.0
+Not updated [add to 76] Best move:  [add to 66], score: 46153.846153846156 Depth 12 side 1 Score 30.0
+     Best move:  [add to 10], score: 46153.846153846156 Depth 11 opponent side
+     Best move:  [add to 01], score: 190.0 Depth 12 our side
+Not updated [add to 02] Best move:  [add to 01], score: 190.0 Depth 12 side 1 Score 80.0
+Not updated [add to 06] Best move:  [add to 01], score: 190.0 Depth 12 side 1 Score -200.0
+     Best move:  [add to 16], score: 240.0 Depth 12 our side
+Not updated [add to 21] Best move:  [add to 16], score: 240.0 Depth 12 side 1 Score 100.0
+Not updated [add to 26] Best move:  [add to 16], score: 240.0 Depth 12 side 1 Score 210.0
+Not updated [add to 31] Best move:  [add to 16], score: 240.0 Depth 12 side 1 Score 90.0
+     Best move:  [add to 36], score: 240.0 Depth 12 our side
+Not updated [add to 41] Best move:  [add to 36], score: 240.0 Depth 12 side 1 Score 150.0
+Not updated [add to 42] Best move:  [add to 36], score: 240.0 Depth 12 side 1 Score -150.0
+Not updated [add to 43] Best move:  [add to 36], score: 240.0 Depth 12 side 1 Score -210.0
+Not updated [add to 44] Best move:  [add to 36], score: 240.0 Depth 12 side 1 Score -10.0
+Not updated [add to 45] Best move:  [add to 36], score: 240.0 Depth 12 side 1 Score 60.0
+Not updated [add to 51] Best move:  [add to 36], score: 240.0 Depth 12 side 1 Score -150.0
+Not updated [add to 52] Best move:  [add to 36], score: 240.0 Depth 12 side 1 Score 110.0
+Not updated [add to 54] Best move:  [add to 36], score: 240.0 Depth 12 side 1 Score -50.0
+Not updated [add to 61] Best move:  [add to 36], score: 240.0 Depth 12 side 1 Score 70.0
+Not updated [add to 62] Best move:  [add to 36], score: 240.0 Depth 12 side 1 Score 110.0
+Not updated [add to 64] Best move:  [add to 36], score: 240.0 Depth 12 side 1 Score -140.0
+Not updated [add to 65] Best move:  [add to 36], score: 240.0 Depth 12 side 1 Score -230.0
+Not updated [add to 66] Best move:  [add to 36], score: 240.0 Depth 12 side 1 Score 30.0
+Not updated [add to 71] Best move:  [add to 36], score: 240.0 Depth 12 side 1 Score 90.0
+Not updated [add to 72] Best move:  [add to 36], score: 240.0 Depth 12 side 1 Score 70.0
+Not updated [add to 73] Best move:  [add to 36], score: 240.0 Depth 12 side 1 Score 20.0
+Not updated [add to 74] Best move:  [add to 36], score: 240.0 Depth 12 side 1 Score -20.0
+Not updated [add to 75] Best move:  [add to 36], score: 240.0 Depth 12 side 1 Score 0.0
+Not updated [add to 76] Best move:  [add to 36], score: 240.0 Depth 12 side 1 Score 30.0
+     Best move:  [add to 11], score: 240.0 Depth 11 opponent side
+Not updated [add to 53] Best move:  [add to 44], score: 270.0 Depth 10 side 1 Score 240.0
+     Best move:  [add to 01], score: -80.0 Depth 12 our side
+Not updated [add to 02] Best move:  [add to 01], score: -80.0 Depth 12 side 1 Score -180.0
+     Best move:  [add to 06], score: -70.0 Depth 12 our side
+Not updated [add to 11] Best move:  [add to 06], score: -70.0 Depth 12 side 1 Score -200.0
+     Best move:  [add to 16], score: -30.0 Depth 12 our side
+Not updated [add to 21] Best move:  [add to 16], score: -30.0 Depth 12 side 1 Score -80.0
+Not updated [add to 26] Best move:  [add to 16], score: -30.0 Depth 12 side 1 Score -110.0
+Not updated [add to 31] Best move:  [add to 16], score: -30.0 Depth 12 side 1 Score -200.0
+     Best move:  [add to 36], score: -10.0 Depth 12 our side
+Not updated [add to 41] Best move:  [add to 36], score: -10.0 Depth 12 side 1 Score -110.0
+Not updated [add to 42] Best move:  [add to 36], score: -10.0 Depth 12 side 1 Score -300.0
+     Best move:  [add to 43], score: 10.0 Depth 12 our side
+     Best move:  [add to 44], score: 270.0 Depth 12 our side
+Not updated [add to 51] Best move:  [add to 44], score: 270.0 Depth 12 side 1 Score -400.0
+Not updated [add to 52] Best move:  [add to 44], score: 270.0 Depth 12 side 1 Score -240.0
+Not updated [add to 53] Best move:  [add to 44], score: 270.0 Depth 12 side 1 Score -50.0
+Not updated [add to 61] Best move:  [add to 44], score: 270.0 Depth 12 side 1 Score -200.0
+Not updated [add to 62] Best move:  [add to 44], score: 270.0 Depth 12 side 1 Score -200.0
+Not updated [add to 64] Best move:  [add to 44], score: 270.0 Depth 12 side 1 Score -190.0
+Not updated [add to 65] Best move:  [add to 44], score: 270.0 Depth 12 side 1 Score -310.0
+Not updated [add to 66] Best move:  [add to 44], score: 270.0 Depth 12 side 1 Score -240.0
+Not updated [add to 71] Best move:  [add to 44], score: 270.0 Depth 12 side 1 Score -200.0
+Not updated [add to 72] Best move:  [add to 44], score: 270.0 Depth 12 side 1 Score -210.0
+Not updated [add to 73] Best move:  [add to 44], score: 270.0 Depth 12 side 1 Score -240.0
+Not updated [add to 74] Best move:  [add to 44], score: 270.0 Depth 12 side 1 Score -120.0
+     Best move:  [add to 75], score: 270.0 Depth 12 our side
+Not updated [add to 76] Best move:  [add to 75], score: 270.0 Depth 12 side 1 Score -330.0
+     Best move:  [add to 10], score: 270.0 Depth 11 opponent side
+     Best move:  [add to 54], score: 270.0 Depth 10 our side
+     Best move:  [add to 01], score: 70.0 Depth 12 our side
+Not updated [add to 02] Best move:  [add to 01], score: 70.0 Depth 12 side 1 Score -90.0
+     Best move:  [add to 06], score: 90.0 Depth 12 our side
+Not updated [add to 11] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -80.0
+Not updated [add to 16] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -30.0
+Not updated [add to 21] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score 70.0
+Not updated [add to 26] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -20.0
+Not updated [add to 31] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -80.0
+Not updated [add to 36] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score 60.0
+Not updated [add to 41] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score 70.0
+Not updated [add to 42] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -210.0
+     Best move:  [add to 43], score: 150.0 Depth 12 our side
+Not updated [add to 44] Best move:  [add to 43], score: 150.0 Depth 12 side 1 Score 140.0
+Not updated [add to 45] Best move:  [add to 43], score: 150.0 Depth 12 side 1 Score -120.0
+Not updated [add to 51] Best move:  [add to 43], score: 150.0 Depth 12 side 1 Score -220.0
+Not updated [add to 52] Best move:  [add to 43], score: 150.0 Depth 12 side 1 Score -60.0
+Not updated [add to 53] Best move:  [add to 43], score: 150.0 Depth 12 side 1 Score 70.0
+Not updated [add to 54] Best move:  [add to 43], score: 150.0 Depth 12 side 1 Score -200.0
+Not updated [add to 62] Best move:  [add to 43], score: 150.0 Depth 12 side 1 Score -60.0
+Not updated [add to 64] Best move:  [add to 43], score: 150.0 Depth 12 side 1 Score -250.0
+Not updated [add to 65] Best move:  [add to 43], score: 150.0 Depth 12 side 1 Score -160.0
+Not updated [add to 66] Best move:  [add to 43], score: 150.0 Depth 12 side 1 Score -160.0
+Not updated [add to 71] Best move:  [add to 43], score: 150.0 Depth 12 side 1 Score -30.0
+Not updated [add to 72] Best move:  [add to 43], score: 150.0 Depth 12 side 1 Score -60.0
+Not updated [add to 73] Best move:  [add to 43], score: 150.0 Depth 12 side 1 Score -150.0
+Not updated [add to 74] Best move:  [add to 43], score: 150.0 Depth 12 side 1 Score -200.0
+Not updated [add to 75] Best move:  [add to 43], score: 150.0 Depth 12 side 1 Score -150.0
+Not updated [add to 76] Best move:  [add to 43], score: 150.0 Depth 12 side 1 Score -150.0
+     Best move:  [add to 10], score: 150.0 Depth 11 opponent side
+Not updated [add to 61] Best move:  [add to 54], score: 270.0 Depth 10 side 1 Score 150.0
+     Best move:  [add to 01], score: 10.0 Depth 12 our side
+Not updated [add to 02] Best move:  [add to 01], score: 10.0 Depth 12 side 1 Score -30.0
+     Best move:  [add to 06], score: 90.0 Depth 12 our side
+Not updated [add to 11] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -110.0
+Not updated [add to 16] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score 60.0
+Not updated [add to 21] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -20.0
+Not updated [add to 26] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score 70.0
+Not updated [add to 31] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -200.0
+Not updated [add to 36] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score 60.0
+Not updated [add to 41] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -20.0
+Not updated [add to 42] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -240.0
+     Best move:  [add to 43], score: 120.0 Depth 12 our side
+Not updated [add to 44] Best move:  [add to 43], score: 120.0 Depth 12 side 1 Score 40.0
+Not updated [add to 45] Best move:  [add to 43], score: 120.0 Depth 12 side 1 Score -120.0
+Not updated [add to 51] Best move:  [add to 43], score: 120.0 Depth 12 side 1 Score -220.0
+Not updated [add to 52] Best move:  [add to 43], score: 120.0 Depth 12 side 1 Score -60.0
+Not updated [add to 53] Best move:  [add to 43], score: 120.0 Depth 12 side 1 Score 110.0
+Not updated [add to 54] Best move:  [add to 43], score: 120.0 Depth 12 side 1 Score -200.0
+Not updated [add to 61] Best move:  [add to 43], score: 120.0 Depth 12 side 1 Score -60.0
+Not updated [add to 64] Best move:  [add to 43], score: 120.0 Depth 12 side 1 Score -250.0
+Not updated [add to 65] Best move:  [add to 43], score: 120.0 Depth 12 side 1 Score -160.0
+Not updated [add to 66] Best move:  [add to 43], score: 120.0 Depth 12 side 1 Score -160.0
+Not updated [add to 71] Best move:  [add to 43], score: 120.0 Depth 12 side 1 Score -60.0
+Not updated [add to 72] Best move:  [add to 43], score: 120.0 Depth 12 side 1 Score -60.0
+Not updated [add to 73] Best move:  [add to 43], score: 120.0 Depth 12 side 1 Score -150.0
+Not updated [add to 74] Best move:  [add to 43], score: 120.0 Depth 12 side 1 Score 90.0
+Not updated [add to 75] Best move:  [add to 43], score: 120.0 Depth 12 side 1 Score -150.0
+Not updated [add to 76] Best move:  [add to 43], score: 120.0 Depth 12 side 1 Score -150.0
+     Best move:  [add to 10], score: 120.0 Depth 11 opponent side
+Not updated [add to 62] Best move:  [add to 54], score: 270.0 Depth 10 side 1 Score 120.0
+     Best move:  [add to 01], score: -120.0 Depth 12 our side
+Not updated [add to 02] Best move:  [add to 01], score: -120.0 Depth 12 side 1 Score -220.0
+Not updated [add to 06] Best move:  [add to 01], score: -120.0 Depth 12 side 1 Score -160.0
+Not updated [add to 11] Best move:  [add to 01], score: -120.0 Depth 12 side 1 Score -240.0
+     Best move:  [add to 16], score: -120.0 Depth 12 our side
+Not updated [add to 21] Best move:  [add to 16], score: -120.0 Depth 12 side 1 Score -150.0
+     Best move:  [add to 26], score: 10.0 Depth 12 our side
+Not updated [add to 31] Best move:  [add to 26], score: 10.0 Depth 12 side 1 Score -330.0
+Not updated [add to 36] Best move:  [add to 26], score: 10.0 Depth 12 side 1 Score -120.0
+Not updated [add to 41] Best move:  [add to 26], score: 10.0 Depth 12 side 1 Score -200.0
+Not updated [add to 42] Best move:  [add to 26], score: 10.0 Depth 12 side 1 Score -560.0
+Not updated [add to 43] Best move:  [add to 26], score: 10.0 Depth 12 side 1 Score -160.0
+     Best move:  [add to 44], score: 90.0 Depth 12 our side
+Not updated [add to 45] Best move:  [add to 44], score: 90.0 Depth 12 side 1 Score -660.0
+Not updated [add to 51] Best move:  [add to 44], score: 90.0 Depth 12 side 1 Score -330.0
+Not updated [add to 52] Best move:  [add to 44], score: 90.0 Depth 12 side 1 Score -240.0
+Not updated [add to 53] Best move:  [add to 44], score: 90.0 Depth 12 side 1 Score -140.0
+Not updated [add to 54] Best move:  [add to 44], score: 90.0 Depth 12 side 1 Score -190.0
+Not updated [add to 61] Best move:  [add to 44], score: 90.0 Depth 12 side 1 Score -250.0
+Not updated [add to 62] Best move:  [add to 44], score: 90.0 Depth 12 side 1 Score -250.0
+Not updated [add to 65] Best move:  [add to 44], score: 90.0 Depth 12 side 1 Score -580.0
+Not updated [add to 66] Best move:  [add to 44], score: 90.0 Depth 12 side 1 Score -420.0
+Not updated [add to 71] Best move:  [add to 44], score: 90.0 Depth 12 side 1 Score -240.0
+Not updated [add to 72] Best move:  [add to 44], score: 90.0 Depth 12 side 1 Score -240.0
+Not updated [add to 73] Best move:  [add to 44], score: 90.0 Depth 12 side 1 Score -230.0
+Not updated [add to 74] Best move:  [add to 44], score: 90.0 Depth 12 side 1 Score -190.0
+Not updated [add to 75] Best move:  [add to 44], score: 90.0 Depth 12 side 1 Score 30.0
+Not updated [add to 76] Best move:  [add to 44], score: 90.0 Depth 12 side 1 Score -280.0
+     Best move:  [add to 10], score: 90.0 Depth 11 opponent side
+Not updated [add to 64] Best move:  [add to 54], score: 270.0 Depth 10 side 1 Score 90.0
+     Best move:  [add to 01], score: -30.0 Depth 12 our side
+Not updated [add to 02] Best move:  [add to 01], score: -30.0 Depth 12 side 1 Score -130.0
+     Best move:  [add to 06], score: 50.0 Depth 12 our side
+Not updated [add to 11] Best move:  [add to 06], score: 50.0 Depth 12 side 1 Score -150.0
+Not updated [add to 16] Best move:  [add to 06], score: 50.0 Depth 12 side 1 Score -30.0
+Not updated [add to 21] Best move:  [add to 06], score: 50.0 Depth 12 side 1 Score -20.0
+Not updated [add to 26] Best move:  [add to 06], score: 50.0 Depth 12 side 1 Score -60.0
+Not updated [add to 31] Best move:  [add to 06], score: 50.0 Depth 12 side 1 Score -150.0
+Not updated [add to 36] Best move:  [add to 06], score: 50.0 Depth 12 side 1 Score 20.0
+Not updated [add to 41] Best move:  [add to 06], score: 50.0 Depth 12 side 1 Score -60.0
+Not updated [add to 42] Best move:  [add to 06], score: 50.0 Depth 12 side 1 Score -250.0
+     Best move:  [add to 43], score: 60.0 Depth 12 our side
+Not updated [add to 44] Best move:  [add to 43], score: 60.0 Depth 12 side 1 Score 30.0
+Not updated [add to 45] Best move:  [add to 43], score: 60.0 Depth 12 side 1 Score -120.0
+Not updated [add to 51] Best move:  [add to 43], score: 60.0 Depth 12 side 1 Score -240.0
+Not updated [add to 52] Best move:  [add to 43], score: 60.0 Depth 12 side 1 Score -150.0
+Not updated [add to 53] Best move:  [add to 43], score: 60.0 Depth 12 side 1 Score 30.0
+Not updated [add to 54] Best move:  [add to 43], score: 60.0 Depth 12 side 1 Score -310.0
+Not updated [add to 61] Best move:  [add to 43], score: 60.0 Depth 12 side 1 Score -160.0
+Not updated [add to 62] Best move:  [add to 43], score: 60.0 Depth 12 side 1 Score -160.0
+Not updated [add to 64] Best move:  [add to 43], score: 60.0 Depth 12 side 1 Score -580.0
+Not updated [add to 66] Best move:  [add to 43], score: 60.0 Depth 12 side 1 Score -240.0
+Not updated [add to 71] Best move:  [add to 43], score: 60.0 Depth 12 side 1 Score -150.0
+Not updated [add to 72] Best move:  [add to 43], score: 60.0 Depth 12 side 1 Score -190.0
+Not updated [add to 73] Best move:  [add to 43], score: 60.0 Depth 12 side 1 Score -270.0
+Not updated [add to 74] Best move:  [add to 43], score: 60.0 Depth 12 side 1 Score -310.0
+Not updated [add to 75] Best move:  [add to 43], score: 60.0 Depth 12 side 1 Score -70.0
+Not updated [add to 76] Best move:  [add to 43], score: 60.0 Depth 12 side 1 Score -240.0
+     Best move:  [add to 10], score: 60.0 Depth 11 opponent side
+Not updated [add to 65] Best move:  [add to 54], score: 270.0 Depth 10 side 1 Score 60.0
+     Best move:  [add to 01], score: -30.0 Depth 12 our side
+Not updated [add to 02] Best move:  [add to 01], score: -30.0 Depth 12 side 1 Score -130.0
+     Best move:  [add to 06], score: 90.0 Depth 12 our side
+Not updated [add to 11] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -150.0
+Not updated [add to 16] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score 60.0
+Not updated [add to 21] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -60.0
+Not updated [add to 26] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -30.0
+Not updated [add to 31] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -150.0
+Not updated [add to 36] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score 60.0
+Not updated [add to 41] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -110.0
+Not updated [add to 42] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -300.0
+Not updated [add to 43] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score 30.0
+Not updated [add to 44] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -60.0
+Not updated [add to 45] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -210.0
+Not updated [add to 51] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -240.0
+Not updated [add to 52] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -150.0
+     Best move:  [add to 53], score: 46153.846153846156 Depth 12 our side
+Not updated [add to 54] Best move:  [add to 53], score: 46153.846153846156 Depth 12 side 1 Score -240.0
+Not updated [add to 61] Best move:  [add to 53], score: 46153.846153846156 Depth 12 side 1 Score -160.0
+Not updated [add to 62] Best move:  [add to 53], score: 46153.846153846156 Depth 12 side 1 Score -160.0
+Not updated [add to 64] Best move:  [add to 53], score: 46153.846153846156 Depth 12 side 1 Score -420.0
+Not updated [add to 65] Best move:  [add to 53], score: 46153.846153846156 Depth 12 side 1 Score -240.0
+Not updated [add to 71] Best move:  [add to 53], score: 46153.846153846156 Depth 12 side 1 Score -150.0
+Not updated [add to 72] Best move:  [add to 53], score: 46153.846153846156 Depth 12 side 1 Score -150.0
+Not updated [add to 73] Best move:  [add to 53], score: 46153.846153846156 Depth 12 side 1 Score -210.0
+Not updated [add to 74] Best move:  [add to 53], score: 46153.846153846156 Depth 12 side 1 Score -240.0
+Not updated [add to 75] Best move:  [add to 53], score: 46153.846153846156 Depth 12 side 1 Score -240.0
+Not updated [add to 76] Best move:  [add to 53], score: 46153.846153846156 Depth 12 side 1 Score -70.0
+     Best move:  [add to 10], score: 46153.846153846156 Depth 11 opponent side
+     Best move:  [add to 01], score: -30.0 Depth 12 our side
+Not updated [add to 02] Best move:  [add to 01], score: -30.0 Depth 12 side 1 Score -130.0
+     Best move:  [add to 06], score: 90.0 Depth 12 our side
+Not updated [add to 16] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score 60.0
+Not updated [add to 21] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -60.0
+Not updated [add to 26] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -30.0
+     Best move:  [add to 31], score: 320.0 Depth 12 our side
+Not updated [add to 36] Best move:  [add to 31], score: 320.0 Depth 12 side 1 Score 60.0
+Not updated [add to 41] Best move:  [add to 31], score: 320.0 Depth 12 side 1 Score -110.0
+Not updated [add to 42] Best move:  [add to 31], score: 320.0 Depth 12 side 1 Score -300.0
+Not updated [add to 43] Best move:  [add to 31], score: 320.0 Depth 12 side 1 Score 30.0
+Not updated [add to 44] Best move:  [add to 31], score: 320.0 Depth 12 side 1 Score -300.0
+Not updated [add to 45] Best move:  [add to 31], score: 320.0 Depth 12 side 1 Score -210.0
+Not updated [add to 51] Best move:  [add to 31], score: 320.0 Depth 12 side 1 Score -240.0
+Not updated [add to 52] Best move:  [add to 31], score: 320.0 Depth 12 side 1 Score -150.0
+Not updated [add to 53] Best move:  [add to 31], score: 320.0 Depth 12 side 1 Score 30.0
+Not updated [add to 54] Best move:  [add to 31], score: 320.0 Depth 12 side 1 Score -240.0
+Not updated [add to 61] Best move:  [add to 31], score: 320.0 Depth 12 side 1 Score -160.0
+Not updated [add to 62] Best move:  [add to 31], score: 320.0 Depth 12 side 1 Score -160.0
+Not updated [add to 64] Best move:  [add to 31], score: 320.0 Depth 12 side 1 Score 50.0
+Not updated [add to 65] Best move:  [add to 31], score: 320.0 Depth 12 side 1 Score -240.0
+Not updated [add to 71] Best move:  [add to 31], score: 320.0 Depth 12 side 1 Score -150.0
+Not updated [add to 72] Best move:  [add to 31], score: 320.0 Depth 12 side 1 Score 60.0
+Not updated [add to 73] Best move:  [add to 31], score: 320.0 Depth 12 side 1 Score -190.0
+Not updated [add to 74] Best move:  [add to 31], score: 320.0 Depth 12 side 1 Score -240.0
+Not updated [add to 75] Best move:  [add to 31], score: 320.0 Depth 12 side 1 Score -240.0
+Not updated [add to 76] Best move:  [add to 31], score: 320.0 Depth 12 side 1 Score -70.0
+     Best move:  [add to 11], score: 320.0 Depth 11 opponent side
+     Best move:  [add to 01], score: -310.0 Depth 12 our side
+     Best move:  [add to 02], score: -130.0 Depth 12 our side
+     Best move:  [add to 06], score: 90.0 Depth 12 our side
+Not updated [add to 11] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -150.0
+Not updated [add to 16] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score 60.0
+Not updated [add to 21] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -240.0
+Not updated [add to 26] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -30.0
+Not updated [add to 31] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -240.0
+Not updated [add to 36] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score 60.0
+Not updated [add to 41] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -110.0
+Not updated [add to 42] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -300.0
+Not updated [add to 43] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score 30.0
+Not updated [add to 44] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -60.0
+Not updated [add to 45] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -170.0
+Not updated [add to 51] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -170.0
+Not updated [add to 52] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -150.0
+Not updated [add to 53] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score 30.0
+Not updated [add to 54] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -240.0
+Not updated [add to 61] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -160.0
+Not updated [add to 62] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -160.0
+Not updated [add to 64] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -420.0
+Not updated [add to 65] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -240.0
+Not updated [add to 71] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -150.0
+Not updated [add to 72] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -150.0
+Not updated [add to 73] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -190.0
+Not updated [add to 74] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -240.0
+Not updated [add to 75] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -240.0
+Not updated [add to 76] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -70.0
+     Best move:  [add to 12], score: 90.0 Depth 11 opponent side
+Not updated [add to 66] Best move:  [add to 54], score: 270.0 Depth 10 side 1 Score 90.0
+     Best move:  [add to 01], score: 70.0 Depth 12 our side
+Not updated [add to 02] Best move:  [add to 01], score: 70.0 Depth 12 side 1 Score -90.0
+     Best move:  [add to 06], score: 90.0 Depth 12 our side
+Not updated [add to 11] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -80.0
+Not updated [add to 16] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score 60.0
+Not updated [add to 21] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score 70.0
+Not updated [add to 26] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score 70.0
+Not updated [add to 31] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -80.0
+Not updated [add to 36] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score 60.0
+Not updated [add to 41] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score 70.0
+Not updated [add to 42] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -210.0
+     Best move:  [add to 43], score: 120.0 Depth 12 our side
+Not updated [add to 44] Best move:  [add to 43], score: 120.0 Depth 12 side 1 Score 40.0
+Not updated [add to 45] Best move:  [add to 43], score: 120.0 Depth 12 side 1 Score -120.0
+Not updated [add to 51] Best move:  [add to 43], score: 120.0 Depth 12 side 1 Score -240.0
+Not updated [add to 52] Best move:  [add to 43], score: 120.0 Depth 12 side 1 Score -110.0
+Not updated [add to 53] Best move:  [add to 43], score: 120.0 Depth 12 side 1 Score 90.0
+Not updated [add to 54] Best move:  [add to 43], score: 120.0 Depth 12 side 1 Score -200.0
+Not updated [add to 61] Best move:  [add to 43], score: 120.0 Depth 12 side 1 Score -30.0
+Not updated [add to 62] Best move:  [add to 43], score: 120.0 Depth 12 side 1 Score -60.0
+Not updated [add to 64] Best move:  [add to 43], score: 120.0 Depth 12 side 1 Score -240.0
+Not updated [add to 65] Best move:  [add to 43], score: 120.0 Depth 12 side 1 Score -150.0
+Not updated [add to 66] Best move:  [add to 43], score: 120.0 Depth 12 side 1 Score -150.0
+Not updated [add to 72] Best move:  [add to 43], score: 120.0 Depth 12 side 1 Score 60.0
+Not updated [add to 73] Best move:  [add to 43], score: 120.0 Depth 12 side 1 Score -150.0
+Not updated [add to 74] Best move:  [add to 43], score: 120.0 Depth 12 side 1 Score -200.0
+Not updated [add to 75] Best move:  [add to 43], score: 120.0 Depth 12 side 1 Score -150.0
+Not updated [add to 76] Best move:  [add to 43], score: 120.0 Depth 12 side 1 Score -150.0
+     Best move:  [add to 10], score: 120.0 Depth 11 opponent side
+Not updated [add to 71] Best move:  [add to 54], score: 270.0 Depth 10 side 1 Score 120.0
+     Best move:  [add to 01], score: 10.0 Depth 12 our side
+Not updated [add to 02] Best move:  [add to 01], score: 10.0 Depth 12 side 1 Score -30.0
+     Best move:  [add to 06], score: 90.0 Depth 12 our side
+Not updated [add to 11] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -110.0
+Not updated [add to 16] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score 60.0
+Not updated [add to 21] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -20.0
+Not updated [add to 26] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -20.0
+Not updated [add to 31] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -110.0
+Not updated [add to 36] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -30.0
+Not updated [add to 41] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -20.0
+Not updated [add to 42] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -240.0
+     Best move:  [add to 43], score: 120.0 Depth 12 our side
+     Best move:  [add to 44], score: 260.0 Depth 12 our side
+Not updated [add to 45] Best move:  [add to 44], score: 260.0 Depth 12 side 1 Score -210.0
+Not updated [add to 51] Best move:  [add to 44], score: 260.0 Depth 12 side 1 Score -200.0
+Not updated [add to 52] Best move:  [add to 44], score: 260.0 Depth 12 side 1 Score -80.0
+Not updated [add to 53] Best move:  [add to 44], score: 260.0 Depth 12 side 1 Score 70.0
+Not updated [add to 54] Best move:  [add to 44], score: 260.0 Depth 12 side 1 Score -210.0
+Not updated [add to 61] Best move:  [add to 44], score: 260.0 Depth 12 side 1 Score -60.0
+Not updated [add to 62] Best move:  [add to 44], score: 260.0 Depth 12 side 1 Score -60.0
+Not updated [add to 64] Best move:  [add to 44], score: 260.0 Depth 12 side 1 Score -240.0
+Not updated [add to 65] Best move:  [add to 44], score: 260.0 Depth 12 side 1 Score -190.0
+Not updated [add to 66] Best move:  [add to 44], score: 260.0 Depth 12 side 1 Score -150.0
+Not updated [add to 71] Best move:  [add to 44], score: 260.0 Depth 12 side 1 Score 60.0
+Not updated [add to 73] Best move:  [add to 44], score: 260.0 Depth 12 side 1 Score -130.0
+Not updated [add to 74] Best move:  [add to 44], score: 260.0 Depth 12 side 1 Score -200.0
+Not updated [add to 75] Best move:  [add to 44], score: 260.0 Depth 12 side 1 Score -150.0
+Not updated [add to 76] Best move:  [add to 44], score: 260.0 Depth 12 side 1 Score -150.0
+     Best move:  [add to 10], score: 260.0 Depth 11 opponent side
+Not updated [add to 72] Best move:  [add to 54], score: 270.0 Depth 10 side 1 Score 260.0
+     Best move:  [add to 01], score: -30.0 Depth 12 our side
+Not updated [add to 02] Best move:  [add to 01], score: -30.0 Depth 12 side 1 Score -130.0
+     Best move:  [add to 06], score: 0.0 Depth 12 our side
+Not updated [add to 11] Best move:  [add to 06], score: 0.0 Depth 12 side 1 Score -150.0
+Not updated [add to 16] Best move:  [add to 06], score: 0.0 Depth 12 side 1 Score -30.0
+Not updated [add to 21] Best move:  [add to 06], score: 0.0 Depth 12 side 1 Score -60.0
+Not updated [add to 26] Best move:  [add to 06], score: 0.0 Depth 12 side 1 Score -110.0
+Not updated [add to 31] Best move:  [add to 06], score: 0.0 Depth 12 side 1 Score -150.0
+     Best move:  [add to 36], score: 0.0 Depth 12 our side
+Not updated [add to 41] Best move:  [add to 36], score: 0.0 Depth 12 side 1 Score -110.0
+Not updated [add to 42] Best move:  [add to 36], score: 0.0 Depth 12 side 1 Score -300.0
+Not updated [add to 43] Best move:  [add to 36], score: 0.0 Depth 12 side 1 Score -10.0
+Not updated [add to 44] Best move:  [add to 36], score: 0.0 Depth 12 side 1 Score -20.0
+Not updated [add to 45] Best move:  [add to 36], score: 0.0 Depth 12 side 1 Score -210.0
+Not updated [add to 51] Best move:  [add to 36], score: 0.0 Depth 12 side 1 Score -190.0
+Not updated [add to 52] Best move:  [add to 36], score: 0.0 Depth 12 side 1 Score -150.0
+     Best move:  [add to 53], score: 20.0 Depth 12 our side
+Not updated [add to 54] Best move:  [add to 53], score: 20.0 Depth 12 side 1 Score -240.0
+Not updated [add to 61] Best move:  [add to 53], score: 20.0 Depth 12 side 1 Score -150.0
+Not updated [add to 62] Best move:  [add to 53], score: 20.0 Depth 12 side 1 Score -150.0
+Not updated [add to 64] Best move:  [add to 53], score: 20.0 Depth 12 side 1 Score -230.0
+Not updated [add to 65] Best move:  [add to 53], score: 20.0 Depth 12 side 1 Score -270.0
+Not updated [add to 66] Best move:  [add to 53], score: 20.0 Depth 12 side 1 Score -210.0
+Not updated [add to 71] Best move:  [add to 53], score: 20.0 Depth 12 side 1 Score -150.0
+Not updated [add to 72] Best move:  [add to 53], score: 20.0 Depth 12 side 1 Score -130.0
+Not updated [add to 74] Best move:  [add to 53], score: 20.0 Depth 12 side 1 Score -220.0
+Not updated [add to 75] Best move:  [add to 53], score: 20.0 Depth 12 side 1 Score -270.0
+Not updated [add to 76] Best move:  [add to 53], score: 20.0 Depth 12 side 1 Score -190.0
+     Best move:  [add to 10], score: 20.0 Depth 11 opponent side
+Not updated [add to 73] Best move:  [add to 54], score: 270.0 Depth 10 side 1 Score 20.0
+     Best move:  [add to 01], score: -80.0 Depth 12 our side
+Not updated [add to 02] Best move:  [add to 01], score: -80.0 Depth 12 side 1 Score -180.0
+     Best move:  [add to 06], score: -70.0 Depth 12 our side
+Not updated [add to 11] Best move:  [add to 06], score: -70.0 Depth 12 side 1 Score -200.0
+     Best move:  [add to 16], score: -30.0 Depth 12 our side
+Not updated [add to 21] Best move:  [add to 16], score: -30.0 Depth 12 side 1 Score -110.0
+Not updated [add to 26] Best move:  [add to 16], score: -30.0 Depth 12 side 1 Score -110.0
+Not updated [add to 31] Best move:  [add to 16], score: -30.0 Depth 12 side 1 Score -200.0
+     Best move:  [add to 36], score: -30.0 Depth 12 our side
+Not updated [add to 41] Best move:  [add to 36], score: -30.0 Depth 12 side 1 Score -200.0
+Not updated [add to 42] Best move:  [add to 36], score: -30.0 Depth 12 side 1 Score -300.0
+     Best move:  [add to 43], score: 30.0 Depth 12 our side
+     Best move:  [add to 44], score: 250.0 Depth 12 our side
+Not updated [add to 45] Best move:  [add to 44], score: 250.0 Depth 12 side 1 Score -570.0
+Not updated [add to 51] Best move:  [add to 44], score: 250.0 Depth 12 side 1 Score -290.0
+Not updated [add to 52] Best move:  [add to 44], score: 250.0 Depth 12 side 1 Score -80.0
+Not updated [add to 53] Best move:  [add to 44], score: 250.0 Depth 12 side 1 Score -20.0
+Not updated [add to 54] Best move:  [add to 44], score: 250.0 Depth 12 side 1 Score -120.0
+Not updated [add to 61] Best move:  [add to 44], score: 250.0 Depth 12 side 1 Score -200.0
+Not updated [add to 62] Best move:  [add to 44], score: 250.0 Depth 12 side 1 Score 90.0
+Not updated [add to 64] Best move:  [add to 44], score: 250.0 Depth 12 side 1 Score -190.0
+Not updated [add to 65] Best move:  [add to 44], score: 250.0 Depth 12 side 1 Score -310.0
+Not updated [add to 66] Best move:  [add to 44], score: 250.0 Depth 12 side 1 Score -240.0
+Not updated [add to 71] Best move:  [add to 44], score: 250.0 Depth 12 side 1 Score -200.0
+Not updated [add to 72] Best move:  [add to 44], score: 250.0 Depth 12 side 1 Score -200.0
+Not updated [add to 73] Best move:  [add to 44], score: 250.0 Depth 12 side 1 Score -220.0
+Not updated [add to 75] Best move:  [add to 44], score: 250.0 Depth 12 side 1 Score -220.0
+Not updated [add to 76] Best move:  [add to 44], score: 250.0 Depth 12 side 1 Score -240.0
+     Best move:  [add to 10], score: 250.0 Depth 11 opponent side
+Not updated [add to 74] Best move:  [add to 54], score: 270.0 Depth 10 side 1 Score 250.0
+     Best move:  [add to 01], score: -30.0 Depth 12 our side
+Not updated [add to 02] Best move:  [add to 01], score: -30.0 Depth 12 side 1 Score -130.0
+     Best move:  [add to 06], score: 50.0 Depth 12 our side
+Not updated [add to 11] Best move:  [add to 06], score: 50.0 Depth 12 side 1 Score -150.0
+Not updated [add to 16] Best move:  [add to 06], score: 50.0 Depth 12 side 1 Score -30.0
+Not updated [add to 21] Best move:  [add to 06], score: 50.0 Depth 12 side 1 Score -60.0
+Not updated [add to 26] Best move:  [add to 06], score: 50.0 Depth 12 side 1 Score -60.0
+Not updated [add to 31] Best move:  [add to 06], score: 50.0 Depth 12 side 1 Score -170.0
+Not updated [add to 36] Best move:  [add to 06], score: 50.0 Depth 12 side 1 Score 20.0
+Not updated [add to 41] Best move:  [add to 06], score: 50.0 Depth 12 side 1 Score -60.0
+Not updated [add to 42] Best move:  [add to 06], score: 50.0 Depth 12 side 1 Score -390.0
+     Best move:  [add to 43], score: 80.0 Depth 12 our side
+Not updated [add to 44] Best move:  [add to 43], score: 80.0 Depth 12 side 1 Score 30.0
+Not updated [add to 45] Best move:  [add to 43], score: 80.0 Depth 12 side 1 Score -120.0
+Not updated [add to 51] Best move:  [add to 43], score: 80.0 Depth 12 side 1 Score -240.0
+Not updated [add to 52] Best move:  [add to 43], score: 80.0 Depth 12 side 1 Score -150.0
+Not updated [add to 53] Best move:  [add to 43], score: 80.0 Depth 12 side 1 Score 0.0
+     Best move:  [add to 54], score: 270.0 Depth 12 our side
+Not updated [add to 61] Best move:  [add to 54], score: 270.0 Depth 12 side 1 Score -150.0
+Not updated [add to 62] Best move:  [add to 54], score: 270.0 Depth 12 side 1 Score -150.0
+Not updated [add to 64] Best move:  [add to 54], score: 270.0 Depth 12 side 1 Score 30.0
+Not updated [add to 65] Best move:  [add to 54], score: 270.0 Depth 12 side 1 Score -70.0
+Not updated [add to 66] Best move:  [add to 54], score: 270.0 Depth 12 side 1 Score -240.0
+Not updated [add to 71] Best move:  [add to 54], score: 270.0 Depth 12 side 1 Score -150.0
+Not updated [add to 72] Best move:  [add to 54], score: 270.0 Depth 12 side 1 Score -150.0
+Not updated [add to 73] Best move:  [add to 54], score: 270.0 Depth 12 side 1 Score -270.0
+Not updated [add to 74] Best move:  [add to 54], score: 270.0 Depth 12 side 1 Score -220.0
+Not updated [add to 76] Best move:  [add to 54], score: 270.0 Depth 12 side 1 Score -170.0
+     Best move:  [add to 10], score: 270.0 Depth 11 opponent side
+     Best move:  [add to 75], score: 270.0 Depth 10 our side
+     Best move:  [add to 01], score: -30.0 Depth 12 our side
+Not updated [add to 02] Best move:  [add to 01], score: -30.0 Depth 12 side 1 Score -130.0
+     Best move:  [add to 06], score: 90.0 Depth 12 our side
+Not updated [add to 11] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -150.0
+Not updated [add to 16] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score 60.0
+Not updated [add to 21] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -20.0
+Not updated [add to 26] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -30.0
+Not updated [add to 31] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -150.0
+Not updated [add to 36] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score 60.0
+Not updated [add to 41] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -110.0
+Not updated [add to 42] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -300.0
+Not updated [add to 43] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -10.0
+Not updated [add to 44] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -20.0
+Not updated [add to 45] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -210.0
+Not updated [add to 51] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -240.0
+Not updated [add to 52] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -150.0
+Not updated [add to 53] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score 30.0
+Not updated [add to 54] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -330.0
+Not updated [add to 61] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -150.0
+Not updated [add to 62] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -150.0
+Not updated [add to 64] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -280.0
+Not updated [add to 65] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -240.0
+Not updated [add to 66] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -70.0
+Not updated [add to 71] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -150.0
+Not updated [add to 72] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -150.0
+Not updated [add to 73] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -190.0
+Not updated [add to 74] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -240.0
+Not updated [add to 75] Best move:  [add to 06], score: 90.0 Depth 12 side 1 Score -170.0
+     Best move:  [add to 10], score: 90.0 Depth 11 opponent side
+Not updated [add to 76] Best move:  [add to 75], score: 270.0 Depth 10 side 1 Score 90.0
+[add to 75]

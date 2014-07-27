@@ -1,0 +1,155 @@
+                                     GRADER
+
+Name of student running submit:Zihao Zhang
+Login of student running submit:cs61b-cv
+
+Second team member's name:Jade Hua
+Second team member's login:cs61b-cw
+
+Third team member's name (if any):Myra Haqqi
+Third team member's login:cs61b-fj
+
+IMPORTANT:  Once you've submitted Project 2 once, the same team member should
+submit always.  If a different teammate must submit, inform cs61b@cory.eecs of
+all the details.  Include a complete list of team members, and let us know
+which submission you want graded.
+
+If you've submitted your project once, or even written a substantial amount of
+code together, you may not change partners without the permission of the
+instructor.
+===============================================================================
+Does your program compile without errors?
+Yes
+
+Have you tested your program on the machines in the Soda CS 61B lab?
+
+
+Did you successfully implement game tree search?  Did you successfully
+implement alpha-beta pruning?  Are there any limitations on it?  What is the
+default number of search levels set by the one-parameter MachinePlayer
+constructor?
+    Yes, we successfully implemented game tree search and alpha-beta pruning, no limitation
+    that I know. Default number of search level is 2.
+
+Describe your board evaluation function in some detail.
+
+
+Does your MachinePlayer use any special method of choosing the first few moves?
+
+
+Is there anything else the graders should know to help them read your project?
+
+
+
+Describe the classes, modules, and interfaces you designed before and while you
+implemented the project.  Your description should include:
+  -  A list of the classes your program uses.
+  -  A list of each of the "modules" used in or by MachinePlayer, similar to
+     the list in the "Teamwork" section of the README (but hopefully more
+     detailed).
+  -  For each module, list the class(es) the module is implemented in.
+  -  For each module, say which of your team members implemented it.
+  -  For each module, describe its interface--specifically, the prototype and
+     behavior of each method that is available for external callers (outside
+     the module) to call.  Don't include methods that are only meant to be
+     called from within the module.
+
+     For each method, provide (1) a method prototype and (2) a complete,
+     unambiguous description of the behavior of the method/module.  This
+     description should also appear before the method in your code's comments.
+
+You will probably need to change some of your design decisions as you go; be
+sure to modify this file to reflect these changes before you submit your
+project.  Your design of classes and interfaces with be worth about 10% of your
+grade.
+
+
+CLASSES USED:
+	Player
+	MachinePlayer
+	Move
+  	GameBoard
+  	Chip
+    Best
+
+	
+MODULES:
+    Is Valid Move: (Zihao)
+    implemented in: GameBoard
+    /**
+    * isValidMove() determine whether Move m is a valid move by player "side" in the context of "this" GameBoard. 
+    * A legal move is defined in the project "readme" file.
+    * @param m is move that will be checked
+    * @param side is the color of the player (black or white) 
+    * @return true if m is a valid move in the context;
+    *         false otherwise.
+    */
+    public boolean isValidMove(Move m, int side)
+    
+
+    List All Valid Moves: (Myra)
+    implemented in: GameBoard
+    	/**
+    	 * listValidAddMoves() return an array of Move objects that represent all valid add moves for player "side" in the context of "this"
+    	 * GameBoard.
+    	 * @param side is MachinePlayer.COMPUTER or MachinePlayer.OPPONENT
+    	 * @return an array of all valid add moves for player "side" in the context of "this" GameBoard.
+    	 */
+    	public Move[] listValidAddMoves(int side)
+
+
+    	/**
+    	 * listValidStepMoves() return an array of Move objects that represent all valid step moves for player "side" in the context of "this"
+    	 * GameBoard.
+    	 * @param side is MachinePlayer.COMPUTER or MachinePlayer.OPPONENT
+    	 * @return an array of all valid step moves for player "side" in the context of "this" GameBoard.
+    	 */
+    	public Move[] listValidStepMoves(int side);
+
+
+
+    Find Connections () (Zihao)
+    implemented in: Chip
+        /**
+        * findConnection() return a list of chips that are connected to this chip.
+        * @return an array of chips that is connected to this chip.
+        */
+        public Chip[] findConnection()
+
+        /**
+         * numConnection() returns the number of connections this Chip has.
+         */
+        public int numConnection() 
+        
+
+
+    Network Identifier
+    implemented in: GameBoard
+        /**
+         * nwIdentify() determines whether there's a winning network for player "side".
+         * @param side is MachinePlayer.COMPUTER or MachinePlayer.OPPONENT
+         * @return true if there is a network for player "side"
+         *         false otherwise
+         */
+          public boolean nwIdentify(int side);
+
+
+
+    Evaluation Function (Myra) 
+    implemented in: GameBoard
+        /**
+         * evaluate() returns a score for "this" GameBoard, which indicates the winning chance for both players.
+         */    
+        public double evaluate();
+
+
+    Game Tree Search (Jade)
+    implemented in: MachinePlayer
+        /**
+         * chooseMove() returns the Move that yields that highest winning chance by "this" player
+	     * and internally records move and updates internal game board as move by "this"  
+         * an array of Move object, using game tree search and alpha beta pruning. 
+         * @param moves is the array of valid Moves to search from
+         * @return the Move object that yields the highest winning chance 
+         */
+    	public Move chooseMove(Move[] moves);

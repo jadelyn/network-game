@@ -1,0 +1,251 @@
+/* HashTableChained.java */
+
+
+package dict;
+import list.*;
+
+/**
+ *  HashTableChained implements a Dictionary as a hash table with chaining.
+ *  All objects used as keys must have a valid hashCode() method, which is
+ *  used to determine which bucket of the hash table an entry is stored in.
+ *  Each object's hashCode() is presumed to return an int between
+ *  Integer.MIN_VALUE and Integer.MAX_VALUE.  The HashTableChained class
+ *  implements only the compression function, which maps the hash code to
+ *  a bucket in the table's range.
+ *
+ *  DO NOT CHANGE ANY PROTOTYPES IN THIS FILE.
+ **/
+
+public class HashTableChained implements Dictionary {
+
+  List[] list;
+  private int size;
+  int arraysize; 
+
+
+
+  /** 
+   *  Construct a new empty hash table intended to hold roughly sizeEstimate
+   *  entries.  (The precise number of buckets is up to you, but we recommend
+   *  you use a prime number, and shoot for a load factor between 0.5 and 1.)
+   **/
+
+  public HashTableChained(int sizeEstimate) {
+    this.list = new List[primefinder((int)(sizeEstimate * 1.2))];
+    this.arraysize = primefinder((int)(sizeEstimate * 1.2));
+  }
+
+  public int primefinder(int number){
+    for (int i = number; i < number + 30; i++){
+      if (isprime(i)){
+        return i;
+      }
+    }
+    return number;
+  }
+
+  public boolean isprime(int number){
+    for (int i = 2; i * i <= number; i++){
+      if(number % i == 0){
+	  return false;
+      }
+    }
+    return true;
+  }
+
+  /** 
+   *  Construct a new empty hash table with a default size.  Say, a prime in
+   *  the neighborhood of 100.
+   **/
+
+  public HashTableChained() {
+    this.list = new List[101];
+    this.arraysize = 101;
+  }
+
+  /**
+   *  Converts a hash code in the range Integer.MIN_VALUE...Integer.MAX_VALUE
+   *  to a value in the range 0...(size of hash table) - 1.
+   *
+   *  This function should have package protection (so we can test it), and
+   *  should be used by insert, find, and remove.
+   **/
+
+  int compFunction(int code) {
+    // Replace the following line with your solution.
+      return mod(mod(10318* code + 75847, 100937), this.arraysize);
+  }
+    
+    /**
+     * return x mod y
+     * @param x is the number to be mod
+     * @param y is the divider(expected to be positive)
+     * @return the result of the mod operation.
+     */
+    private int mod(int x, int y){
+	if (x >= 0){
+	    return x % y;
+	}else{
+	    return x % y + y;
+	}
+    }
+
+  /** 
+   *  Returns the number of entries stored in the dictionary.  Entries with
+   *  the same key (or even the same key and value) each still count as
+   *  a separate entry.
+   *  @return number of entries in the dictionary.
+   **/
+
+  public int size() {
+    // Replace the following line with your solution.
+    return this.size;
+  }
+
+  /** 
+   *  Tests if the dictionary is empty.
+   *
+   *  @return true if the dictionary has no entries; false otherwise.
+   **/
+
+  public boolean isEmpty() {
+    // Replace the following line with your solution.
+      return this.size == 0;
+  }
+
+  /**
+   *  Create a new Entry object referencing the input key and associated value,
+   *  and insert the entry into the dictionary.  Return a reference to the new
+   *  entry.  Multiple entries with the same key (or even the same key and
+   *  value) can coexist in the dictionary.
+   *
+   *  This method should run in O(1) time if the number of collisions is small.
+   *
+   *  @param key the key by which the entry can be retrieved.
+   *  @param value an arbitrary object.
+   *  @return an entry containing the key and value.
+   **/
+
+  public Entry insert(Object key, Object value) {
+    // Replace the following line with your solution.
+      try{
+        int hash = key.hashCode();
+        int index = compFunction(hash);
+        if (list[index] == null){
+      	  list[index] = new SList();
+      	  list[index].insertFront(new DictEntry(key, value));
+        }else{
+  	      list[index].insertFront(new DictEntry(key, value));
+        }
+        this.size++;
+        return (Entry)list[index].front().item();
+      }catch (InvalidNodeException e1){
+        return new Entry();
+      }
+  }
+
+  /** 
+   *  Search for an entry with the specified key.  If such an entry is found,
+   *  return it; otherwise return null.  If several entries have the specified
+   *  key, choose one arbitrarily and return it.
+   *
+   *  This method should run in O(1) time if the number of collisions is small.
+   *
+   *  @param key the search key.
+   *  @return an entry containing the key and an associated value, or null if
+   *          no entry contains the specified key.
+   **/
+
+  public Entry find(Object key) {
+    // Replace the following line with your solution.
+    try{
+      int hash = key.hashCode();
+      int index = compFunction(hash);
+      if (list[index] != null){
+      ListNode curr = list[index].front();
+      while (curr.isValidNode()){
+    	  if (((Entry)curr.item()).key().equals(key)){
+    	      return (Entry)curr.item();
+    	  }
+    	  curr = curr.next();
+      }
+    }
+    return null;
+  }catch (InvalidNodeException e1){
+    return null;
+  }
+  }
+
+  /** 
+   *  Remove an entry with the specified key.  If such an entry is found,
+   *  remove it from the table and return it; otherwise return null.
+   *  If several entries have the specified key, choose one arbitrarily, then
+   *  remove and return it.
+   *
+   *  This method should run in O(1) time if the number of collisions is small.
+   *
+   *  @param key the search key.
+   *  @return an entry containing the key and an associated value, or null if
+   *          no entry contains the specified key.
+   */
+
+  public Entry remove(Object key) {
+    // Replace the following line with your solution.
+      try{   
+        int hash = key.hashCode();
+        int index = compFunction(hash);
+        if (list[index] != null){
+          ListNode curr = list[index].front();
+          while (curr.isValidNode()){
+	      if (((Entry)curr.item()).key().equals(key)){
+		  Entry et = (Entry)curr.item();
+		  curr.remove();
+		  this.size--;
+		  return et;
+      	  }
+    	      curr = curr.next();
+          }
+        }
+        return null;
+      }catch (InvalidNodeException e1){
+        return new Entry();
+      }
+  }
+
+  /**
+   *  Remove all entries from the dictionary.
+   */
+  public void makeEmpty() {
+      for (int i = 0; i < this.arraysize; i++){
+	  list[i] = null;
+      }
+  }
+
+  public static void main(String[] args){
+      HashTableChained test = new HashTableChained(10000);
+      System.out.println(test.arraysize);
+      System.out.println(test.size());
+      test.insert("Gerald", "cool");
+      System.out.println(test.find("Gerald"));
+      System.out.println(test.size());
+      System.out.println(test.insert("jrs","Awesome"));
+      System.out.println(test.size());
+      System.out.println(test.find("jrs"));
+      System.out.println(test.remove("jrs"));
+      
+  }
+
+}
+
+
+
+class DictEntry extends Entry{
+  public DictEntry(Object key, Object value){
+    this.key = key;
+    this.value = value;
+  }
+
+    public String toString(){
+	return key + "," + value;
+    }
+}
